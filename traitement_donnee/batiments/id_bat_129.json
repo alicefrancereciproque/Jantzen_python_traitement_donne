@@ -1,0 +1,45 @@
+{
+  "id_bat": 129,
+  "libelle": "Pont du Carrousel",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": null,
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": null,
+  "arrondissement": 6,
+  "coordonnees": {
+    "latitude": "48.859392",
+    "longitude": "2.332922"
+  },
+  "id_pss": 23759,
+  "id_wikidata": "Q589000",
+  "WPfr": "Pont du Carrousel",
+  "image_ref": "Carrousel_Pont_6_§1",
+  "terme_jantzen_bat": [
+    "sculpture",
+    "pont"
+  ],
+  "photos": [
+    {
+      "id_pic": "Carrousel_Pont_6_§1",
+      "IndexJantzen": [
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "Carrousel_Pont_6_§2",
+      "IndexJantzen": [
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "La-Seine_§66",
+      "IndexJantzen": [
+        "pont",
+        "sculpture"
+      ]
+    }
+  ]
+}

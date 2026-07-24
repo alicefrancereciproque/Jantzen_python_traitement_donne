@@ -1,0 +1,75 @@
+{
+  "id_bat": 2232,
+  "libelle": "32 rue Vergniaud",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 384,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1913",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "32 rue Vergniaud",
+    "numero": "32",
+    "voie": "rue Vergniaud"
+  },
+  "arrondissement": 13,
+  "coordonnees": {
+    "latitude": "48.828073",
+    "longitude": "2.345544"
+  },
+  "id_pss": 98341,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Vergniaud-32_13_§1",
+  "terme_jantzen_bat": [
+    "fenetre-d'angle",
+    "sculpture",
+    "pignon",
+    "toiture",
+    "lucarne",
+    "façade-d'angle",
+    "console"
+  ],
+  "photos": [
+    {
+      "id_pic": "Vergniaud-32_13_§1",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ]
+    },
+    {
+      "id_pic": "Vergniaud-32_13_§2",
+      "IndexJantzen": [
+        "fenetre-d'angle",
+        "pignon"
+      ]
+    },
+    {
+      "id_pic": "Vergniaud-32_13_§3",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "Vergniaud-32_13_§4",
+      "IndexJantzen": [
+        "lucarne",
+        "toiture"
+      ]
+    },
+    {
+      "id_pic": "Vergniaud-32_13_§5",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ]
+    }
+  ]
+}

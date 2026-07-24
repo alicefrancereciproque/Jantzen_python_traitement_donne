@@ -1,0 +1,134 @@
+{
+  "id_bat": 3521,
+  "libelle": "75t avenue de Wagram",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 174,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1912",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "75t avenue de Wagram",
+    "numero": "75t",
+    "voie": "avenue de Wagram"
+  },
+  "arrondissement": 17,
+  "coordonnees": {
+    "latitude": "48.879655",
+    "longitude": "2.29907"
+  },
+  "id_pss": null,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Wagram-75t_17_§11",
+  "terme_jantzen_bat": [
+    "fenetre-d'angle",
+    "décor",
+    "oeil-de-boeuf",
+    "colonne",
+    "façade",
+    "sculpture",
+    "fenetre",
+    "lucarne",
+    "dome",
+    "façade-d'angle",
+    "lucarne-d'angle",
+    "porte-fer"
+  ],
+  "photos": [
+    {
+      "id_pic": "Wagram-75t_17_§11",
+      "IndexJantzen": [
+        "dome",
+        "façade-d'angle"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§12",
+      "IndexJantzen": [
+        "colonne",
+        "dome",
+        "fenetre-d'angle"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§13",
+      "IndexJantzen": [
+        "dome",
+        "lucarne-d'angle",
+        "oeil-de-boeuf"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§14",
+      "IndexJantzen": [
+        "façade"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§15",
+      "IndexJantzen": [
+        "façade"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§16",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§17",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§18",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§19",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§20",
+      "IndexJantzen": [
+        "fenetre",
+        "porte-fer"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§3",
+      "IndexJantzen": [
+        "dome",
+        "façade-d'angle"
+      ]
+    },
+    {
+      "id_pic": "Wagram-75t_17_§7",
+      "IndexJantzen": [
+        "dome",
+        "façade-d'angle"
+      ]
+    }
+  ]
+}
