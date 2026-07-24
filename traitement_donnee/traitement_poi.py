@@ -68,6 +68,9 @@ def generer_geojson_leaflet(
                     if bat.get("arrondissement")
                     else None
                 ),
+                "dateConstruction": bat.get("dateConstruction") or "",
+                "periode": bat.get("periode") or "",
+                "personneID": bat.get("personnes", [{}])[0].get("personneID") if bat.get("personnes") else "",
                 "image_ref": bat.get("image_ref"),
                 "terme_jantzen_bat": termes_jantzen,
             },
