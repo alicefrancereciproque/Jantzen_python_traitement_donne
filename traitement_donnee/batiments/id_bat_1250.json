@@ -27,23 +27,25 @@
   "WPfr": null,
   "image_ref": "Convention-170_15_§1",
   "terme_jantzen_bat": [
+    "console",
     "sculpture",
-    "porte-fer-hall",
-    "console"
+    "porte-fer-hall"
   ],
   "photos": [
     {
       "id_pic": "Convention-170_15_§1",
       "IndexJantzen": [
         "porte-fer-hall"
-      ]
+      ],
+      "dateCapture": "2004:03:16"
     },
     {
       "id_pic": "Convention-170_15_§2",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:03:16"
     }
   ]
 }

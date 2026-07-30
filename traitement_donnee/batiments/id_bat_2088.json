@@ -22,18 +22,19 @@
   "WPfr": null,
   "image_ref": "Ecoles-3_5_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
     "façade",
+    "garde-corps",
+    "décor",
     "fenetre",
-    "garde-corps"
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "Ecoles-3_5_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2003:08:07"
     },
     {
       "id_pic": "Ecoles-3_5_§2",
@@ -41,7 +42,8 @@
         "décor",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2003:08:07"
     },
     {
       "id_pic": "Ecoles-3_5_§3",
@@ -49,14 +51,16 @@
         "fenetre",
         "garde-corps",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2003:08:07"
     },
     {
       "id_pic": "Ecoles-3_5_§4",
       "IndexJantzen": [
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2003:08:07"
     }
   ]
 }

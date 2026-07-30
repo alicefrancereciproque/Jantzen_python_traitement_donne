@@ -18,8 +18,8 @@
   "WPfr": "Salle du Manège (Louvre)",
   "image_ref": "Louvre-1-In",
   "terme_jantzen_bat": [
-    "intérieur",
-    "colonne"
+    "colonne",
+    "intérieur"
   ],
   "photos": [
     {
@@ -27,7 +27,8 @@
       "IndexJantzen": [
         "colonne",
         "intérieur"
-      ]
+      ],
+      "dateCapture": null
     }
   ]
 }

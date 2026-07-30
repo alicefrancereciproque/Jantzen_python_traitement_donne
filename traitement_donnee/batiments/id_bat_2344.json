@@ -27,38 +27,42 @@
   "WPfr": null,
   "image_ref": "St-Placide-36_6_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "façade",
     "porte-bois",
-    "balcon",
-    "garde-corps"
+    "façade",
+    "garde-corps",
+    "clé",
+    "balcon"
   ],
   "photos": [
     {
       "id_pic": "St-Placide-36_6_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:04:17"
     },
     {
       "id_pic": "St-Placide-36_6_§2",
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2005:04:17"
     },
     {
       "id_pic": "St-Placide-36_6_§3",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:04:17"
     },
     {
       "id_pic": "St-Placide-36_6_§4",
       "IndexJantzen": [
         "clé",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:04:17"
     }
   ]
 }

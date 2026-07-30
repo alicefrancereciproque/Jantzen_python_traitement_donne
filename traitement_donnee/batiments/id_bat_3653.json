@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Parrot-8_12_§1",
   "terme_jantzen_bat": [
-    "clé",
     "porte-fer",
-    "chimère"
+    "chimère",
+    "clé"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "chimère",
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2005:10:10"
     }
   ]
 }

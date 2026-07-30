@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Jouffroy-d'Abbans-50_17_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "lucarne",
-    "brique",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "brique",
         "fenetre",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2009:11:09"
     }
   ]
 }

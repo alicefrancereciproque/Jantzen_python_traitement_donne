@@ -24,9 +24,9 @@
   "terme_jantzen_bat": [
     "intérieur",
     "oeil-de-boeuf",
-    "lucarne",
+    "porte-fer",
     "dome",
-    "porte-fer"
+    "lucarne"
   ],
   "photos": [
     {
@@ -35,20 +35,23 @@
         "dome",
         "lucarne",
         "oeil-de-boeuf"
-      ]
+      ],
+      "dateCapture": "2008:03:27"
     },
     {
       "id_pic": "Niel-9_17_§2",
       "IndexJantzen": [
         "intérieur",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": null
     },
     {
       "id_pic": "Niel-9_17_§3",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": null
     }
   ]
 }

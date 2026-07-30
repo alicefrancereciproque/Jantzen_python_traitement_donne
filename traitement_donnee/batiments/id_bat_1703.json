@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Sextius-Michel-22_15_§1",
   "terme_jantzen_bat": [
-    "porte-bois",
     "mosaique",
+    "porte-bois",
     "brique"
   ],
   "photos": [
@@ -38,14 +38,16 @@
         "brique",
         "mosaique",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2004:09:07"
     },
     {
       "id_pic": "Sextius-Michel-22_15_§2",
       "IndexJantzen": [
         "brique",
         "mosaique"
-      ]
+      ],
+      "dateCapture": "2005:09:03"
     }
   ]
 }

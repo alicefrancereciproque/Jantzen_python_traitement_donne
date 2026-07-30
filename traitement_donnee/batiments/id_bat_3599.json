@@ -22,10 +22,10 @@
   "WPfr": null,
   "image_ref": "Adolphe_Focillon-8_14_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
-    "façade",
     "porte-fer-hall",
+    "façade",
+    "décor",
+    "sculpture",
     "balcon"
   ],
   "photos": [
@@ -33,7 +33,8 @@
       "id_pic": "Adolphe_Focillon-8_14_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:04:15"
     },
     {
       "id_pic": "Adolphe_Focillon-8_14_§2",
@@ -41,13 +42,15 @@
         "balcon",
         "décor",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:04:15"
     },
     {
       "id_pic": "Adolphe_Focillon-8_14_§3b",
       "IndexJantzen": [
         "porte-fer-hall"
-      ]
+      ],
+      "dateCapture": "2004:04:15"
     }
   ]
 }

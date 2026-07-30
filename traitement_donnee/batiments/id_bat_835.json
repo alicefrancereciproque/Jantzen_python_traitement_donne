@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Villiers-134_17_§1",
   "terme_jantzen_bat": [
-    "brique",
+    "fenetre",
     "pignon",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "brique",
         "fenetre",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2004:10:01"
     }
   ]
 }

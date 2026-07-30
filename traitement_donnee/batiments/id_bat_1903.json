@@ -27,10 +27,10 @@
   "WPfr": null,
   "image_ref": "Francois-1er-26_8_§1-19",
   "terme_jantzen_bat": [
-    "clé",
     "porte-fer",
+    "console",
     "sculpture",
-    "console"
+    "clé"
   ],
   "photos": [
     {
@@ -38,20 +38,23 @@
       "IndexJantzen": [
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2005:08:04"
     },
     {
       "id_pic": "Francois-1er-26_8_§2",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": null
     },
     {
       "id_pic": "Francois-1er-26_8_§3",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": null
     }
   ]
 }

@@ -27,10 +27,10 @@
   "WPfr": null,
   "image_ref": "Ferdinand-Fabre-3_15_§1",
   "terme_jantzen_bat": [
+    "céramique",
     "décor",
     "façade",
-    "brique",
-    "céramique"
+    "brique"
   ],
   "photos": [
     {
@@ -40,7 +40,8 @@
         "céramique",
         "décor",
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:07:13"
     }
   ]
 }

@@ -22,14 +22,14 @@
   "WPfr": null,
   "image_ref": "Batignolles-bd-45_8_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
-    "colonne",
+    "porte-bois",
     "façade",
-    "brique",
+    "colonne",
     "porte",
+    "décor",
     "fenetre",
-    "porte-bois"
+    "sculpture",
+    "brique"
   ],
   "photos": [
     {
@@ -37,13 +37,15 @@
       "IndexJantzen": [
         "façade",
         "porte"
-      ]
+      ],
+      "dateCapture": "2010:04:11"
     },
     {
       "id_pic": "Batignolles-bd-45_8_§2",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2010:03:15"
     },
     {
       "id_pic": "Batignolles-bd-45_8_§3",
@@ -52,20 +54,23 @@
         "décor",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2010:03:15"
     },
     {
       "id_pic": "Batignolles-bd-45_8_§4",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2010:04:11"
     },
     {
       "id_pic": "Batignolles-bd-45_8_§5",
       "IndexJantzen": [
         "colonne",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2010:04:11"
     }
   ]
 }

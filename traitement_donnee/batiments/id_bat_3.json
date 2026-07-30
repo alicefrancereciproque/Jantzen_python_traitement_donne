@@ -18,9 +18,9 @@
   "WPfr": "Cour d'honneur de l'hôtel des Invalides",
   "image_ref": "Invalides-HNO-Cv_§1",
   "terme_jantzen_bat": [
-    "toiture",
     "sculpture",
-    "lucarne-d'angle"
+    "lucarne-d'angle",
+    "toiture"
   ],
   "photos": [
     {
@@ -28,19 +28,22 @@
       "IndexJantzen": [
         "lucarne-d'angle",
         "toiture"
-      ]
+      ],
+      "dateCapture": "2010:04:01"
     },
     {
       "id_pic": "Invalides-HNO-Cv_§2",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:08:04"
     },
     {
       "id_pic": "Invalides-HNO-Cv_§3",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:08:04"
     }
   ]
 }

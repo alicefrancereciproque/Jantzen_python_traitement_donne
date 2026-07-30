@@ -27,12 +27,12 @@
   "WPfr": null,
   "image_ref": "Raspail-17_7_§1",
   "terme_jantzen_bat": [
-    "fenetre-d'angle",
-    "colonne",
-    "pignon",
     "porte-fer-hall",
-    "lucarne",
-    "façade-d'angle"
+    "façade-d'angle",
+    "colonne",
+    "fenetre-d'angle",
+    "pignon",
+    "lucarne"
   ],
   "photos": [
     {
@@ -40,14 +40,16 @@
       "IndexJantzen": [
         "façade-d'angle",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2007:04:02"
     },
     {
       "id_pic": "Raspail-17_7_§2",
       "IndexJantzen": [
         "fenetre-d'angle",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2007:04:02"
     },
     {
       "id_pic": "Raspail-17_7_§3",
@@ -55,21 +57,24 @@
         "fenetre-d'angle",
         "lucarne",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2007:04:02"
     },
     {
       "id_pic": "Raspail-17_7_§4",
       "IndexJantzen": [
         "fenetre-d'angle",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2007:04:02"
     },
     {
       "id_pic": "Raspail-17_7_§5",
       "IndexJantzen": [
         "colonne",
         "porte-fer-hall"
-      ]
+      ],
+      "dateCapture": "2006:06:11"
     }
   ]
 }

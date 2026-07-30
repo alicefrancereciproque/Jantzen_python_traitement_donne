@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Jobbe-Duval-19_15_§1",
   "terme_jantzen_bat": [
-    "brique",
-    "façade-d'angle"
+    "façade-d'angle",
+    "brique"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "brique",
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2004:07:13"
     }
   ]
 }

@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Pereire-55b_17_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "porte-fer",
-    "mosaique",
-    "fenetre"
+    "mosaique"
   ],
   "photos": [
     {
@@ -37,14 +37,16 @@
       "IndexJantzen": [
         "fenetre",
         "mosaique"
-      ]
+      ],
+      "dateCapture": "2004:04:16"
     },
     {
       "id_pic": "Pereire-55b_17_§2",
       "IndexJantzen": [
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2007:06:02"
     }
   ]
 }

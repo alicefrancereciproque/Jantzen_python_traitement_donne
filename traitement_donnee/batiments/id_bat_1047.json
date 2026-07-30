@@ -27,34 +27,38 @@
   "WPfr": null,
   "image_ref": "Montorgueil-15_1_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "porte-bois",
-    "façade",
-    "fenetre"
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Montorgueil-15_1_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:08:31"
     },
     {
       "id_pic": "Montorgueil-15_1_§2",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2004:08:31"
     },
     {
       "id_pic": "Montorgueil-15_2_§1",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2012:05:25"
     },
     {
       "id_pic": "Montorgueil-15_2_2_DxO",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2012:05:25"
     }
   ]
 }

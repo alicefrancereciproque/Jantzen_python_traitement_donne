@@ -27,17 +27,18 @@
   "WPfr": null,
   "image_ref": "Kleber-93_16_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "sculpture",
     "mosaique",
-    "façade",
-    "fenetre"
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Kleber-93_16_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:03:16"
     },
     {
       "id_pic": "Kleber-93_16_§2",
@@ -45,7 +46,8 @@
         "fenetre",
         "mosaique",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:03:16"
     }
   ]
 }

@@ -46,6 +46,7 @@ def convertir_donnees(
         photo_formatee = {
             "id_pic": nom_fichier_clean,
             "IndexJantzen": index_jantzen,
+            "dateCapture": photo.get("dateCapture"),
         }
 
         if bat_id not in photos_par_batiment:

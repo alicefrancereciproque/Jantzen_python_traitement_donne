@@ -27,19 +27,20 @@
   "WPfr": null,
   "image_ref": "Courcelles-67_8_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
-    "façade",
     "fronton",
+    "porte-bois",
+    "façade",
+    "décor",
     "fenetre",
-    "porte-bois"
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "Courcelles-67_8_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2010:05:24"
     },
     {
       "id_pic": "Courcelles-67_8_§2",
@@ -47,28 +48,32 @@
         "décor",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2010:05:24"
     },
     {
       "id_pic": "Courcelles-67_8_§3",
       "IndexJantzen": [
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2010:05:24"
     },
     {
       "id_pic": "Courcelles-67_8_§4",
       "IndexJantzen": [
         "fronton",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2010:05:24"
     },
     {
       "id_pic": "Courcelles-67_8_§5",
       "IndexJantzen": [
         "fronton",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2010:05:24"
     }
   ]
 }

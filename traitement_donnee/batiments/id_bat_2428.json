@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "St-Sabin-39_11_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "décor",
-    "balcon",
-    "fenetre"
+    "balcon"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "balcon",
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:09:08"
     }
   ]
 }

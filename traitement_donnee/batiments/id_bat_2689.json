@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Gros_44-16-§1",
   "terme_jantzen_bat": [
-    "brique",
-    "lucarne-d'angle"
+    "lucarne-d'angle",
+    "brique"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "brique",
         "lucarne-d'angle"
-      ]
+      ],
+      "dateCapture": "2006:07:01"
     }
   ]
 }

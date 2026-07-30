@@ -27,10 +27,10 @@
   "WPfr": null,
   "image_ref": "Lota-8_16_§1",
   "terme_jantzen_bat": [
-    "décor",
     "fenetre",
-    "brique",
-    "céramique"
+    "céramique",
+    "décor",
+    "brique"
   ],
   "photos": [
     {
@@ -40,7 +40,8 @@
         "céramique",
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:06:07"
     }
   ]
 }

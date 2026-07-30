@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Bourgogne-25_7_§1",
   "terme_jantzen_bat": [
-    "porte-bois",
-    "fronton"
+    "fronton",
+    "porte-bois"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "fronton",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     }
   ]
 }

@@ -22,30 +22,33 @@
   "WPfr": null,
   "image_ref": "Niel-63_17_§1",
   "terme_jantzen_bat": [
-    "intérieur",
     "porte-fer",
+    "lucarne-d'angle",
     "porte-fer-hall",
-    "lucarne-d'angle"
+    "intérieur"
   ],
   "photos": [
     {
       "id_pic": "Niel-63_17_§1",
       "IndexJantzen": [
         "lucarne-d'angle"
-      ]
+      ],
+      "dateCapture": "2009:07:13"
     },
     {
       "id_pic": "Niel-63_17_§2",
       "IndexJantzen": [
         "porte-fer-hall"
-      ]
+      ],
+      "dateCapture": "2005:03:17"
     },
     {
       "id_pic": "Niel-63_17_§3",
       "IndexJantzen": [
         "intérieur",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": null
     }
   ]
 }

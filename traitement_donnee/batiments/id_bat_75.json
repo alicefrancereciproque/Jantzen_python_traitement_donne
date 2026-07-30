@@ -27,51 +27,57 @@
   "WPfr": "Église Saint-Vincent-de-Paul de Paris",
   "image_ref": "Franz-Liszt-pl_10_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "clé",
-    "colonne",
     "façade",
-    "porte-fer"
+    "colonne",
+    "clé",
+    "porte-fer",
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "Franz-Liszt-pl_10_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2008:02:18"
     },
     {
       "id_pic": "Franz-Liszt-pl_10_§2-Rs",
       "IndexJantzen": [
         "colonne",
         "façade"
-      ]
+      ],
+      "dateCapture": "2008:02:18"
     },
     {
       "id_pic": "Franz-Liszt-pl_10_§3-Rs",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2008:02:18"
     },
     {
       "id_pic": "Franz-Liszt-pl_10_§4",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2008:02:18"
     },
     {
       "id_pic": "Franz-Liszt-pl_10_§5",
       "IndexJantzen": [
         "porte-fer",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:02:18"
     },
     {
       "id_pic": "Franz-Liszt-pl_10_§6",
       "IndexJantzen": [
         "clé",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:02:18"
     }
   ]
 }

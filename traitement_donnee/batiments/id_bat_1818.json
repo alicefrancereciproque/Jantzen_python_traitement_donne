@@ -27,11 +27,11 @@
   "WPfr": null,
   "image_ref": "St-Marc-24_2_§1",
   "terme_jantzen_bat": [
-    "métal",
     "colonne",
     "verrière",
-    "fenetre",
-    "porte-fer"
+    "porte-fer",
+    "métal",
+    "fenetre"
   ],
   "photos": [
     {
@@ -40,7 +40,8 @@
         "fenetre",
         "métal",
         "verrière"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "St-Marc-24_2_§2",
@@ -49,13 +50,15 @@
         "fenetre",
         "métal",
         "verrière"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "St-Marc-24_2_§3",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     }
   ]
 }

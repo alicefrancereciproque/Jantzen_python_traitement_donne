@@ -27,11 +27,11 @@
   "WPfr": null,
   "image_ref": "Caulaincourt-115_18_§1",
   "terme_jantzen_bat": [
-    "sculpture",
+    "loggia",
     "colonne",
-    "lucarne",
     "console",
-    "loggia"
+    "sculpture",
+    "lucarne"
   ],
   "photos": [
     {
@@ -40,20 +40,23 @@
         "colonne",
         "loggia",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:04:08"
     },
     {
       "id_pic": "Caulaincourt-115_18_§2",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:04:08"
     },
     {
       "id_pic": "Caulaincourt-115_18_§3",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2006:04:08"
     }
   ]
 }

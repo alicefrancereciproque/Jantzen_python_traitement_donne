@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "General-Delestraint-3_16_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "garde-corps",
-    "mosaique",
-    "fenetre"
+    "mosaique"
   ],
   "photos": [
     {
@@ -37,7 +37,8 @@
       "IndexJantzen": [
         "fenetre",
         "mosaique"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     },
     {
       "id_pic": "General-Delestraint-3_16_§2",
@@ -45,7 +46,8 @@
         "fenetre",
         "garde-corps",
         "mosaique"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     }
   ]
 }

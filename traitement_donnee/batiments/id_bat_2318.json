@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Vaugirard-358_15_§1-zFF",
   "terme_jantzen_bat": [
-    "lucarne",
-    "fenetre"
+    "fenetre",
+    "lucarne"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "fenetre",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2004:04:24"
     }
   ]
 }

@@ -22,12 +22,12 @@
   "WPfr": null,
   "image_ref": "Jouffroy-d'Abbans-94_17_§1",
   "terme_jantzen_bat": [
-    "sculpture",
+    "porte-bois",
+    "garde-corps",
     "décor",
     "fenetre",
-    "porte-bois",
-    "balcon",
-    "garde-corps"
+    "sculpture",
+    "balcon"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
         "décor",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:06:27"
     },
     {
       "id_pic": "Jouffroy-d'Abbans-94_17_§2",
@@ -46,19 +47,22 @@
         "fenetre",
         "garde-corps",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:06:27"
     },
     {
       "id_pic": "Jouffroy-d'Abbans-94_17_§3",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:06:27"
     },
     {
       "id_pic": "Jouffroy-d'Abbans-94_17_§4",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2004:06:28"
     }
   ]
 }

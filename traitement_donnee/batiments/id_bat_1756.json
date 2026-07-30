@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Montbrun-23_14_§1",
   "terme_jantzen_bat": [
-    "balcon",
-    "fenetre"
+    "fenetre",
+    "balcon"
   ],
   "photos": [
     {
@@ -36,13 +36,15 @@
       "IndexJantzen": [
         "balcon",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:08:07"
     },
     {
       "id_pic": "Montbrun-23_14_§2",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:08:07"
     }
   ]
 }

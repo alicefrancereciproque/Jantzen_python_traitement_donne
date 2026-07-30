@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Exelmans-105_16_§1",
   "terme_jantzen_bat": [
-    "toiture",
+    "fenetre",
     "lucarne",
-    "fenetre"
+    "toiture"
   ],
   "photos": [
     {
@@ -37,7 +37,8 @@
       "IndexJantzen": [
         "fenetre",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:04:03"
     },
     {
       "id_pic": "Exelmans-105_16_§2",
@@ -45,13 +46,15 @@
         "fenetre",
         "lucarne",
         "toiture"
-      ]
+      ],
+      "dateCapture": "2006:04:03"
     },
     {
       "id_pic": "Exelmans-105_16_§3",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:04:03"
     }
   ]
 }

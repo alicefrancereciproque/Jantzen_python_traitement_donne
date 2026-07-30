@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Montgallet-37_12_§1",
   "terme_jantzen_bat": [
-    "oriel",
     "métal",
+    "oriel",
     "brique"
   ],
   "photos": [
@@ -33,7 +33,8 @@
         "brique",
         "métal",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2005:07:13"
     },
     {
       "id_pic": "Montgallet-37_12_§2",
@@ -41,7 +42,8 @@
         "brique",
         "métal",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2005:07:13"
     }
   ]
 }

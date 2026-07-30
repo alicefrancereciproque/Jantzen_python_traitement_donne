@@ -22,10 +22,10 @@
   "WPfr": null,
   "image_ref": "Carpeaux-12_18_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "lucarne",
     "façade",
-    "brique",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -33,28 +33,32 @@
       "IndexJantzen": [
         "brique",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2006:07:10"
     },
     {
       "id_pic": "Carpeaux-12_18_§2",
       "IndexJantzen": [
         "brique",
         "façade"
-      ]
+      ],
+      "dateCapture": "2006:07:10"
     },
     {
       "id_pic": "Carpeaux-12_18_§3",
       "IndexJantzen": [
         "brique",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:07:10"
     },
     {
       "id_pic": "Carpeaux-12_18_§4",
       "IndexJantzen": [
         "brique",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:07:10"
     }
   ]
 }

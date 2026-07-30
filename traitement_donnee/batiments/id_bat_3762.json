@@ -29,29 +29,32 @@
   "terme_jantzen_bat": [
     "porte",
     "balcon",
-    "façade",
-    "garde-corps"
+    "garde-corps",
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Cherche-Midi-89_6_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2006:05:14"
     },
     {
       "id_pic": "Cherche-Midi-89_6_§2",
       "IndexJantzen": [
         "façade",
         "porte"
-      ]
+      ],
+      "dateCapture": "2006:05:14"
     },
     {
       "id_pic": "Cherche-Midi-89_6_§3",
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2006:05:14"
     }
   ]
 }

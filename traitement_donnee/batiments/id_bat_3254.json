@@ -27,10 +27,10 @@
   "WPfr": null,
   "image_ref": "Amiral-Roussin-63-65_15_§1",
   "terme_jantzen_bat": [
+    "pignon",
     "lucarne",
     "façade",
-    "brique",
-    "pignon"
+    "brique"
   ],
   "photos": [
     {
@@ -38,21 +38,24 @@
       "IndexJantzen": [
         "brique",
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:09:03"
     },
     {
       "id_pic": "Amiral-Roussin-63-65_15_§2",
       "IndexJantzen": [
         "brique",
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:09:03"
     },
     {
       "id_pic": "Amiral-Roussin-63-65_15_§3",
       "IndexJantzen": [
         "lucarne",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2005:09:03"
     }
   ]
 }

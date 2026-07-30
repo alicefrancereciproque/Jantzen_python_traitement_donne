@@ -18,11 +18,11 @@
   "WPfr": "Cour d'honneur de l'hôtel des Invalides",
   "image_ref": "Invalides_HFO_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "oeil-de-boeuf",
-    "façade",
     "fronton",
-    "panoramique"
+    "façade",
+    "panoramique",
+    "oeil-de-boeuf",
+    "sculpture"
   ],
   "photos": [
     {
@@ -30,7 +30,8 @@
       "IndexJantzen": [
         "façade",
         "panoramique"
-      ]
+      ],
+      "dateCapture": "2006:07:17"
     },
     {
       "id_pic": "Invalides_HFO_§2",
@@ -38,27 +39,31 @@
         "fronton",
         "oeil-de-boeuf",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides_HFO_§3",
       "IndexJantzen": [
         "fronton",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides_HFO_§4",
       "IndexJantzen": [
         "fronton",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides_HFO_§5",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:08:04"
     }
   ]
 }

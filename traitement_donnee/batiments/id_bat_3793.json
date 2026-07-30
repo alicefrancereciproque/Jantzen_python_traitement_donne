@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Chalgrin-9_16_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "porte-fer",
-    "garde-corps",
-    "fenetre"
+    "garde-corps"
   ],
   "photos": [
     {
@@ -37,13 +37,15 @@
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2004:10:25"
     },
     {
       "id_pic": "Chalgrin-9_16_§2",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:10:26"
     }
   ]
 }

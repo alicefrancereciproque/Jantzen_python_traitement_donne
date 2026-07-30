@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Reuilly-19_12_§1",
   "terme_jantzen_bat": [
-    "porte-fer",
-    "fenetre"
+    "fenetre",
+    "porte-fer"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:09:16"
     }
   ]
 }

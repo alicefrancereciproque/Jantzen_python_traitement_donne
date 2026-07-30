@@ -29,8 +29,8 @@
   "terme_jantzen_bat": [
     "fenetre",
     "porte-fer",
-    "brique",
-    "céramique"
+    "céramique",
+    "brique"
   ],
   "photos": [
     {
@@ -40,7 +40,8 @@
         "céramique",
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2010:05:23"
     }
   ]
 }

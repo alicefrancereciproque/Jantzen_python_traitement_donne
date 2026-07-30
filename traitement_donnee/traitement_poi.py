@@ -63,6 +63,10 @@ def generer_geojson_leaflet(
                 "id_bat": id_bat,
                 "libelle": bat.get("libelle") or "",
                 "ensemble": bat.get("ensemble") or "",
+                "adresse": {
+                    "numero": (bat.get("adresse") or {}).get("numero"),
+                    "voie": (bat.get("adresse") or {}).get("voie")
+                },
                 "arrondissement": (
                     int(bat.get("arrondissement"))
                     if bat.get("arrondissement")
@@ -70,7 +74,8 @@ def generer_geojson_leaflet(
                 ),
                 "dateConstruction": bat.get("dateConstruction") or "",
                 "periode": bat.get("periode") or "",
-                "personneID": bat.get("personnes", [{}])[0].get("personneID") if bat.get("personnes") else "",
+                "personneID": (bat.get("personnes") or [{}])[0].get("personneID") or 1,
+                "role": (bat.get("personnes") or [{}])[0].get("role") or "",
                 "image_ref": bat.get("image_ref"),
                 "terme_jantzen_bat": termes_jantzen,
             },

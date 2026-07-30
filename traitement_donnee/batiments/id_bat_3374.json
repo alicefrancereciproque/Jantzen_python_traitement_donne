@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Alfred-de-Vigny-7_8_§1",
   "terme_jantzen_bat": [
-    "garde-corps",
-    "fenetre"
+    "fenetre",
+    "garde-corps"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2008:04:17"
     }
   ]
 }

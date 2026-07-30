@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Francois-Miron-44_4_§1",
   "terme_jantzen_bat": [
-    "lucarne",
-    "fenetre"
+    "fenetre",
+    "lucarne"
   ],
   "photos": [
     {
@@ -31,19 +31,22 @@
       "IndexJantzen": [
         "fenetre",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2010:06:05"
     },
     {
       "id_pic": "Francois-Miron-44_4_§2",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2010:06:05"
     },
     {
       "id_pic": "Francois-Miron-44_4_§3",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2010:06:05"
     }
   ]
 }

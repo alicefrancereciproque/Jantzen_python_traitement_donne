@@ -22,10 +22,10 @@
   "WPfr": null,
   "image_ref": "Valette-4_5_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "porte",
     "façade",
-    "brique",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -35,7 +35,8 @@
         "façade",
         "fenetre",
         "porte"
-      ]
+      ],
+      "dateCapture": "2005:05:27"
     }
   ]
 }

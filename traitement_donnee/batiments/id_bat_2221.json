@@ -27,11 +27,11 @@
   "WPfr": null,
   "image_ref": "Bergers-32_15_§1",
   "terme_jantzen_bat": [
-    "décor",
     "façade",
-    "brique",
+    "céramique",
+    "décor",
     "fenetre",
-    "céramique"
+    "brique"
   ],
   "photos": [
     {
@@ -39,7 +39,8 @@
       "IndexJantzen": [
         "brique",
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:04:21"
     },
     {
       "id_pic": "Bergers-32_15_§2",
@@ -48,7 +49,8 @@
         "céramique",
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:04:21"
     }
   ]
 }

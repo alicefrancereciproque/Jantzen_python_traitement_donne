@@ -28,51 +28,57 @@
   "WPfr": null,
   "image_ref": "Prony-29-31_17_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "façade",
-    "lucarne",
     "fenetre",
     "porte-bois",
-    "porte-fer"
+    "façade",
+    "porte-fer",
+    "sculpture",
+    "lucarne"
   ],
   "photos": [
     {
       "id_pic": "Prony-29-31_17_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2008:05:25"
     },
     {
       "id_pic": "Prony-29-31_17_§1b",
       "IndexJantzen": [
         "porte-bois",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": null
     },
     {
       "id_pic": "Prony-29-31_17_§2",
       "IndexJantzen": [
         "fenetre",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2008:05:25"
     },
     {
       "id_pic": "Prony-29-31_17_§3",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2008:05:25"
     },
     {
       "id_pic": "Prony-29-31_17_§4",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2008:05:25"
     },
     {
       "id_pic": "Prony-29-31_17_§5",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:05:25"
     }
   ]
 }

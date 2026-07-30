@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Argonne-8b_19_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "décor",
-    "brique",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -37,7 +37,8 @@
       "IndexJantzen": [
         "brique",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:09:07"
     },
     {
       "id_pic": "Argonne-8b_19_§2",
@@ -45,7 +46,8 @@
         "brique",
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:09:07"
     }
   ]
 }

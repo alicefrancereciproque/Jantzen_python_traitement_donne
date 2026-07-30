@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Tourville-17_7_",
   "terme_jantzen_bat": [
-    "sculpture",
-    "console"
+    "console",
+    "sculpture"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2006:06:02"
     }
   ]
 }

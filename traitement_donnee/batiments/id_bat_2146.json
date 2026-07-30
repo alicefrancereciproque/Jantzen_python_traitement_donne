@@ -28,9 +28,9 @@
   "image_ref": "Auteuil-30_16_§1",
   "terme_jantzen_bat": [
     "fenetre-d'angle",
-    "lucarne",
+    "console",
     "sculpture",
-    "console"
+    "lucarne"
   ],
   "photos": [
     {
@@ -38,28 +38,32 @@
       "IndexJantzen": [
         "fenetre-d'angle",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     },
     {
       "id_pic": "Auteuil-30_16_§2",
       "IndexJantzen": [
         "fenetre-d'angle",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:03:27"
     },
     {
       "id_pic": "Auteuil-30_16_§3",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     },
     {
       "id_pic": "Auteuil-30_16_§4",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2006:03:27"
     }
   ]
 }
