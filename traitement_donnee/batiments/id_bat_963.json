@@ -27,17 +27,18 @@
   "WPfr": null,
   "image_ref": "Flandre-144_19_§1",
   "terme_jantzen_bat": [
-    "oriel",
+    "fenetre",
     "métal",
-    "façade",
-    "fenetre"
+    "oriel",
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Flandre-144_19_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:08:02"
     },
     {
       "id_pic": "Flandre-144_19_§2",
@@ -45,7 +46,8 @@
         "fenetre",
         "métal",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2005:08:02"
     }
   ]
 }

@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Galilee-30_16_§1",
   "terme_jantzen_bat": [
+    "cariatide",
     "sculpture",
-    "porte-bois",
-    "cariatide"
+    "porte-bois"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "cariatide",
         "porte-bois",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:10:23"
     }
   ]
 }

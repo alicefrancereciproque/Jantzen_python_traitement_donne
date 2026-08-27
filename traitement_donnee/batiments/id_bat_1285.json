@@ -22,9 +22,9 @@
   "WPfr": null,
   "image_ref": "Buci-18_6_§1",
   "terme_jantzen_bat": [
-    "toiture",
+    "fenetre",
     "pignon",
-    "fenetre"
+    "toiture"
   ],
   "photos": [
     {
@@ -32,14 +32,16 @@
       "IndexJantzen": [
         "fenetre",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2010:05:23"
     },
     {
       "id_pic": "Buci-18_6_§2",
       "IndexJantzen": [
         "fenetre",
         "toiture"
-      ]
+      ],
+      "dateCapture": "2010:05:23"
     }
   ]
 }

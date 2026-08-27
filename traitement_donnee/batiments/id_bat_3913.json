@@ -22,25 +22,27 @@
   "WPfr": null,
   "image_ref": "Niel-96_17_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
+    "porte-bois",
     "façade",
-    "pilastre",
+    "décor",
     "fenetre",
-    "porte-bois"
+    "pilastre",
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "Niel-96_17_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2009:03:29"
     },
     {
       "id_pic": "Niel-96_17_§2",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2009:07:16"
     },
     {
       "id_pic": "Niel-96_17_§3",
@@ -49,13 +51,15 @@
         "fenetre",
         "pilastre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2009:07:16"
     },
     {
       "id_pic": "Niel-96_17_§4",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2009:07:16"
     }
   ]
 }

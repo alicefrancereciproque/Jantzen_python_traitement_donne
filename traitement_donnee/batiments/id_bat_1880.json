@@ -22,11 +22,11 @@
   "WPfr": null,
   "image_ref": "Italiens-bd-26_9_§1",
   "terme_jantzen_bat": [
-    "fenetre-d'angle",
-    "colonne",
     "fronton",
-    "lucarne",
-    "lucarne-d'angle"
+    "lucarne-d'angle",
+    "colonne",
+    "fenetre-d'angle",
+    "lucarne"
   ],
   "photos": [
     {
@@ -34,14 +34,16 @@
       "IndexJantzen": [
         "fenetre-d'angle",
         "lucarne-d'angle"
-      ]
+      ],
+      "dateCapture": "2006:06:29"
     },
     {
       "id_pic": "Italiens-bd-26_9_§2",
       "IndexJantzen": [
         "fronton",
         "lucarne-d'angle"
-      ]
+      ],
+      "dateCapture": "2006:06:29"
     },
     {
       "id_pic": "Italiens-bd-26_9_§3",
@@ -50,7 +52,8 @@
         "fenetre-d'angle",
         "fronton",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2004:03:28"
     }
   ]
 }

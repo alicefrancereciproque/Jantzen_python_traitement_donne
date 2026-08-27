@@ -22,23 +22,25 @@
   "WPfr": null,
   "image_ref": "Conservatoire-7_9_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "garde-corps",
-    "façade",
-    "fenetre"
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Conservatoire-7_9_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:09:04"
     },
     {
       "id_pic": "Conservatoire-7_9_§2",
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2004:09:04"
     }
   ]
 }

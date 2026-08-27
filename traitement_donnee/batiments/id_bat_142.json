@@ -22,10 +22,10 @@
   "WPfr": "Théâtre de l'Œuvre",
   "image_ref": "Montiers-Cite-_9_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "sculpture",
     "décor",
-    "oeil-de-boeuf",
-    "fenetre"
+    "oeil-de-boeuf"
   ],
   "photos": [
     {
@@ -35,7 +35,8 @@
         "fenetre",
         "oeil-de-boeuf",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:08:26"
     }
   ]
 }

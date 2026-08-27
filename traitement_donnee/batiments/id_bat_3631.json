@@ -28,9 +28,9 @@
   "image_ref": "Renaudes-8_17_§2",
   "terme_jantzen_bat": [
     "fenetre",
+    "console",
     "garde-corps",
-    "brique",
-    "console"
+    "brique"
   ],
   "photos": [
     {
@@ -40,7 +40,8 @@
         "console",
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2004:09:02"
     }
   ]
 }

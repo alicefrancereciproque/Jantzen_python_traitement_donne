@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Magenta-56_10_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "atlante"
+    "atlante",
+    "sculpture"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "atlante",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:05:16"
     }
   ]
 }

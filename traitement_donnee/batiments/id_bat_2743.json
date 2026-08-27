@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Pereire-47_17_§2-zFd",
   "terme_jantzen_bat": [
-    "clé",
-    "porte-fer"
+    "porte-fer",
+    "clé"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2007:08:26"
     }
   ]
 }

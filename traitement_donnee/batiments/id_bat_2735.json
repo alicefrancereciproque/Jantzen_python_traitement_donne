@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Louvre-rue-46_1_§1",
   "terme_jantzen_bat": [
-    "tour",
-    "façade-d'angle"
+    "façade-d'angle",
+    "tour"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "façade-d'angle",
         "tour"
-      ]
+      ],
+      "dateCapture": "2007:08:25"
     }
   ]
 }

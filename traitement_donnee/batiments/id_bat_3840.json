@@ -27,20 +27,21 @@
   "WPfr": null,
   "image_ref": "Pillet-Will-9_9_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
-    "colonne",
-    "façade",
     "fronton",
-    "lucarne",
-    "fenetre"
+    "façade",
+    "colonne",
+    "décor",
+    "fenetre",
+    "sculpture",
+    "lucarne"
   ],
   "photos": [
     {
       "id_pic": "Pillet-Will-9_9_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2008:04:17"
     },
     {
       "id_pic": "Pillet-Will-9_9_§2",
@@ -48,21 +49,24 @@
         "décor",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:04:17"
     },
     {
       "id_pic": "Pillet-Will-9_9_§3",
       "IndexJantzen": [
         "colonne",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2008:04:17"
     },
     {
       "id_pic": "Pillet-Will-9_9_§4",
       "IndexJantzen": [
         "fronton",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2008:04:17"
     }
   ]
 }

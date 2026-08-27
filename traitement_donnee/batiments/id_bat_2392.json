@@ -22,18 +22,19 @@
   "WPfr": null,
   "image_ref": "François-Miron-38_4_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "sculpture",
+    "porte-bois",
     "façade",
+    "clé",
     "fenetre",
-    "porte-bois"
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "François-Miron-38_4_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2010:06:05"
     },
     {
       "id_pic": "François-Miron-38_4_§2",
@@ -42,7 +43,8 @@
         "fenetre",
         "porte-bois",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2010:06:05"
     }
   ]
 }

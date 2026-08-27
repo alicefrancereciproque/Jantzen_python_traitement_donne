@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Breteuil-82_15_§1",
   "terme_jantzen_bat": [
-    "clé",
     "porte-fer",
     "balcon",
+    "clé",
     "garde-corps"
   ],
   "photos": [
@@ -38,21 +38,24 @@
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2003:11:11"
     },
     {
       "id_pic": "Breteuil-82_15_§2",
       "IndexJantzen": [
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2006:04:06"
     },
     {
       "id_pic": "Breteuil-82_15_§3",
       "IndexJantzen": [
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2006:04:06"
     }
   ]
 }

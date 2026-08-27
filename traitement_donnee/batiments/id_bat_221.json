@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Tretaigne-1_18_§1",
   "terme_jantzen_bat": [
-    "oriel",
-    "fenetre"
+    "fenetre",
+    "oriel"
   ],
   "photos": [
     {
@@ -31,13 +31,15 @@
       "IndexJantzen": [
         "fenetre",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2003:07:09"
     },
     {
       "id_pic": "Tretaigne-1_18_-B",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2003:07:09"
     }
   ]
 }

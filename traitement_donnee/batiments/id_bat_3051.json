@@ -22,23 +22,25 @@
   "WPfr": null,
   "image_ref": "Vinaigriers-57_10_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "balcon",
-    "façade",
-    "fenetre"
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Vinaigriers-57_10_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:05:16"
     },
     {
       "id_pic": "Vinaigriers-57_10_§2",
       "IndexJantzen": [
         "balcon",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2004:05:16"
     }
   ]
 }

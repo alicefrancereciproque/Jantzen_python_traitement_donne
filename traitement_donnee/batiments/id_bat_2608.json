@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Ribera-41_16_§1",
   "terme_jantzen_bat": [
-    "sculpture",
+    "console",
     "atlante",
-    "console"
+    "sculpture"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "atlante",
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:05:18"
     }
   ]
 }

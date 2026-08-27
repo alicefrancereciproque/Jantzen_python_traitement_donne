@@ -22,23 +22,25 @@
   "WPfr": null,
   "image_ref": "St-Dominique-112_7_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "porte-bois",
-    "façade",
-    "fenetre"
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "St-Dominique-112_7_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:05:24"
     },
     {
       "id_pic": "St-Dominique-112_7_§2",
       "IndexJantzen": [
         "fenetre",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2004:05:24"
     }
   ]
 }

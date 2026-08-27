@@ -27,37 +27,41 @@
   "WPfr": null,
   "image_ref": "Etienne-Marcel-16_2_§1",
   "terme_jantzen_bat": [
-    "lucarne",
     "balcon",
-    "façade",
-    "garde-corps"
+    "lucarne",
+    "garde-corps",
+    "façade"
   ],
   "photos": [
     {
       "id_pic": "Etienne-Marcel-16_2_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "Etienne-Marcel-16_2_§2",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "Etienne-Marcel-16_2_§3",
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "Etienne-Marcel-16_2_§4",
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     }
   ]
 }

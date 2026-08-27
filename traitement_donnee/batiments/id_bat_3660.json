@@ -27,35 +27,39 @@
   "WPfr": null,
   "image_ref": "Therese-8_1_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "oriel",
-    "porte-bois",
-    "fenetre"
+    "porte-bois"
   ],
   "photos": [
     {
       "id_pic": "Therese-8_1_§1",
       "IndexJantzen": [
         "oriel"
-      ]
+      ],
+      "dateCapture": "2004:09:02"
     },
     {
       "id_pic": "Therese-8_1_§2",
       "IndexJantzen": [
         "oriel"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "Therese-8_1_§3",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2004:09:01"
     },
     {
       "id_pic": "Therese-8_1_§4",
       "IndexJantzen": [
         "fenetre",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2004:09:02"
     }
   ]
 }

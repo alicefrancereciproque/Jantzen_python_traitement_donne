@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "St-Roch-45_1_§1",
   "terme_jantzen_bat": [
-    "atlante",
+    "fenetre",
     "porte-fer",
-    "fenetre"
+    "atlante"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "atlante",
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:09:12"
     }
   ]
 }

@@ -27,16 +27,16 @@
   "WPfr": null,
   "image_ref": "Francs-Bourgeois-31_3_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "sculpture",
-    "oeil-de-boeuf",
-    "façade",
     "fronton",
-    "poignée-porte",
-    "fenetre",
     "porte-bois",
-    "balcon",
-    "garde-corps"
+    "façade",
+    "poignée-porte",
+    "garde-corps",
+    "clé",
+    "oeil-de-boeuf",
+    "fenetre",
+    "sculpture",
+    "balcon"
   ],
   "photos": [
     {
@@ -46,14 +46,16 @@
         "fenetre",
         "fronton",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     },
     {
       "id_pic": "Francs-Bourgeois-31_3_§2",
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     },
     {
       "id_pic": "Francs-Bourgeois-31_3_§3",
@@ -61,20 +63,23 @@
         "fenetre",
         "fronton",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     },
     {
       "id_pic": "Francs-Bourgeois-31_3_§4",
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     },
     {
       "id_pic": "Francs-Bourgeois-31_3_§5",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     },
     {
       "id_pic": "Francs-Bourgeois-31_3_§6",
@@ -83,13 +88,15 @@
         "oeil-de-boeuf",
         "porte-bois",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     },
     {
       "id_pic": "Francs-Bourgeois-31_3_§7",
       "IndexJantzen": [
         "poignée-porte"
-      ]
+      ],
+      "dateCapture": "2005:07:03"
     }
   ]
 }

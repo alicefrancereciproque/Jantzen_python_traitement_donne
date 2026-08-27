@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Louis-Braille-9_12_§1",
   "terme_jantzen_bat": [
-    "verrière",
-    "fenetre"
+    "fenetre",
+    "verrière"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "fenetre",
         "verrière"
-      ]
+      ],
+      "dateCapture": "2005:07:16"
     }
   ]
 }

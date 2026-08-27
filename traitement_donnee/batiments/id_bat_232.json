@@ -27,11 +27,11 @@
   "WPfr": null,
   "image_ref": "Colonel-Moll-1_17_§1",
   "terme_jantzen_bat": [
-    "fenetre-d'angle",
     "façade",
+    "garde-corps",
+    "fenetre-d'angle",
     "fenetre",
-    "balcon",
-    "garde-corps"
+    "balcon"
   ],
   "photos": [
     {
@@ -39,20 +39,23 @@
       "IndexJantzen": [
         "balcon",
         "fenetre-d'angle"
-      ]
+      ],
+      "dateCapture": "2004:10:02"
     },
     {
       "id_pic": "Colonel-Moll-1_17_§2",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2010:03:20"
     },
     {
       "id_pic": "Colonel-Moll-1_17_§3",
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2010:03:20"
     }
   ]
 }

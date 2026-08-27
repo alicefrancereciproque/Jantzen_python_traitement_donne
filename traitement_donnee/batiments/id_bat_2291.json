@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "St-Placide-34_6_§1",
   "terme_jantzen_bat": [
+    "console",
     "sculpture",
     "balcon",
-    "console",
     "garde-corps"
   ],
   "photos": [
@@ -38,14 +38,16 @@
       "IndexJantzen": [
         "balcon",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2005:04:17"
     },
     {
       "id_pic": "St-Placide-34_6_§2",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:04:17"
     }
   ]
 }

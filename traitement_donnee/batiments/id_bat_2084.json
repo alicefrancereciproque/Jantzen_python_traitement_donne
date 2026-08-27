@@ -22,19 +22,20 @@
   "WPfr": null,
   "image_ref": "Tilsitt-3-Etoile_8_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
     "façade",
-    "lucarne",
+    "décor",
+    "fenetre",
     "pilastre",
-    "fenetre"
+    "sculpture",
+    "lucarne"
   ],
   "photos": [
     {
       "id_pic": "Tilsitt-3-Etoile_8_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2010:04:01"
     },
     {
       "id_pic": "Tilsitt-3-Etoile_8_§3",
@@ -43,19 +44,22 @@
         "fenetre",
         "pilastre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2010:04:01"
     },
     {
       "id_pic": "Tilsitt-3-Etoile_8_§4",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2010:04:01"
     },
     {
       "id_pic": "Tilsitt-3-Etoile_8_§5",
       "IndexJantzen": [
         "lucarne"
-      ]
+      ],
+      "dateCapture": null
     }
   ]
 }

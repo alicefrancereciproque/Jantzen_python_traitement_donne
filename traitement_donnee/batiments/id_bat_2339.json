@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "La-Bruyere-36_9_§1",
   "terme_jantzen_bat": [
-    "balcon",
-    "fenetre"
+    "fenetre",
+    "balcon"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "balcon",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     }
   ]
 }

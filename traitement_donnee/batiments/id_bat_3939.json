@@ -27,23 +27,25 @@
   "WPfr": null,
   "image_ref": "Raspail-99_6_§1",
   "terme_jantzen_bat": [
+    "sculpture",
     "clé",
-    "porte-fer-hall",
-    "sculpture"
+    "porte-fer-hall"
   ],
   "photos": [
     {
       "id_pic": "Raspail-99_6_§1",
       "IndexJantzen": [
         "porte-fer-hall"
-      ]
+      ],
+      "dateCapture": "2005:08:31"
     },
     {
       "id_pic": "Raspail-99_6_§2",
       "IndexJantzen": [
         "clé",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:08:31"
     }
   ]
 }

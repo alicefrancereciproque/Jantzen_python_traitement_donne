@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Kleber-47b_16_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "porte-fer"
+    "porte-fer",
+    "clé"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2005:03:16"
     }
   ]
 }

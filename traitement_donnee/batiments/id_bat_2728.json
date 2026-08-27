@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Grenelle-46_7_§1",
   "terme_jantzen_bat": [
-    "sculpture",
+    "console",
     "chimère",
-    "console"
+    "sculpture"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "chimère",
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     }
   ]
 }

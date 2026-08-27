@@ -27,29 +27,32 @@
   "WPfr": null,
   "image_ref": "Orsay-55_7_§1-Rx",
   "terme_jantzen_bat": [
-    "clé",
     "porte-fer",
-    "sculpture"
+    "sculpture",
+    "clé"
   ],
   "photos": [
     {
       "id_pic": "Orsay-55_7_§1-Rx",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2011:06:26"
     },
     {
       "id_pic": "Orsay-55_7_§3",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:05:24"
     },
     {
       "id_pic": "Orsay-55_7_§4-Rx",
       "IndexJantzen": [
         "clé",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2011:06:26"
     }
   ]
 }

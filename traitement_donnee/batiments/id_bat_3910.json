@@ -27,12 +27,12 @@
   "WPfr": null,
   "image_ref": "Montmartre-95_2_§1",
   "terme_jantzen_bat": [
-    "métal",
-    "décor",
     "façade",
-    "brique",
+    "céramique",
     "oriel",
-    "céramique"
+    "décor",
+    "métal",
+    "brique"
   ],
   "photos": [
     {
@@ -43,7 +43,8 @@
         "façade",
         "métal",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2004:08:21"
     },
     {
       "id_pic": "Montmartre-95_2_§2",
@@ -53,7 +54,8 @@
         "décor",
         "métal",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2004:08:21"
     }
   ]
 }

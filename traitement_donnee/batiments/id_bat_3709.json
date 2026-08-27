@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "General-Leclerc-85_14_§1",
   "terme_jantzen_bat": [
-    "porte-fer",
-    "fenetre"
+    "fenetre",
+    "porte-fer"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:04:15"
     }
   ]
 }

@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Bouchut-16_15_§1",
   "terme_jantzen_bat": [
-    "sculpture",
     "cariatide",
-    "console"
+    "console",
+    "sculpture"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "cariatide",
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:03:15"
     }
   ]
 }

@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Mac-Mahon-27_17_1§",
   "terme_jantzen_bat": [
-    "porte-fer",
-    "fenetre"
+    "fenetre",
+    "porte-fer"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2005:03:25"
     }
   ]
 }

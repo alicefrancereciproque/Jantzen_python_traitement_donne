@@ -22,9 +22,9 @@
   "WPfr": null,
   "image_ref": "Jacques-Bingen-13_17_§1",
   "terme_jantzen_bat": [
+    "fenetre",
     "lucarne",
-    "brique",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -33,7 +33,8 @@
         "brique",
         "fenetre",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2004:10:05"
     }
   ]
 }

@@ -28,29 +28,32 @@
   "image_ref": "Cambronne-125_15_§1",
   "terme_jantzen_bat": [
     "fenetre-d'angle",
-    "toiture",
     "façade-d'angle",
-    "lucarne-d'angle"
+    "lucarne-d'angle",
+    "toiture"
   ],
   "photos": [
     {
       "id_pic": "Cambronne-125_15_§1",
       "IndexJantzen": [
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2005:04:01"
     },
     {
       "id_pic": "Cambronne-125_15_§2",
       "IndexJantzen": [
         "fenetre-d'angle"
-      ]
+      ],
+      "dateCapture": "2005:04:01"
     },
     {
       "id_pic": "Cambronne-125_15_§3",
       "IndexJantzen": [
         "lucarne-d'angle",
         "toiture"
-      ]
+      ],
+      "dateCapture": "2005:04:01"
     }
   ]
 }

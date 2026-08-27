@@ -28,9 +28,9 @@
   "image_ref": "Lonchamp-37_16_§1",
   "terme_jantzen_bat": [
     "fenetre-d'angle",
-    "métal",
-    "pignon",
     "oriel",
+    "pignon",
+    "métal",
     "fenetre"
   ],
   "photos": [
@@ -40,7 +40,8 @@
         "fenetre-d'angle",
         "oriel",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2005:03:16"
     },
     {
       "id_pic": "Lonchamp-37_16_§2",
@@ -49,7 +50,8 @@
         "métal",
         "oriel",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2005:03:16"
     },
     {
       "id_pic": "Lonchamp-37_16_§3",
@@ -57,7 +59,8 @@
         "fenetre",
         "métal",
         "oriel"
-      ]
+      ],
+      "dateCapture": "2005:03:16"
     }
   ]
 }

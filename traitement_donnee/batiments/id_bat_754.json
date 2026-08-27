@@ -22,10 +22,10 @@
   "WPfr": null,
   "image_ref": "Wagram-129_17_§1",
   "terme_jantzen_bat": [
-    "porte-bois",
-    "brique",
+    "fenetre",
     "façade-d'angle",
-    "fenetre"
+    "porte-bois",
+    "brique"
   ],
   "photos": [
     {
@@ -33,14 +33,16 @@
       "IndexJantzen": [
         "brique",
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": null
     },
     {
       "id_pic": "Wagram-129_17_§2",
       "IndexJantzen": [
         "fenetre",
         "porte-bois"
-      ]
+      ],
+      "dateCapture": null
     }
   ]
 }

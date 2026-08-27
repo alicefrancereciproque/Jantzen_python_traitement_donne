@@ -27,11 +27,11 @@
   "WPfr": null,
   "image_ref": "Louis-Morard-8_14_§1",
   "terme_jantzen_bat": [
-    "décor",
     "façade",
-    "brique",
+    "céramique",
+    "décor",
     "fenetre",
-    "céramique"
+    "brique"
   ],
   "photos": [
     {
@@ -41,7 +41,8 @@
         "céramique",
         "décor",
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:05:08"
     },
     {
       "id_pic": "Louis-Morard-8_14_§2",
@@ -50,7 +51,8 @@
         "céramique",
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:05:08"
     }
   ]
 }

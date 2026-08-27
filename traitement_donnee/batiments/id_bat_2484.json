@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Fleurus-4_6_§1",
   "terme_jantzen_bat": [
-    "lucarne",
     "pignon",
+    "lucarne",
     "oeil-de-boeuf"
   ],
   "photos": [
@@ -38,7 +38,8 @@
         "lucarne",
         "oeil-de-boeuf",
         "pignon"
-      ]
+      ],
+      "dateCapture": "2004:09:06"
     }
   ]
 }

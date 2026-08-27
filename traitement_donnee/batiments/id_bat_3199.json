@@ -27,29 +27,31 @@
   "WPfr": null,
   "image_ref": "Victoire-60_9_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
+    "porte-bois",
     "façade",
     "cariatide",
-    "pilastre",
+    "porte-fer",
     "console",
+    "décor",
     "fenetre",
-    "porte-bois",
-    "porte-fer"
+    "pilastre",
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "Victoire-60_9_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     },
     {
       "id_pic": "Victoire-60_9_§2",
       "IndexJantzen": [
         "fenetre",
         "pilastre"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     },
     {
       "id_pic": "Victoire-60_9_§3",
@@ -57,7 +59,8 @@
         "décor",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     },
     {
       "id_pic": "Victoire-60_9_§4",
@@ -65,26 +68,30 @@
         "cariatide",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     },
     {
       "id_pic": "Victoire-60_9_§5",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     },
     {
       "id_pic": "Victoire-60_9_§6",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     },
     {
       "id_pic": "Victoire-60_9_§7",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:06:16"
     }
   ]
 }

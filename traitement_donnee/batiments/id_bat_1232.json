@@ -27,10 +27,10 @@
   "WPfr": null,
   "image_ref": "Rhin-17_19_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "brique",
+    "fenetre",
     "console",
-    "fenetre"
+    "sculpture",
+    "brique"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
       "IndexJantzen": [
         "brique",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:09:07"
     },
     {
       "id_pic": "Rhin-17_19_§2",
@@ -47,7 +48,8 @@
         "console",
         "fenetre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:09:07"
     }
   ]
 }

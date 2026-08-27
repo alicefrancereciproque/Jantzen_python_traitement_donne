@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Emilio-Castelar-4_12_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "console"
+    "console",
+    "sculpture"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:07:11"
     }
   ]
 }

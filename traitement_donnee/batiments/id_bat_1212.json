@@ -28,8 +28,8 @@
   "image_ref": "Astorg-17_8_§1",
   "terme_jantzen_bat": [
     "fenetre-d'angle",
-    "lucarne",
-    "balcon"
+    "balcon",
+    "lucarne"
   ],
   "photos": [
     {
@@ -38,7 +38,8 @@
         "balcon",
         "fenetre-d'angle",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:03:23"
     }
   ]
 }

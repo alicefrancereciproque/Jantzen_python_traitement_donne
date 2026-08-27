@@ -22,28 +22,31 @@
   "WPfr": null,
   "image_ref": "Halles-17_1_§1",
   "terme_jantzen_bat": [
-    "garde-corps",
-    "fenetre"
+    "fenetre",
+    "garde-corps"
   ],
   "photos": [
     {
       "id_pic": "Halles-17_1_§1",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2009:05:22"
     },
     {
       "id_pic": "Halles-17_1_§2",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2009:05:22"
     },
     {
       "id_pic": "Halles-17_1_§4",
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2009:05:22"
     }
   ]
 }

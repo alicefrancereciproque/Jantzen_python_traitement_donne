@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Rhin-13_19_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "console"
+    "console",
+    "sculpture"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:09:07"
     }
   ]
 }

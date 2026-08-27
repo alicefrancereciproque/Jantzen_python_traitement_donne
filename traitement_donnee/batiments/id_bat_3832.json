@@ -27,9 +27,9 @@
   "WPfr": null,
   "image_ref": "Louis-Boilly-9_16_§1",
   "terme_jantzen_bat": [
-    "sculpture",
     "porte-fer",
-    "console"
+    "console",
+    "sculpture"
   ],
   "photos": [
     {
@@ -37,25 +37,29 @@
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     },
     {
       "id_pic": "Louis-Boilly-9_16_§2",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:03:16"
     },
     {
       "id_pic": "Louis-Boilly-9_16_§4",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2004:03:16"
     },
     {
       "id_pic": "Louis-Boilly-9_16_§5",
       "IndexJantzen": [
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2005:05:28"
     }
   ]
 }

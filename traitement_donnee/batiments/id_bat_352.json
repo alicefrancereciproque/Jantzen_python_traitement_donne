@@ -22,43 +22,48 @@
   "WPfr": null,
   "image_ref": "St-Augustin-10_2_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "garde-corps",
+    "fenetre",
     "console",
-    "fenetre"
+    "sculpture",
+    "garde-corps"
   ],
   "photos": [
     {
       "id_pic": "St-Augustin-10_2_§1",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2007:03:21"
     },
     {
       "id_pic": "St-Augustin-10_2_§2",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2007:03:21"
     },
     {
       "id_pic": "St-Augustin-10_2_§3",
       "IndexJantzen": [
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2007:03:21"
     },
     {
       "id_pic": "St-Augustin-10_2_§5",
       "IndexJantzen": [
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2007:03:21"
     },
     {
       "id_pic": "St-Augustin-10_2_4",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2007:03:21"
     }
   ]
 }

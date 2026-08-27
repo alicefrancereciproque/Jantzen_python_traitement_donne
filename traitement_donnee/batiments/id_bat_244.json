@@ -23,10 +23,10 @@
   "image_ref": "Ferdinand-Flocon-1_18_§1",
   "terme_jantzen_bat": [
     "fenetre-d'angle",
-    "brique",
+    "céramique",
     "fenetre",
     "balcon",
-    "céramique"
+    "brique"
   ],
   "photos": [
     {
@@ -34,14 +34,16 @@
       "IndexJantzen": [
         "brique",
         "fenetre-d'angle"
-      ]
+      ],
+      "dateCapture": "2003:07:09"
     },
     {
       "id_pic": "Ferdinand-Flocon-1_18_§2",
       "IndexJantzen": [
         "balcon",
         "brique"
-      ]
+      ],
+      "dateCapture": "2004:06:13"
     },
     {
       "id_pic": "Ferdinand-Flocon-1_18_§3",
@@ -49,7 +51,8 @@
         "brique",
         "céramique",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2004:06:13"
     }
   ]
 }

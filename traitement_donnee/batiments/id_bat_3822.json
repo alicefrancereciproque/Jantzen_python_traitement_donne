@@ -22,14 +22,14 @@
   "WPfr": null,
   "image_ref": "Fenelon-9_10_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "décor",
-    "façade",
-    "pilastre",
-    "fenetre",
     "porte-bois",
+    "façade",
+    "garde-corps",
     "céramique",
-    "garde-corps"
+    "décor",
+    "clé",
+    "fenetre",
+    "pilastre"
   ],
   "photos": [
     {
@@ -37,7 +37,8 @@
       "IndexJantzen": [
         "céramique",
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:09:23"
     },
     {
       "id_pic": "Fenelon-9_10_§2",
@@ -46,7 +47,8 @@
         "décor",
         "fenetre",
         "pilastre"
-      ]
+      ],
+      "dateCapture": "2004:09:23"
     },
     {
       "id_pic": "Fenelon-9_10_§3",
@@ -55,27 +57,31 @@
         "décor",
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2004:09:23"
     },
     {
       "id_pic": "Fenelon-9_10_§4",
       "IndexJantzen": [
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2007:07:11"
     },
     {
       "id_pic": "Fenelon-9_10_§5",
       "IndexJantzen": [
         "clé",
         "décor"
-      ]
+      ],
+      "dateCapture": "2007:07:11"
     },
     {
       "id_pic": "Fenelon-9_10_§6",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2004:09:24"
     }
   ]
 }

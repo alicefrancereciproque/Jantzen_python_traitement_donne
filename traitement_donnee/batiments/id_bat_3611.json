@@ -27,16 +27,16 @@
   "WPfr": null,
   "image_ref": "Danton-8_6_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "sculpture",
-    "fenetre-d'angle",
-    "colonne",
-    "brique",
-    "dome",
     "façade-d'angle",
-    "pilastre",
+    "colonne",
+    "fenetre-d'angle",
+    "porte-fer",
+    "clé",
     "fenetre",
-    "porte-fer"
+    "pilastre",
+    "sculpture",
+    "dome",
+    "brique"
   ],
   "photos": [
     {
@@ -44,7 +44,8 @@
       "IndexJantzen": [
         "dome",
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2006:06:11"
     },
     {
       "id_pic": "Danton-8_6_§10",
@@ -52,27 +53,31 @@
         "clé",
         "colonne",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§11",
       "IndexJantzen": [
         "pilastre",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§12",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§2",
       "IndexJantzen": [
         "dome",
         "fenetre-d'angle"
-      ]
+      ],
+      "dateCapture": "2006:06:11"
     },
     {
       "id_pic": "Danton-8_6_§3",
@@ -80,7 +85,8 @@
         "brique",
         "dome",
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§4",
@@ -88,7 +94,8 @@
         "brique",
         "dome",
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2010:06:05"
     },
     {
       "id_pic": "Danton-8_6_§5",
@@ -96,7 +103,8 @@
         "brique",
         "dome",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§6",
@@ -104,28 +112,32 @@
         "brique",
         "dome",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§7",
       "IndexJantzen": [
         "brique",
         "dome"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     },
     {
       "id_pic": "Danton-8_6_§8",
       "IndexJantzen": [
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2006:06:11"
     },
     {
       "id_pic": "Danton-8_6_§9",
       "IndexJantzen": [
         "fenetre",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2005:05:23"
     }
   ]
 }

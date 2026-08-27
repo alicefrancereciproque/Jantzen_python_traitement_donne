@@ -22,39 +22,43 @@
   "WPfr": null,
   "image_ref": "Vendome-Pl-14_1_§1",
   "terme_jantzen_bat": [
-    "oeil-de-boeuf",
-    "colonne",
-    "façade",
     "fronton",
-    "lucarne",
-    "fenetre"
+    "façade",
+    "colonne",
+    "oeil-de-boeuf",
+    "fenetre",
+    "lucarne"
   ],
   "photos": [
     {
       "id_pic": "Vendome-Pl-14_1_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2008:04:03"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§2",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2008:04:03"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§3",
       "IndexJantzen": [
         "fenetre",
         "fronton"
-      ]
+      ],
+      "dateCapture": "2008:04:03"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§4",
       "IndexJantzen": [
         "façade",
         "fronton"
-      ]
+      ],
+      "dateCapture": "2009:03:23"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§5",
@@ -62,28 +66,32 @@
         "colonne",
         "façade",
         "fronton"
-      ]
+      ],
+      "dateCapture": "2009:03:23"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§6",
       "IndexJantzen": [
         "colonne",
         "façade"
-      ]
+      ],
+      "dateCapture": "2009:03:23"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§7",
       "IndexJantzen": [
         "fenetre",
         "fronton"
-      ]
+      ],
+      "dateCapture": "2009:03:23"
     },
     {
       "id_pic": "Vendome-Pl-14_1_§8",
       "IndexJantzen": [
         "lucarne",
         "oeil-de-boeuf"
-      ]
+      ],
+      "dateCapture": "2008:04:03"
     }
   ]
 }

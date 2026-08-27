@@ -22,11 +22,11 @@
   "WPfr": null,
   "image_ref": "Lacroix-17B_§1",
   "terme_jantzen_bat": [
-    "décor",
     "façade",
-    "brique",
+    "décor",
+    "fenetre",
     "pilastre",
-    "fenetre"
+    "brique"
   ],
   "photos": [
     {
@@ -34,7 +34,8 @@
       "IndexJantzen": [
         "brique",
         "façade"
-      ]
+      ],
+      "dateCapture": "2004:09:15"
     },
     {
       "id_pic": "Lacroix-17B_§2",
@@ -42,7 +43,8 @@
         "brique",
         "décor",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2004:09:15"
     },
     {
       "id_pic": "Lacroix-17B_§3",
@@ -51,7 +53,8 @@
         "décor",
         "fenetre",
         "pilastre"
-      ]
+      ],
+      "dateCapture": "2004:09:15"
     },
     {
       "id_pic": "Lacroix-17B_§4",
@@ -60,7 +63,8 @@
         "décor",
         "fenetre",
         "pilastre"
-      ]
+      ],
+      "dateCapture": "2006:06:07"
     }
   ]
 }

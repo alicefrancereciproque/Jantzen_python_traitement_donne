@@ -18,12 +18,12 @@
   "WPfr": "Cour d'honneur de l'hôtel des Invalides",
   "image_ref": "Invalides-HSO-Cv_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "fenetre-d'angle",
-    "toiture",
-    "lucarne",
     "façade-d'angle",
-    "lucarne-d'angle"
+    "lucarne-d'angle",
+    "toiture",
+    "fenetre-d'angle",
+    "sculpture",
+    "lucarne"
   ],
   "photos": [
     {
@@ -31,89 +31,103 @@
       "IndexJantzen": [
         "façade-d'angle",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2005:08:04"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§10",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2006:07:17"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§11",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:10:15"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§12",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§13",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§14",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:10:15"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§2",
       "IndexJantzen": [
         "fenetre-d'angle",
         "lucarne"
-      ]
+      ],
+      "dateCapture": "2006:07:17"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§3",
       "IndexJantzen": [
         "lucarne-d'angle",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§4",
       "IndexJantzen": [
         "lucarne-d'angle",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§5",
       "IndexJantzen": [
         "sculpture",
         "toiture"
-      ]
+      ],
+      "dateCapture": "2006:07:17"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§6",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2006:07:17"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§7",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§8",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:07:28"
     },
     {
       "id_pic": "Invalides-HSO-Cv_§9",
       "IndexJantzen": [
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2008:08:03"
     }
   ]
 }

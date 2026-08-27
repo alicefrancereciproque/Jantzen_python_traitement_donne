@@ -27,42 +27,47 @@
   "WPfr": null,
   "image_ref": "Beaubourg-39_3_§1",
   "terme_jantzen_bat": [
+    "console",
     "fenetre-d'angle",
-    "décor",
     "façade-d'angle",
-    "console"
+    "décor"
   ],
   "photos": [
     {
       "id_pic": "Beaubourg-39_3_§1",
       "IndexJantzen": [
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2008:05:16"
     },
     {
       "id_pic": "Beaubourg-39_3_§2",
       "IndexJantzen": [
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2008:05:16"
     },
     {
       "id_pic": "Beaubourg-39_3_§3-Rs",
       "IndexJantzen": [
         "fenetre-d'angle"
-      ]
+      ],
+      "dateCapture": "2008:02:17"
     },
     {
       "id_pic": "Beaubourg-39_3_§4",
       "IndexJantzen": [
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2008:02:17"
     },
     {
       "id_pic": "Beaubourg-39_3_§5",
       "IndexJantzen": [
         "console",
         "décor"
-      ]
+      ],
+      "dateCapture": "2008:02:17"
     }
   ]
 }

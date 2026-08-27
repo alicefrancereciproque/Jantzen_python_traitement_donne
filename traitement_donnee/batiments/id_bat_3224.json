@@ -27,8 +27,8 @@
   "WPfr": null,
   "image_ref": "Archives-61_3_§1",
   "terme_jantzen_bat": [
-    "clé",
-    "porte-fer"
+    "porte-fer",
+    "clé"
   ],
   "photos": [
     {
@@ -36,7 +36,8 @@
       "IndexJantzen": [
         "clé",
         "porte-fer"
-      ]
+      ],
+      "dateCapture": "2003:08:02"
     }
   ]
 }

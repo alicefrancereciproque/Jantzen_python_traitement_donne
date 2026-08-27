@@ -27,23 +27,25 @@
   "WPfr": null,
   "image_ref": "Paul-Dubois-5_3_§1",
   "terme_jantzen_bat": [
-    "sculpture",
+    "console",
     "façade-d'angle",
-    "console"
+    "sculpture"
   ],
   "photos": [
     {
       "id_pic": "Paul-Dubois-5_3_§1",
       "IndexJantzen": [
         "façade-d'angle"
-      ]
+      ],
+      "dateCapture": "2004:09:21"
     },
     {
       "id_pic": "Paul-Dubois-5_3_§2",
       "IndexJantzen": [
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2004:09:21"
     }
   ]
 }

@@ -22,28 +22,30 @@
   "WPfr": null,
   "image_ref": "Tournon-8_6_§1",
   "terme_jantzen_bat": [
-    "sculpture",
-    "décor",
+    "porte-bois",
     "façade",
     "atlante",
+    "garde-corps",
     "console",
+    "décor",
     "fenetre",
-    "porte-bois",
-    "balcon",
-    "garde-corps"
+    "sculpture",
+    "balcon"
   ],
   "photos": [
     {
       "id_pic": "Tournon-8_6_§1",
       "IndexJantzen": [
         "façade"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§10",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§2",
@@ -53,20 +55,23 @@
         "fenetre",
         "garde-corps",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§3",
       "IndexJantzen": [
         "porte-bois"
-      ]
+      ],
+      "dateCapture": "2005:06:02"
     },
     {
       "id_pic": "Tournon-8_6_§4",
       "IndexJantzen": [
         "balcon",
         "fenetre"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§5",
@@ -75,7 +80,8 @@
         "console",
         "fenetre",
         "garde-corps"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§6",
@@ -83,7 +89,8 @@
         "atlante",
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§7",
@@ -91,7 +98,8 @@
         "atlante",
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:03:20"
     },
     {
       "id_pic": "Tournon-8_6_§8",
@@ -100,7 +108,8 @@
         "balcon",
         "console",
         "sculpture"
-      ]
+      ],
+      "dateCapture": "2005:06:02"
     }
   ]
 }

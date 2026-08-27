@@ -22,8 +22,8 @@
   "WPfr": null,
   "image_ref": "Kleber-91-_16_§1",
   "terme_jantzen_bat": [
-    "mosaique",
-    "fenetre"
+    "fenetre",
+    "mosaique"
   ],
   "photos": [
     {
@@ -31,7 +31,8 @@
       "IndexJantzen": [
         "fenetre",
         "mosaique"
-      ]
+      ],
+      "dateCapture": "2004:03:17"
     }
   ]
 }
