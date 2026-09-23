@@ -5,3 +5,6 @@ telechargement_personnes_wikimedia/thumb_jpg
 telechargement_personnes_wikimedia/.DS_Store
 traitement_donnee/.DS_Store
 .DS_Store
+.venv
+traitement_donnee/.DS_Store
+.DS_Store
