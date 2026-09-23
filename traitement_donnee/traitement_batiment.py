@@ -76,6 +76,7 @@ def convertir_donnees(
         # Créer une copie du dictionnaire original pour ajouter les nouveaux champs
         bat_enrichi = dict(bat)
         bat_enrichi["image_ref"] = image_ref_fichier
+        bat_enrichi["tri_alphab"] =bat.get("tri_alphab", "") 
         bat_enrichi["terme_jantzen_bat"] = list(termes_set)
         bat_enrichi["photos"] = liste_photos
 
@@ -94,7 +95,7 @@ def convertir_donnees(
 # Exemple d'appel :
 if __name__ == "__main__":
     convertir_donnees(
-        fichier_batiments="batiments_brut.json",
-        fichier_photos="photos_brut.json",
-        dossier_sortie="batiments",
+        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_2/batiments.json",
+        fichier_photos="../donnees_brut_client/donnees_brut_jeu_2/photos.json",
+        dossier_sortie="../donnees_traitees/donnees_traitees_jeu_2/batiments",
     )

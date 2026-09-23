@@ -22,6 +22,7 @@ def filtrer_json_personnes(fichier_source: str, fichier_sortie: str):
             personnes_filtrees.append({
                 "id_archi": id_archi,
                 "libelle": personne.get("libelle"),
+                "nom": personne.get("nom"),
             })
 
     # 2. Filtrage : on ne conserve que 'id_archi' et 'libelle'
@@ -29,6 +30,7 @@ def filtrer_json_personnes(fichier_source: str, fichier_sortie: str):
         {
             "id_archi": personne.get("id_archi"),
             "libelle": personne.get("libelle"),
+            "nom": personne.get("nom"),
         }
         for personne in personnes
     ]
@@ -48,6 +50,6 @@ def filtrer_json_personnes(fichier_source: str, fichier_sortie: str):
 # --- Exécution ---
 if __name__ == "__main__":
     filtrer_json_personnes(
-        fichier_source="personnes_brut.json",
-        fichier_sortie="personnes_filtre.json",
+        fichier_source="../donnees_brut_client/donnees_brut_jeu_2/personnes.json",
+        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_2/personnes_filtre.json",
     )

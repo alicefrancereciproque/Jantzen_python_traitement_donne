@@ -1,0 +1,116 @@
+{
+  "id_bat": 2772,
+  "libelle": "48B rue de Rivoli",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 267,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1905",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "48B rue de Rivoli",
+    "numero": "48B",
+    "voie": "rue de Rivoli"
+  },
+  "arrondissement": 4,
+  "coordonnees": {
+    "latitude": "48.856926",
+    "longitude": "2.354393"
+  },
+  "id_pss": 77444,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Rivoli-48B_4_§1",
+  "terme_jantzen_bat": [
+    "atlante",
+    "sculpture",
+    "fenetre",
+    "porte-fer"
+  ],
+  "photos": [
+    {
+      "id_pic": "Rivoli-48B_4_§1",
+      "IndexJantzen": [
+        "atlante",
+        "fenetre"
+      ],
+      "dateCapture": "2006:03:19"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§10",
+      "IndexJantzen": [
+        "atlante",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:23"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§11",
+      "IndexJantzen": [
+        "atlante",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:23"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "porte-fer"
+      ],
+      "dateCapture": "2009:03:20"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§4",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": null
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§5",
+      "IndexJantzen": [
+        "atlante",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:20"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§6",
+      "IndexJantzen": [
+        "atlante",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:23"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§7",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:03:19"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§8",
+      "IndexJantzen": [
+        "atlante",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:23"
+    },
+    {
+      "id_pic": "Rivoli-48B_4_§9",
+      "IndexJantzen": [
+        "atlante",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:23"
+    }
+  ]
+}

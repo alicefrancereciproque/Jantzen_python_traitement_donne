@@ -36,6 +36,6 @@ def decouper_json_personnes(fichier_source: str, dossier_destination: str):
 # --- Exécution ---
 if __name__ == "__main__":
     decouper_json_personnes(
-        fichier_source="personnes_brut.json",
-        dossier_destination="personnes"
+        fichier_source="../donnees_brut_client/donnees_brut_jeu_2/personnes.json",
+        dossier_destination="../donnees_traitees/donnees_traitees_jeu_2/personnes"
     )

@@ -1,0 +1,330 @@
+{
+  "id_bat": 951,
+  "libelle": "142 avenue de Versailles",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 322,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1905",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "142 avenue de Versailles",
+    "numero": "142",
+    "voie": "avenue de Versailles"
+  },
+  "arrondissement": 16,
+  "coordonnees": {
+    "latitude": "48.841686",
+    "longitude": "2.266528"
+  },
+  "id_pss": 5184,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Versailles-142_16_§1",
+  "terme_jantzen_bat": [
+    "façade",
+    "garde-corps",
+    "lucarne",
+    "fenetre-d'angle",
+    "oriel",
+    "brique",
+    "sculpture",
+    "porte-fer-hall",
+    "fenetre",
+    "façade-d'angle",
+    "balcon",
+    "lucarne-d'angle"
+  ],
+  "photos": [
+    {
+      "id_pic": "Versailles-142_16_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§10-Rx",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "fenetre-d'angle",
+        "garde-corps"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§11-Rx",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§14-Rx",
+      "IndexJantzen": [
+        "brique",
+        "lucarne-d'angle"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§15-Rx",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§16",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§17",
+      "IndexJantzen": [
+        "brique"
+      ],
+      "dateCapture": "2004:03:26"
+    },
+    {
+      "id_pic": "Versailles-142_16_§18",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2007:02:04"
+    },
+    {
+      "id_pic": "Versailles-142_16_§19-Rx",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§1-Dx",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§2",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§20",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§22-Rx",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§23-Rx",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§25",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2004:03:26"
+    },
+    {
+      "id_pic": "Versailles-142_16_§26",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§27",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§28",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§3",
+      "IndexJantzen": [
+        "brique",
+        "fenetre-d'angle",
+        "lucarne"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§30",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2004:03:27"
+    },
+    {
+      "id_pic": "Versailles-142_16_§31",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2005:03:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§32",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2007:02:04"
+    },
+    {
+      "id_pic": "Versailles-142_16_§33",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2004:03:26"
+    },
+    {
+      "id_pic": "Versailles-142_16_§35-Dx",
+      "IndexJantzen": [
+        "brique",
+        "façade",
+        "oriel"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§36-Dx",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§37-Rx",
+      "IndexJantzen": [
+        "brique",
+        "oriel"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§38",
+      "IndexJantzen": [
+        "brique",
+        "oriel"
+      ],
+      "dateCapture": "2004:03:26"
+    },
+    {
+      "id_pic": "Versailles-142_16_§39-Rx",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§4",
+      "IndexJantzen": [
+        "brique",
+        "fenetre-d'angle",
+        "lucarne"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_§40",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2004:03:26"
+    },
+    {
+      "id_pic": "Versailles-142_16_§4b",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2012:07:21"
+    },
+    {
+      "id_pic": "Versailles-142_16_§5",
+      "IndexJantzen": [
+        "brique",
+        "fenetre-d'angle",
+        "lucarne"
+      ],
+      "dateCapture": "2004:03:26"
+    },
+    {
+      "id_pic": "Versailles-142_16_§8",
+      "IndexJantzen": [
+        "brique",
+        "fenetre-d'angle",
+        "lucarne"
+      ],
+      "dateCapture": "2007:02:04"
+    },
+    {
+      "id_pic": "Versailles-142_16_§9",
+      "IndexJantzen": [
+        "brique",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2014:03:08"
+    },
+    {
+      "id_pic": "Versailles-142_16_B",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2003:07:13"
+    }
+  ]
+}
