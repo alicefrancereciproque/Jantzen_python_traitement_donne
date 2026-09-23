@@ -1,0 +1,74 @@
+{
+  "id_bat": 2621,
+  "libelle": "42 boulevard Richard-Lenoir",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": "1906",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "42 boulevard Richard-Lenoir",
+    "numero": "42",
+    "voie": "boulevard Richard-Lenoir"
+  },
+  "arrondissement": 11,
+  "coordonnees": {
+    "latitude": "48.857749",
+    "longitude": "2.371654"
+  },
+  "id_pss": 41278,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Richard-Lenoir-bd-42_11_§1",
+  "terme_jantzen_bat": [
+    "façade",
+    "garde-corps",
+    "oriel",
+    "sculpture",
+    "clé",
+    "porte-fer",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Richard-Lenoir-bd-42_11_§1",
+      "IndexJantzen": [
+        "façade",
+        "oriel"
+      ],
+      "dateCapture": "2004:05:19"
+    },
+    {
+      "id_pic": "Richard-Lenoir-bd-42_11_§2",
+      "IndexJantzen": [
+        "oriel"
+      ],
+      "dateCapture": "2004:05:19"
+    },
+    {
+      "id_pic": "Richard-Lenoir-bd-42_11_§3",
+      "IndexJantzen": [
+        "balcon",
+        "garde-corps",
+        "oriel"
+      ],
+      "dateCapture": "2004:05:19"
+    },
+    {
+      "id_pic": "Richard-Lenoir-bd-42_11_§4",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Richard-Lenoir-bd-42_11_§5",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:02:16"
+    }
+  ]
+}

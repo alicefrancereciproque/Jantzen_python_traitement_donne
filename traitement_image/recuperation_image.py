@@ -8,9 +8,9 @@ def filtrer_et_copier_photos(
     dossier_dropbox: str,
     dossier_destination: str = "photos_selectionnees",
 ):
-    """Lit photos.json et copie uniquement les images référencées depuis le dossier
+    """Lit photos.json et copie uniquement la première occurrence de chaque image
 
-    Dropbox vers le dossier de destination.
+    référencée depuis le dossier Dropbox vers le dossier de destination.
     """
     path_dropbox = Path(dossier_dropbox)
     path_dest = Path(dossier_destination)
@@ -35,19 +35,15 @@ def filtrer_et_copier_photos(
 
     print("Copie des photos en cours...")
     for nom_fichier in fichiers_utiles:
-        source = path_dropbox / nom_fichier
+        # rglob cherche à la racine ET dans tous les sous-dossiers.
+        # next(..., None) récupère le PREMIER fichier correspondant.
+        source = next(path_dropbox.rglob(nom_fichier), None)
 
-        # Si tes photos sont dans des sous-dossiers dans Dropbox, on peut chercher recursively :
-        if not source.exists():
-            # Chercher dans les sous-dossiers
-            trouves = list(path_dropbox.rglob(nom_fichier))
-            if trouves:
-                source = trouves[0]
-            else:
-                fichiers_manquants.append(nom_fichier)
-                continue
+        if source is None:
+            fichiers_manquants.append(nom_fichier)
+            continue
 
-        destination = path_dest / nom_fichier
+        destination = path_dest / Path(nom_fichier).name
         shutil.copy2(source, destination)  # copy2 conserve les métadonnées
         copies_reussies += 1
 
@@ -57,17 +53,14 @@ def filtrer_et_copier_photos(
     )
 
     if fichiers_manquants:
-        print(f"⚠️ {len(fichiers_manquants)} photos introuvables dans Dropbox.")
-        # Optionnel : enregistrer la liste des manquants
-        with open("photos_manquantes.json", "w", encoding="utf-8") as f_out:
+        print(f" {len(fichiers_manquants)} photos introuvables dans Dropbox.")
+        with open("../donnees_traitee_jeu_2/photos_manquantes.json", "w", encoding="utf-8") as f_out:
             json.dump(fichiers_manquants, f_out, indent=2)
 
 
 if __name__ == "__main__":
-    # 💡 REMPLACE CES CHEMINS PAR LES TIENS :
-    # Si Dropbox est synchronisé sur ton PC, met le chemin local (ex: "C:/Users/TonNom/Dropbox/Photos")
     filtrer_et_copier_photos(
-        fichier_json="photos_brut.json",
-        dossier_dropbox="/Users/alicefrance/reciproque Dropbox/Alice Francé/JANTZEN/00_SOURCES_EMPO/LES_PHOTOS",  # Remplace par ton vrai chemin
-        dossier_destination="./photos_selectionnees",
+        fichier_json="../donnees_brut_client/donnees_brut_jeu_2/photos.json",
+        dossier_dropbox="/Users/alicefrance/reciproque Dropbox/Alice Francé/JANTZEN/00_SOURCES_EMPO/LES_PHOTOS",
+        dossier_destination="../donnees_traitees/donnees_traitees_jeu_2/photos_jpg",
     )

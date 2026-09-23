@@ -1,3 +1,7 @@
+#Ce code permet de convertir des images en formats AVIF et WEBP, 
+# en créant à la fois des vignettes (max 400px) et des versions plein écran (max 1920px).
+#pour le moment, ce code est trop lent. a voir plus tard si on peut le rendre plus rapide 
+
 import os
 from pathlib import Path
 from PIL import Image, ImageOps

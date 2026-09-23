@@ -1,0 +1,105 @@
+{
+  "id_bat": 1505,
+  "libelle": "2 rue Guynemer",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": "1914",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "2 rue Guynemer",
+    "numero": "2",
+    "voie": "rue Guynemer"
+  },
+  "arrondissement": 6,
+  "coordonnees": {
+    "latitude": "48.848405",
+    "longitude": "2.332395"
+  },
+  "id_pss": 10816,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Guynemer_2_6_§1",
+  "terme_jantzen_bat": [
+    "façade",
+    "garde-corps",
+    "lucarne",
+    "brique",
+    "fronton",
+    "décor",
+    "fenetre",
+    "sculpture",
+    "porte-fer",
+    "façade-d'angle"
+  ],
+  "photos": [
+    {
+      "id_pic": "Guynemer_2_6_§1",
+      "IndexJantzen": [
+        "brique",
+        "façade-d'angle"
+      ],
+      "dateCapture": "2009:09:27"
+    },
+    {
+      "id_pic": "Guynemer_2_6_§3",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2009:09:27"
+    },
+    {
+      "id_pic": "Guynemer_2_6_§4",
+      "IndexJantzen": [
+        "brique",
+        "décor",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2009:09:27"
+    },
+    {
+      "id_pic": "Guynemer_2_6_§5",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2003:08:26"
+    },
+    {
+      "id_pic": "Guynemer_2_6_§6",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "garde-corps",
+        "sculpture"
+      ],
+      "dateCapture": "2009:09:27"
+    },
+    {
+      "id_pic": "Guynemer_2_6_§7",
+      "IndexJantzen": [
+        "brique",
+        "sculpture"
+      ],
+      "dateCapture": "2009:09:27"
+    },
+    {
+      "id_pic": "Guynemer_2_6_§8",
+      "IndexJantzen": [
+        "brique",
+        "sculpture"
+      ],
+      "dateCapture": "2009:09:27"
+    },
+    {
+      "id_pic": "Guynemer_2_6_10Nx_DxO",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2009:09:27"
+    }
+  ]
+}

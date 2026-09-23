@@ -72,9 +72,9 @@ def generer_geojson_leaflet(
                     if bat.get("arrondissement")
                     else None
                 ),
-                "dateConstruction": bat.get("dateConstruction") or "",
+                "tri_alphab": bat.get("tri_alphab") or "",
                 "periode": bat.get("periode") or "",
-                "personneID": (bat.get("personnes") or [{}])[0].get("personneID") or 1,
+                "personneID": bat.get("personnes") or [],
                 "role": (bat.get("personnes") or [{}])[0].get("role") or "",
                 "image_ref": bat.get("image_ref"),
                 "terme_jantzen_bat": termes_jantzen,
@@ -99,7 +99,7 @@ def generer_geojson_leaflet(
 # Exécution :
 if __name__ == "__main__":
     generer_geojson_leaflet(
-        fichier_batiments="batiments_brut.json",
-        fichier_photos="photos_brut.json",
-        fichier_sortie="map_poi.geojson",  # Destination dans ton projet web
+        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_2/batiments.json",
+        fichier_photos="../donnees_brut_client/donnees_brut_jeu_2/photos.json",
+        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_2/map_poi.geojson",  # Destination dans ton projet web
     )

@@ -1,0 +1,88 @@
+{
+  "id_bat": 93,
+  "libelle": "Hôpital Lariboisière",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": null,
+  "periode": [
+    "1850-1869"
+  ],
+  "adresse": null,
+  "arrondissement": 10,
+  "coordonnees": {
+    "latitude": "48.88305556",
+    "longitude": "2.35305556"
+  },
+  "id_pss": 34317,
+  "id_wikidata": "Q1130784",
+  "WPfr": "Hôpital Lariboisière",
+  "image_ref": "Ambroise-Pare-_10_§1",
+  "terme_jantzen_bat": [
+    "façade",
+    "porte",
+    "fronton",
+    "sculpture",
+    "colonne"
+  ],
+  "photos": [
+    {
+      "id_pic": "Ambroise-Pare-_10_§1",
+      "IndexJantzen": [
+        "colonne",
+        "façade",
+        "porte"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§2",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§3",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§4",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§5",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§6",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§7",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:03:26"
+    },
+    {
+      "id_pic": "Ambroise-Pare-_10_§8",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:03:26"
+    }
+  ]
+}
