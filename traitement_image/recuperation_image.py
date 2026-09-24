@@ -54,13 +54,13 @@ def filtrer_et_copier_photos(
 
     if fichiers_manquants:
         print(f" {len(fichiers_manquants)} photos introuvables dans Dropbox.")
-        with open("../donnees_traitee_jeu_2/photos_manquantes.json", "w", encoding="utf-8") as f_out:
+        with open("../donnees_traitees/donnees_traitees_jeu_3/photos_manquantes.json", "w", encoding="utf-8") as f_out:
             json.dump(fichiers_manquants, f_out, indent=2)
 
 
 if __name__ == "__main__":
     filtrer_et_copier_photos(
-        fichier_json="../donnees_brut_client/donnees_brut_jeu_2/photos.json",
+        fichier_json="../donnees_brut_client/donnees_brut_jeu_3/photos.json",
         dossier_dropbox="/Users/alicefrance/reciproque Dropbox/Alice Francé/JANTZEN/00_SOURCES_EMPO/LES_PHOTOS",
-        dossier_destination="../donnees_traitees/donnees_traitees_jeu_2/photos_jpg",
+        dossier_destination="../donnees_traitees/donnees_traitees_jeu_3/photos_jpg",
     )
