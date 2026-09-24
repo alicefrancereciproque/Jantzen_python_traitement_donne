@@ -5,6 +5,14 @@
 download_personnes_images.py
 
 Télécharge les images Wikimedia Commons décrites dans personnes.json.
+
+Pour chaque personne (id_archi) :
+- le champ "media" donne le nom de fichier (utilisé pour nommer les deux images) ;
+- le champ "thumb" donne l'URL de la vignette, téléchargée telle quelle
+  dans le dossier "thumb" ;
+- l'URL de l'image en pleine résolution est reconstruite à partir du chemin
+  de hash présent dans "thumb" (ex: ".../thumb/c/c6/Fichier.jpg/250px-Fichier.jpg")
+  et téléchargée dans le dossier "media".
 """
 
 import argparse
@@ -18,21 +26,23 @@ from pathlib import Path
 
 import requests
 
-BASE_URL = "https://upload.wikimedia.org/wikipedia/commons"
+THUMB_DIR = Path("thumb")
+MEDIA_DIR = Path("media")
 
-THUMB_DIR = Path("thumb_jpg")
-MEDIA_DIR = Path("media_jpg")
+MEDIA_URL_RE = re.compile(r"/commons/thumb/(?P<hash_path>.+/[^/]+)/[^/]+$")
+
 
 def sanitize_filename(filename: str) -> str:
     """Nettoie un nom de fichier."""
     return re.sub(r'[<>:"/\\|?*\x00-\x1f]', "_", filename).strip()
+
 
 def download_with_retry(
     url: str,
     session: requests.Session,
     max_retries: int = 3,
     initial_delay: float = 5.0,
-    user_agent: str = "ReciproqueImageDownloader/1.0"
+    user_agent: str = "ReciproqueImageDownloader/1.0",
 ):
     """Télécharge une URL avec retry."""
     for attempt in range(max_retries):
@@ -53,6 +63,7 @@ def download_with_retry(
                 continue
             raise
     return None
+
 
 def download_file(
     url: str,
@@ -77,38 +88,22 @@ def download_file(
     destination.write_bytes(r.content)
     return True, "téléchargé"
 
-def build_media_url(media: str, thumb: str | None):
+
+def build_media_url(thumb: str | None):
     """
-    Construit l'URL de l'image originale à partir du champ thumb.
+    Reconstruit l'URL de l'image en pleine résolution à partir du chemin
+    de hash contenu dans l'URL de la vignette (champ "thumb").
     """
     if not thumb:
         return None
 
-    # Supprime les suffixes comme "250px-", "180px-", etc.
-    real_filename = thumb.split("/")[-1].split("px-")[-1]
-
-    # Reconstruit le chemin sans le suffixe de taille
-    parts = thumb.split("/")
-    if len(parts) < 3:
+    path = thumb.split("?", 1)[0]
+    match = MEDIA_URL_RE.search(path)
+    if not match:
         return None
 
-    hash1 = parts[1]
-    hash2 = parts[2]
+    return f"https://upload.wikimedia.org/wikipedia/commons/{match.group('hash_path')}"
 
-    return f"{BASE_URL}/{hash1}/{hash2}/{real_filename}"
-
-def build_thumb_url(thumb: str | None):
-    if not thumb:
-        return None
-
-    # Nettoie les doublons comme "thumb/thumb/"
-    thumb = thumb.replace("thumb/thumb/", "thumb/")
-
-    # Si thumb commence par "thumb/", on l'enlève
-    if thumb.startswith("thumb/"):
-        thumb = thumb[6:]
-
-    return f"{BASE_URL}/{thumb}"
 
 def download_person(
     person,
@@ -127,8 +122,7 @@ def download_person(
 
     results = []
 
-    media_url = build_media_url(media, thumb)
-
+    media_url = build_media_url(thumb)
     if media_url:
         ok, msg = download_file(
             media_url,
@@ -139,11 +133,9 @@ def download_person(
         )
         results.append(("media", filename, ok, msg))
 
-    thumb_url = build_thumb_url(thumb)
-
-    if thumb_url:
+    if thumb:
         ok, msg = download_file(
-            thumb_url,
+            thumb,
             THUMB_DIR / filename,
             session,
             max_retries,
@@ -155,6 +147,7 @@ def download_person(
         time.sleep(delay)
 
     return results
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -233,6 +226,7 @@ def main():
     print(f"Déjà présents : {skipped}")
     print(f"Échecs : {failed}")
     print("---------------------------------------")
+
 
 if __name__ == "__main__":
     main()

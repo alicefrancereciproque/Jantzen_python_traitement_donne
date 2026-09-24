@@ -8,7 +8,7 @@
   "pss":1573,	
   "wikidata":"Q367627",	
   "media":"Paul%20Abadie%20b%202013.jpg",	
-  "thumb":"thumb/c/c6/Paul_Abadie_b_2013.jpg/250px-Paul_Abadie_b_2013.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Paul_Abadie_b_2013.jpg/250px-Paul_Abadie_b_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Paul_Abadie"
 },
 {
@@ -86,7 +86,7 @@
   "pss":4764,	
   "wikidata":"Q3158705",	
   "media":"Louis-Roland%20Trinquesse%20L%E2%80%99architecte%20Jacques-Denis%20Antoine%20Dijon.jpg",	
-  "thumb":"thumb/9/99/Louis-Roland_Trinquesse_L%E2%80%99architecte_Jacques-Denis_Antoine_Dijon.jpg/250px-Louis-Roland_Trinquesse_L%E2%80%99architecte_Jacques-Denis_Antoine_Dijon.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Louis-Roland_Trinquesse_L%E2%80%99architecte_Jacques-Denis_Antoine_Dijon.jpg/250px-Louis-Roland_Trinquesse_L%E2%80%99architecte_Jacques-Denis_Antoine_Dijon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Denis_Antoine"
 },
 {
@@ -125,7 +125,7 @@
   "pss":1072,	
   "wikidata":"Q2834946",	
   "media":"Rivista%20italiana%20di%20numismatica%20p%20406.png",	
-  "thumb":"thumb/7/7f/Rivista_italiana_di_numismatica_p_406.png/250px-Rivista_italiana_di_numismatica_p_406.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Rivista_italiana_di_numismatica_p_406.png/250px-Rivista_italiana_di_numismatica_p_406.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Alfred_Armand"
 },
 {
@@ -164,7 +164,7 @@
   "pss":2557,	
   "wikidata":"Q40000740",	
   "media":"Paris-ruedesursins-astruc.jpg",	
-  "thumb":"thumb/3/32/Paris-ruedesursins-astruc.jpg/250px-Paris-ruedesursins-astruc.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Paris-ruedesursins-astruc.jpg/250px-Paris-ruedesursins-astruc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jules-Godefroy_Astruc"
 },
 {
@@ -272,6 +272,19 @@
   "WPfr":null
 },
 {
+  "id_archi":29,	
+  "libelle":"Auguste Bahrmann",	
+  "nom":"Bahrmann",	
+  "prenom":"Auguste",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":30,	
   "libelle":"Antoine-Nicolas Bailly",	
   "nom":"Bailly",	
@@ -281,7 +294,7 @@
   "pss":11538,	
   "wikidata":"Q2853539",	
   "media":"Bailly%2C%20Antoine%20Nicolas%20%28d%27apr%C3%A8s%20Truchelut%29.jpg",	
-  "thumb":"thumb/b/b3/Bailly%2C_Antoine_Nicolas_%28d%27apr%C3%A8s_Truchelut%29.jpg/250px-Bailly%2C_Antoine_Nicolas_%28d%27apr%C3%A8s_Truchelut%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bailly%2C_Antoine_Nicolas_%28d%27apr%C3%A8s_Truchelut%29.jpg/250px-Bailly%2C_Antoine_Nicolas_%28d%27apr%C3%A8s_Truchelut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Antoine-Nicolas_Bailly"
 },
 {
@@ -359,7 +372,7 @@
   "pss":130,	
   "wikidata":"Q690231",	
   "media":"BalluT.jpg",	
-  "thumb":"thumb/a/a7/BalluT.jpg/250px-BalluT.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/BalluT.jpg/250px-BalluT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Th%C3%A9odore_Ballu"
 },
 {
@@ -372,7 +385,7 @@
   "pss":129,	
   "wikidata":"Q497177",	
   "media":"Victor%20Baltard.jpg",	
-  "thumb":"c/c0/Victor_Baltard.jpg",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Victor_Baltard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Victor_Baltard"
 },
 {
@@ -385,7 +398,7 @@
   "pss":2475,	
   "wikidata":"Q15970451",	
   "media":"Barbaud%2C%20Raymond%20%28Excelsior%201914-06-03%29.jpg",	
-  "thumb":"thumb/8/84/Barbaud%2C_Raymond_%28Excelsior_1914-06-03%29.jpg/250px-Barbaud%2C_Raymond_%28Excelsior_1914-06-03%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Barbaud%2C_Raymond_%28Excelsior_1914-06-03%29.jpg/250px-Barbaud%2C_Raymond_%28Excelsior_1914-06-03%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Raymond_Barbaud"
 },
 {
@@ -424,7 +437,7 @@
   "pss":11165,	
   "wikidata":"Q326990",	
   "media":"Henri%20Bard%20en%201913.jpg",	
-  "thumb":"thumb/d/d3/Henri_Bard_en_1913.jpg/250px-Henri_Bard_en_1913.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Henri_Bard_en_1913.jpg/250px-Henri_Bard_en_1913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Henri_Bard"
 },
 {
@@ -476,7 +489,7 @@
   "pss":2584,	
   "wikidata":"Q487551",	
   "media":"Anatole%20de%20Baudot.jpg",	
-  "thumb":"5/51/Anatole_de_Baudot.jpg",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/5/51/Anatole_de_Baudot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Anatole_de_Baudot"
 },
 {
@@ -541,7 +554,7 @@
   "pss":null,	
   "wikidata":"Q13400430",	
   "media":"Portrait%20de%20Jean-Baptiste-Augustin%20Beausire%20%281693-1764%29%2C%20architecte%20du%20Roi%20et%20et%20ma%C3%AEtre%20g%C3%A9n%C3%A9ral%20des%20b%C3%A2timents%20de%20la%20vill%2C%20S1%289%29.jpg",	
-  "thumb":"thumb/5/50/Portrait_de_Jean-Baptiste-Augustin_Beausire_%281693-1764%29%2C_architecte_du_Roi_et_et_ma%C3%AEtre_g%C3%A9n%C3%A9ral_des_b%C3%A2timents_de_la_vill%2C_S1%289%29.jpg/250px-Portrait_de_Jean-Baptiste-Augustin_Beausire_%281693-1764%29%2C_architecte_du_Roi_et_et_ma%C3%AEtre_g%C3%A9n%C3%A9ral_des_b%C3%A2timents_de_la_vill%2C_S1%289%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Portrait_de_Jean-Baptiste-Augustin_Beausire_%281693-1764%29%2C_architecte_du_Roi_et_et_ma%C3%AEtre_g%C3%A9n%C3%A9ral_des_b%C3%A2timents_de_la_vill%2C_S1%289%29.jpg/250px-Portrait_de_Jean-Baptiste-Augustin_Beausire_%281693-1764%29%2C_architecte_du_Roi_et_et_ma%C3%AEtre_g%C3%A9n%C3%A9ral_des_b%C3%A2timents_de_la_vill%2C_S1%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean-Baptiste_Augustin_Beausire"
 },
 {
@@ -671,7 +684,7 @@
   "pss":3095,	
   "wikidata":"Q3261237",	
   "media":"Bernier%20C1893%20Pictures%20%E2%80%93%20Getty%20Images.jpg",	
-  "thumb":"thumb/2/24/Bernier_C1893_Pictures_%E2%80%93_Getty_Images.jpg/250px-Bernier_C1893_Pictures_%E2%80%93_Getty_Images.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bernier_C1893_Pictures_%E2%80%93_Getty_Images.jpg/250px-Bernier_C1893_Pictures_%E2%80%93_Getty_Images.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Louis_Bernier"
 },
 {
@@ -827,7 +840,7 @@
   "pss":228,	
   "wikidata":"Q674624",	
   "media":"Portrait%20de%20Paul%20Bigot%20%2825231059773%29%20%28cropped%29.jpg",	
-  "thumb":"thumb/a/ac/Portrait_de_Paul_Bigot_%2825231059773%29_%28cropped%29.jpg/250px-Portrait_de_Paul_Bigot_%2825231059773%29_%28cropped%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_de_Paul_Bigot_%2825231059773%29_%28cropped%29.jpg/250px-Portrait_de_Paul_Bigot_%2825231059773%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Paul_Bigot"
 },
 {
@@ -853,7 +866,7 @@
   "pss":11030,	
   "wikidata":"Q3425861",	
   "media":"Ren%C3%A9%20Binet%20architecte.jpeg",	
-  "thumb":"thumb/d/db/Ren%C3%A9_Binet_architecte.jpeg/250px-Ren%C3%A9_Binet_architecte.jpeg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ren%C3%A9_Binet_architecte.jpeg/250px-Ren%C3%A9_Binet_architecte.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Ren%C3%A9_Binet_(architecte)"
 },
 {
@@ -892,7 +905,7 @@
   "pss":2553,	
   "wikidata":"Q27915784",	
   "media":"Portrait%20charles%20blanche.png",	
-  "thumb":"thumb/b/b1/Portrait_charles_blanche.png/250px-Portrait_charles_blanche.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Portrait_charles_blanche.png/250px-Portrait_charles_blanche.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_Blanche"
 },
 {
@@ -996,12 +1009,12 @@
   "pss":1108,	
   "wikidata":"Q3130698",	
   "media":"Blondel%2C%20Henri%20%28Panth%C3%A9on%20de%20l%27industrie%2C%201880-05-02%29.jpg",	
-  "thumb":"thumb/f/ff/Blondel%2C_Henri_%28Panth%C3%A9on_de_l%27industrie%2C_1880-05-02%29.jpg/250px-Blondel%2C_Henri_%28Panth%C3%A9on_de_l%27industrie%2C_1880-05-02%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Blondel%2C_Henri_%28Panth%C3%A9on_de_l%27industrie%2C_1880-05-02%29.jpg/250px-Blondel%2C_Henri_%28Panth%C3%A9on_de_l%27industrie%2C_1880-05-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Henri_Blondel"
 },
 {
   "id_archi":100,	
-  "libelle":"چاك فرانسوا بلونديل",	
+  "libelle":"Jacques-François Blondel",	
   "nom":"Blondel",	
   "prenom":"Jacques François",	
   "dates":"1705-1774",	
@@ -1009,7 +1022,7 @@
   "pss":3776,	
   "wikidata":"Q430136",	
   "media":"Portrait%20of%20Jacques-Fran%C3%A7ois%20Blondel%20-%20Mus%C3%A9e%20Carnavalet%20-%20Braham%201980%20p37.jpg",	
-  "thumb":"thumb/1/1a/Portrait_of_Jacques-Fran%C3%A7ois_Blondel_-_Mus%C3%A9e_Carnavalet_-_Braham_1980_p37.jpg/250px-Portrait_of_Jacques-Fran%C3%A7ois_Blondel_-_Mus%C3%A9e_Carnavalet_-_Braham_1980_p37.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Portrait_of_Jacques-Fran%C3%A7ois_Blondel_-_Mus%C3%A9e_Carnavalet_-_Braham_1980_p37.jpg/250px-Portrait_of_Jacques-Fran%C3%A7ois_Blondel_-_Mus%C3%A9e_Carnavalet_-_Braham_1980_p37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques-Fran%C3%A7ois_Blondel"
 },
 {
@@ -1035,7 +1048,7 @@
   "pss":6349,	
   "wikidata":"Q766119",	
   "media":"Bluysen%2C%20Auguste.jpg",	
-  "thumb":"thumb/5/52/Bluysen%2C_Auguste.jpg/250px-Bluysen%2C_Auguste.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bluysen%2C_Auguste.jpg/250px-Bluysen%2C_Auguste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Auguste_Bluysen"
 },
 {
@@ -1087,7 +1100,7 @@
   "pss":3015,	
   "wikidata":"Q1311013",	
   "media":"GermainBoffrandPortrait.jpg",	
-  "thumb":"thumb/7/73/GermainBoffrandPortrait.jpg/250px-GermainBoffrandPortrait.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/GermainBoffrandPortrait.jpg/250px-GermainBoffrandPortrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Germain_Boffrand"
 },
 {
@@ -1100,7 +1113,7 @@
   "pss":6403,	
   "wikidata":"Q15845523",	
   "media":"Richard%20Bouwens%20van%20der%20Boijen.jpg",	
-  "thumb":"7/7a/Richard_Bouwens_van_der_Boijen.jpg",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Richard_Bouwens_van_der_Boijen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Richard_Bouwens_van_der_Boijen"
 },
 {
@@ -1113,7 +1126,7 @@
   "pss":1006,	
   "wikidata":"Q3260414",	
   "media":"Boileau%2C%20Louis-Charles.jpg",	
-  "thumb":"thumb/2/2a/Boileau%2C_Louis-Charles.jpg/250px-Boileau%2C_Louis-Charles.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Boileau%2C_Louis-Charles.jpg/250px-Boileau%2C_Louis-Charles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Louis-Charles_Boileau"
 },
 {
@@ -1282,7 +1295,7 @@
   "pss":288,	
   "wikidata":"Q3261311",	
   "media":"Bonnier%2C%20Louis%20%28phot.%20Braun%2C%20Cl%C3%A9ment%20%26%20Cie%29.jpg",	
-  "thumb":"thumb/6/60/Bonnier%2C_Louis_%28phot._Braun%2C_Cl%C3%A9ment_%26_Cie%29.jpg/250px-Bonnier%2C_Louis_%28phot._Braun%2C_Cl%C3%A9ment_%26_Cie%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bonnier%2C_Louis_%28phot._Braun%2C_Cl%C3%A9ment_%26_Cie%29.jpg/250px-Bonnier%2C_Louis_%28phot._Braun%2C_Cl%C3%A9ment_%26_Cie%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Louis_Bonnier"
 },
 {
@@ -1416,6 +1429,19 @@
   "WPfr":null
 },
 {
+  "id_archi":140,	
+  "libelle":"Ch. Bourgeois",	
+  "nom":"Bourgeois",	
+  "prenom":"Ch.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":141,	
   "libelle":"Georges Bourgouin",	
   "nom":"Bourgouin",	
@@ -1442,19 +1468,6 @@
   "WPfr":null
 },
 {
-  "id_archi":143,	
-  "libelle":"Émile Boursier",	
-  "nom":"Boursier",	
-  "prenom":"Émile ",	
-  "dates":null,	
-  "orsay":null,	
-  "pss":10319,	
-  "wikidata":null,	
-  "media":null,	
-  "thumb":null,	
-  "WPfr":null
-},
-{
   "id_archi":144,	
   "libelle":"Jean-Marie Boussard",	
   "nom":"Boussard",	
@@ -1464,7 +1477,7 @@
   "pss":5422,	
   "wikidata":"Q18511549",	
   "media":"Jean%20Boussard.png",	
-  "thumb":"thumb/2/27/Jean_Boussard.png/250px-Jean_Boussard.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Jean_Boussard.png/250px-Jean_Boussard.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean_Boussard"
 },
 {
@@ -1490,7 +1503,7 @@
   "pss":4173,	
   "wikidata":"Q3184174",	
   "media":"Exposition%20universelle%20de%201900%20-%20portraits%20des%20commissaires%20g%C3%A9n%C3%A9raux-Joseph-Antoine%20Bouvard.jpg",	
-  "thumb":"thumb/2/23/Exposition_universelle_de_1900_-_portraits_des_commissaires_g%C3%A9n%C3%A9raux-Joseph-Antoine_Bouvard.jpg/250px-Exposition_universelle_de_1900_-_portraits_des_commissaires_g%C3%A9n%C3%A9raux-Joseph-Antoine_Bouvard.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Exposition_universelle_de_1900_-_portraits_des_commissaires_g%C3%A9n%C3%A9raux-Joseph-Antoine_Bouvard.jpg/250px-Exposition_universelle_de_1900_-_portraits_des_commissaires_g%C3%A9n%C3%A9raux-Joseph-Antoine_Bouvard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Joseph-Antoine_Bouvard"
 },
 {
@@ -1542,8 +1555,34 @@
   "pss":1110,	
   "wikidata":"Q3419133",	
   "media":"Raoul%20Brandon.jpg",	
-  "thumb":"thumb/e/e1/Raoul_Brandon.jpg/250px-Raoul_Brandon.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Raoul_Brandon.jpg/250px-Raoul_Brandon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Raoul_Brandon"
+},
+{
+  "id_archi":154,	
+  "libelle":"A. Brasseau",	
+  "nom":"Brasseau",	
+  "prenom":"A. ",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":10347,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":155,	
+  "libelle":"SC. Brasseau",	
+  "nom":"Brasseau",	
+  "prenom":"SC.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
 },
 {
   "id_archi":156,	
@@ -1620,7 +1659,7 @@
   "pss":1003,	
   "wikidata":"Q725816",	
   "media":"Salomondebrosserubens.jpg",	
-  "thumb":"thumb/4/43/Salomondebrosserubens.jpg/250px-Salomondebrosserubens.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Salomondebrosserubens.jpg/250px-Salomondebrosserubens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Salomon_de_Brosse"
 },
 {
@@ -1893,7 +1932,7 @@
   "pss":3818,	
   "wikidata":"Q2385381",	
   "media":"Galerie%20d%27Apollon-%20Louvre%20-%20Androuet%20du%20Cerceau%20%E2%80%93%20Tapisserie%20Gobelins%20%28adjusted%20detail%29.jpg",	
-  "thumb":"thumb/6/63/Galerie_d%27Apollon-_Louvre_-_Androuet_du_Cerceau_%E2%80%93_Tapisserie_Gobelins_%28adjusted_detail%29.jpg/250px-Galerie_d%27Apollon-_Louvre_-_Androuet_du_Cerceau_%E2%80%93_Tapisserie_Gobelins_%28adjusted_detail%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Galerie_d%27Apollon-_Louvre_-_Androuet_du_Cerceau_%E2%80%93_Tapisserie_Gobelins_%28adjusted_detail%29.jpg/250px-Galerie_d%27Apollon-_Louvre_-_Androuet_du_Cerceau_%E2%80%93_Tapisserie_Gobelins_%28adjusted_detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques_II_Androuet_du_Cerceau"
 },
 {
@@ -1945,7 +1984,7 @@
   "pss":10619,	
   "wikidata":"Q1464802",	
   "media":"Wilbrod%20Chabrol%2C%20architecte%20de%20la%20Com%C3%A9die-Fran%C3%A7aise.jpg",	
-  "thumb":"thumb/b/bb/Wilbrod_Chabrol%2C_architecte_de_la_Com%C3%A9die-Fran%C3%A7aise.jpg/250px-Wilbrod_Chabrol%2C_architecte_de_la_Com%C3%A9die-Fran%C3%A7aise.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Wilbrod_Chabrol%2C_architecte_de_la_Com%C3%A9die-Fran%C3%A7aise.jpg/250px-Wilbrod_Chabrol%2C_architecte_de_la_Com%C3%A9die-Fran%C3%A7aise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Wilbrod_Chabrol"
 },
 {
@@ -1971,7 +2010,7 @@
   "pss":177,	
   "wikidata":"Q525487",	
   "media":"ChalgrinArchitecte.jpg",	
-  "thumb":"thumb/9/98/ChalgrinArchitecte.jpg/250px-ChalgrinArchitecte.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/ChalgrinArchitecte.jpg/250px-ChalgrinArchitecte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean-Fran%C3%A7ois_Chalgrin"
 },
 {
@@ -2088,7 +2127,7 @@
   "pss":3821,	
   "wikidata":"Q1096583",	
   "media":"Nicolas%20de%20Chatillon%209161.JPG",	
-  "thumb":"thumb/e/e0/Nicolas_de_Chatillon_9161.JPG/250px-Nicolas_de_Chatillon_9161.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nicolas_de_Chatillon_9161.JPG/250px-Nicolas_de_Chatillon_9161.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Claude_Chastillon"
 },
 {
@@ -2114,7 +2153,7 @@
   "pss":208,	
   "wikidata":"Q327014",	
   "media":"Monument%20%28du%20centaire%20de%20l%27ind%C3%A9pendance%29%20de%20la%20r%C3%A9publique%20argentine%20-%20Gauche%20%C3%A0%20droite%20-%20M.%20Gasq%2C%20sculpteur%20et%20Chedanne%2C%20architecte%20-%20btv1b531096019.jpg",	
-  "thumb":"thumb/b/b0/Monument_%28du_centaire_de_l%27ind%C3%A9pendance%29_de_la_r%C3%A9publique_argentine_-_Gauche_%C3%A0_droite_-_M._Gasq%2C_sculpteur_et_Chedanne%2C_architecte_-_btv1b531096019.jpg/250px-Monument_%28du_centaire_de_l%27ind%C3%A9pendance%29_de_la_r%C3%A9publique_argentine_-_Gauche_%C3%A0_droite_-_M._Gasq%2C_sculpteur_et_Chedanne%2C_architecte_-_btv1b531096019.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Monument_%28du_centaire_de_l%27ind%C3%A9pendance%29_de_la_r%C3%A9publique_argentine_-_Gauche_%C3%A0_droite_-_M._Gasq%2C_sculpteur_et_Chedanne%2C_architecte_-_btv1b531096019.jpg/250px-Monument_%28du_centaire_de_l%27ind%C3%A9pendance%29_de_la_r%C3%A9publique_argentine_-_Gauche_%C3%A0_droite_-_M._Gasq%2C_sculpteur_et_Chedanne%2C_architecte_-_btv1b531096019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Georges_Chedanne"
 },
 {
@@ -2361,7 +2400,7 @@
   "pss":188,	
   "wikidata":"Q1287541",	
   "media":"Corroyer-Edouard.png",	
-  "thumb":"thumb/5/59/Corroyer-Edouard.png/250px-Corroyer-Edouard.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Corroyer-Edouard.png/250px-Corroyer-Edouard.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"%C3%89douard_Corroyer"
 },
 {
@@ -2400,7 +2439,7 @@
   "pss":3613,	
   "wikidata":"Q568839",	
   "media":"Robert%20de%20Cotte.JPG",	
-  "thumb":"thumb/e/e5/Robert_de_Cotte.JPG/250px-Robert_de_Cotte.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Robert_de_Cotte.JPG/250px-Robert_de_Cotte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Robert_de_Cotte"
 },
 {
@@ -2452,7 +2491,7 @@
   "pss":null,	
   "wikidata":"Q16219255",	
   "media":"Octave%20Courtois-Suffit.png",	
-  "thumb":"thumb/1/1c/Octave_Courtois-Suffit.png/250px-Octave_Courtois-Suffit.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Octave_Courtois-Suffit.png/250px-Octave_Courtois-Suffit.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Octave_Courtois-Suffit"
 },
 {
@@ -2478,7 +2517,7 @@
   "pss":null,	
   "wikidata":"Q124905996",	
   "media":"1900-09-08-Cousin-arquitecto.jpg",	
-  "thumb":"thumb/4/49/1900-09-08-Cousin-arquitecto.jpg/250px-1900-09-08-Cousin-arquitecto.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/1900-09-08-Cousin-arquitecto.jpg/250px-1900-09-08-Cousin-arquitecto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":null
 },
 {
@@ -2673,7 +2712,7 @@
   "pss":3823,	
   "wikidata":"Q3140221",	
   "media":"Honor%C3%A9%20Daumet%20vers%201880.jpg",	
-  "thumb":"thumb/f/f6/Honor%C3%A9_Daumet_vers_1880.jpg/250px-Honor%C3%A9_Daumet_vers_1880.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Honor%C3%A9_Daumet_vers_1880.jpg/250px-Honor%C3%A9_Daumet_vers_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Honor%C3%A9_Daumet"
 },
 {
@@ -2712,7 +2751,7 @@
   "pss":3571,	
   "wikidata":"Q979605",	
   "media":"Gabriel%20Davioud%20Vallette%20Truchelut.png",	
-  "thumb":"thumb/3/3f/Gabriel_Davioud_Vallette_Truchelut.png/250px-Gabriel_Davioud_Vallette_Truchelut.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Gabriel_Davioud_Vallette_Truchelut.png/250px-Gabriel_Davioud_Vallette_Truchelut.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Gabriel_Davioud"
 },
 {
@@ -2751,7 +2790,7 @@
   "pss":1226,	
   "wikidata":"Q15967224",	
   "media":"Pierre%20Vign%C3%A9%2C%20called%20Vign%C3%A9%20de%20Vigny%20%281690-1772%29%2C%20by%20Jean%20Restout%20II.jpg",	
-  "thumb":"thumb/f/fe/Pierre_Vign%C3%A9%2C_called_Vign%C3%A9_de_Vigny_%281690-1772%29%2C_by_Jean_Restout_II.jpg/250px-Pierre_Vign%C3%A9%2C_called_Vign%C3%A9_de_Vigny_%281690-1772%29%2C_by_Jean_Restout_II.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pierre_Vign%C3%A9%2C_called_Vign%C3%A9_de_Vigny_%281690-1772%29%2C_by_Jean_Restout_II.jpg/250px-Pierre_Vign%C3%A9%2C_called_Vign%C3%A9_de_Vigny_%281690-1772%29%2C_by_Jean_Restout_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Pierre_Vign%C3%A9_de_Vigny"
 },
 {
@@ -2777,7 +2816,7 @@
   "pss":10663,	
   "wikidata":"Q45618155",	
   "media":"Debrie%2C%20Georges.jpg",	
-  "thumb":"thumb/3/3d/Debrie%2C_Georges.jpg/250px-Debrie%2C_Georges.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Debrie%2C_Georges.jpg/250px-Debrie%2C_Georges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Georges_Debrie"
 },
 {
@@ -2803,7 +2842,7 @@
   "pss":773,	
   "wikidata":"Q3130936",	
   "media":"Henri%20Deglane%2C%201905%20ou%20avant.jpg",	
-  "thumb":"thumb/5/5e/Henri_Deglane%2C_1905_ou_avant.jpg/250px-Henri_Deglane%2C_1905_ou_avant.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Henri_Deglane%2C_1905_ou_avant.jpg/250px-Henri_Deglane%2C_1905_ou_avant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Henri_Deglane"
 },
 {
@@ -2959,7 +2998,7 @@
   "pss":null,	
   "wikidata":"Q3059844",	
   "media":"Eug%C3%A8ne%20Demangeat.png",	
-  "thumb":"d/d7/Eug%C3%A8ne_Demangeat.png",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Eug%C3%A8ne_Demangeat.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Eug%C3%A8ne_Demangeat"
 },
 {
@@ -3011,7 +3050,7 @@
   "pss":12029,	
   "wikidata":"Q3579807",	
   "media":"Deperthes%2C%20Edouard.jpg",	
-  "thumb":"thumb/5/5c/Deperthes%2C_Edouard.jpg/250px-Deperthes%2C_Edouard.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Deperthes%2C_Edouard.jpg/250px-Deperthes%2C_Edouard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"%C3%89douard_Deperthes"
 },
 {
@@ -3128,7 +3167,7 @@
   "pss":6284,	
   "wikidata":"Q1488829",	
   "media":"Sketch%20of%20Hippolyte%20Destailleur%20by%20Walter-Andr%C3%A9%20Destailleur%20-%20Pons%201996%20p24.jpg",	
-  "thumb":"thumb/c/cc/Sketch_of_Hippolyte_Destailleur_by_Walter-Andr%C3%A9_Destailleur_-_Pons_1996_p24.jpg/250px-Sketch_of_Hippolyte_Destailleur_by_Walter-Andr%C3%A9_Destailleur_-_Pons_1996_p24.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Sketch_of_Hippolyte_Destailleur_by_Walter-Andr%C3%A9_Destailleur_-_Pons_1996_p24.jpg/250px-Sketch_of_Hippolyte_Destailleur_by_Walter-Andr%C3%A9_Destailleur_-_Pons_1996_p24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Hippolyte_Destailleur"
 },
 {
@@ -3245,7 +3284,7 @@
   "pss":null,	
   "wikidata":"Q653434",	
   "media":"F%C3%A9lix%20Duban%20BNF%20Gallica.jpg",	
-  "thumb":"thumb/7/7a/F%C3%A9lix_Duban_BNF_Gallica.jpg/250px-F%C3%A9lix_Duban_BNF_Gallica.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/F%C3%A9lix_Duban_BNF_Gallica.jpg/250px-F%C3%A9lix_Duban_BNF_Gallica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"F%C3%A9lix_Duban"
 },
 {
@@ -3479,7 +3518,7 @@
   "pss":210,	
   "wikidata":"Q1699918",	
   "media":"Eberson%20Head%201912.jpg",	
-  "thumb":"thumb/7/7f/Eberson_Head_1912.jpg/250px-Eberson_Head_1912.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Eberson_Head_1912.jpg/250px-Eberson_Head_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":null
 },
 {
@@ -3817,7 +3856,7 @@
   "pss":11154,	
   "wikidata":"Q722829",	
   "media":"Portrait%20of%20a%20gentleman%2C%20perhaps%20the%20architect%20Jacques%20Gondouin.png",	
-  "thumb":"thumb/a/a2/Portrait_of_a_gentleman%2C_perhaps_the_architect_Jacques_Gondouin.png/250px-Portrait_of_a_gentleman%2C_perhaps_the_architect_Jacques_Gondouin.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Portrait_of_a_gentleman%2C_perhaps_the_architect_Jacques_Gondouin.png/250px-Portrait_of_a_gentleman%2C_perhaps_the_architect_Jacques_Gondouin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques_Gondouin"
 },
 {
@@ -3856,7 +3895,7 @@
   "pss":1019,	
   "wikidata":"Q652952",	
   "media":"P-F-L.%20Fontaine%20par%20JD%20Court%20-%20Ch%C3%A2teau%20de%20Versailles.jpg",	
-  "thumb":"thumb/a/ab/P-F-L._Fontaine_par_JD_Court_-_Ch%C3%A2teau_de_Versailles.jpg/250px-P-F-L._Fontaine_par_JD_Court_-_Ch%C3%A2teau_de_Versailles.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/P-F-L._Fontaine_par_JD_Court_-_Ch%C3%A2teau_de_Versailles.jpg/250px-P-F-L._Fontaine_par_JD_Court_-_Ch%C3%A2teau_de_Versailles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Pierre_Fontaine_(architecte)"
 },
 {
@@ -3882,7 +3921,7 @@
   "pss":1589,	
   "wikidata":"Q1685409",	
   "media":"Jean%20Camille%20Formige%201889.png",	
-  "thumb":"thumb/4/47/Jean_Camille_Formige_1889.png/250px-Jean_Camille_Formige_1889.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Jean_Camille_Formige_1889.png/250px-Jean_Camille_Formige_1889.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean_Camille_Formig%C3%A9"
 },
 {
@@ -4077,7 +4116,7 @@
   "pss":2585,	
   "wikidata":"Q542879",	
   "media":"Paul%20Fries%C3%A9.jpg",	
-  "thumb":"thumb/4/49/Paul_Fries%C3%A9.jpg/250px-Paul_Fries%C3%A9.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Paul_Fries%C3%A9.jpg/250px-Paul_Fries%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Paul_Fries%C3%A9"
 },
 {
@@ -4103,7 +4142,7 @@
   "pss":1029,	
   "wikidata":"Q352451",	
   "media":"Ange%20Jacques%20Gabriel%20door%20Jean-Baptiste%20Greuze%20Louvre.jpg",	
-  "thumb":"thumb/6/68/Ange_Jacques_Gabriel_door_Jean-Baptiste_Greuze_Louvre.jpg/250px-Ange_Jacques_Gabriel_door_Jean-Baptiste_Greuze_Louvre.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ange_Jacques_Gabriel_door_Jean-Baptiste_Greuze_Louvre.jpg/250px-Ange_Jacques_Gabriel_door_Jean-Baptiste_Greuze_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Ange-Jacques_Gabriel"
 },
 {
@@ -4116,7 +4155,7 @@
   "pss":737,	
   "wikidata":"Q3158954",	
   "media":"Jacques%20V%20Gabriel.jpg",	
-  "thumb":"thumb/5/52/Jacques_V_Gabriel.jpg/250px-Jacques_V_Gabriel.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jacques_V_Gabriel.jpg/250px-Jacques_V_Gabriel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques_Gabriel_(1667-1742)"
 },
 {
@@ -4181,7 +4220,7 @@
   "pss":4291,	
   "wikidata":"Q3189503",	
   "media":"Le%20Touquet-Paris-Plage%20plaque%20architecte%20Julien%20Galopin.jpg",	
-  "thumb":"thumb/8/8d/Le_Touquet-Paris-Plage_plaque_architecte_Julien_Galopin.jpg/250px-Le_Touquet-Paris-Plage_plaque_architecte_Julien_Galopin.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Le_Touquet-Paris-Plage_plaque_architecte_Julien_Galopin.jpg/250px-Le_Touquet-Paris-Plage_plaque_architecte_Julien_Galopin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Julien_Galopin"
 },
 {
@@ -4233,7 +4272,7 @@
   "pss":988,	
   "wikidata":"Q313556",	
   "media":"Charles%20Garnier%20by%20Nadar%20-%20Leniaud%202003%20p142.jpg",	
-  "thumb":"thumb/c/c2/Charles_Garnier_by_Nadar_-_Leniaud_2003_p142.jpg/250px-Charles_Garnier_by_Nadar_-_Leniaud_2003_p142.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Charles_Garnier_by_Nadar_-_Leniaud_2003_p142.jpg/250px-Charles_Garnier_by_Nadar_-_Leniaud_2003_p142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_Garnier_(architecte)"
 },
 {
@@ -4467,7 +4506,7 @@
   "pss":3599,	
   "wikidata":"Q3270995",	
   "media":"L%C3%A9on%20Ginain.jpg",	
-  "thumb":"thumb/7/77/L%C3%A9on_Ginain.jpg/250px-L%C3%A9on_Ginain.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/L%C3%A9on_Ginain.jpg/250px-L%C3%A9on_Ginain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"L%C3%A9on_Ginain"
 },
 {
@@ -4506,7 +4545,7 @@
   "pss":776,	
   "wikidata":"Q1064558",	
   "media":"Charles%20Girault%20by%20Fran%C3%A7ois%20Schommer.jpg",	
-  "thumb":"thumb/4/4c/Charles_Girault_by_Fran%C3%A7ois_Schommer.jpg/250px-Charles_Girault_by_Fran%C3%A7ois_Schommer.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Charles_Girault_by_Fran%C3%A7ois_Schommer.jpg/250px-Charles_Girault_by_Fran%C3%A7ois_Schommer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_Girault"
 },
 {
@@ -4558,7 +4597,7 @@
   "pss":1004,	
   "wikidata":"Q2840019",	
   "media":"Alphonse%20de%20Gisors%2C%20lithographie%20de%20Deveria%20-%20Hustin%201904%20p37%20-%20Google%20Books.jpg",	
-  "thumb":"thumb/f/f3/Alphonse_de_Gisors%2C_lithographie_de_Deveria_-_Hustin_1904_p37_-_Google_Books.jpg/250px-Alphonse_de_Gisors%2C_lithographie_de_Deveria_-_Hustin_1904_p37_-_Google_Books.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Alphonse_de_Gisors%2C_lithographie_de_Deveria_-_Hustin_1904_p37_-_Google_Books.jpg/250px-Alphonse_de_Gisors%2C_lithographie_de_Deveria_-_Hustin_1904_p37_-_Google_Books.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Alphonse_de_Gisors"
 },
 {
@@ -4649,7 +4688,7 @@
   "pss":6419,	
   "wikidata":"Q21027991",	
   "media":"Emmanuel%20Gonse%20par%20Etienne%20Dinet.jpg",	
-  "thumb":"thumb/4/47/Emmanuel_Gonse_par_Etienne_Dinet.jpg/250px-Emmanuel_Gonse_par_Etienne_Dinet.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Emmanuel_Gonse_par_Etienne_Dinet.jpg/250px-Emmanuel_Gonse_par_Etienne_Dinet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Emmanuel_Gonse"
 },
 {
@@ -4779,7 +4818,7 @@
   "pss":12210,	
   "wikidata":"Q110017852",	
   "media":"Louis%20Granet.png",	
-  "thumb":"thumb/3/39/Louis_Granet.png/250px-Louis_Granet.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Louis_Granet.png/250px-Louis_Granet.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":null
 },
 {
@@ -4826,6 +4865,19 @@
   "libelle":"H. Grenet",	
   "nom":"Grenet",	
   "prenom":"H.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":440,	
+  "libelle":"G. Grenot",	
+  "nom":"Grenot",	
+  "prenom":"G.",	
   "dates":null,	
   "orsay":null,	
   "pss":null,	
@@ -4896,7 +4948,7 @@
   "pss":11036,	
   "wikidata":"Q3189515",	
   "media":"Julien%20Guadet%20par%20Pourchet.jpg",	
-  "thumb":"thumb/1/19/Julien_Guadet_par_Pourchet.jpg/250px-Julien_Guadet_par_Pourchet.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Julien_Guadet_par_Pourchet.jpg/250px-Julien_Guadet_par_Pourchet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Julien_Guadet"
 },
 {
@@ -4909,7 +4961,7 @@
   "pss":567,	
   "wikidata":"Q3371378",	
   "media":"Portrait%20de%20Paul%20Guadet%2C%20par%20%C3%89douard%20Pourchet.jpg",	
-  "thumb":"thumb/2/22/Portrait_de_Paul_Guadet%2C_par_%C3%89douard_Pourchet.jpg/250px-Portrait_de_Paul_Guadet%2C_par_%C3%89douard_Pourchet.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Portrait_de_Paul_Guadet%2C_par_%C3%89douard_Pourchet.jpg/250px-Portrait_de_Paul_Guadet%2C_par_%C3%89douard_Pourchet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Paul_Guadet"
 },
 {
@@ -4948,7 +5000,7 @@
   "pss":8701,	
   "wikidata":"Q19359363",	
   "media":"Albert%20Guilbert.png",	
-  "thumb":"thumb/c/c8/Albert_Guilbert.png/250px-Albert_Guilbert.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Albert_Guilbert.png/250px-Albert_Guilbert.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Albert_Guilbert"
 },
 {
@@ -4987,7 +5039,7 @@
   "pss":545,	
   "wikidata":"Q316422",	
   "media":"Hector-Guimard-%281907%29.jpg",	
-  "thumb":"thumb/b/bf/Hector-Guimard-%281907%29.jpg/250px-Hector-Guimard-%281907%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hector-Guimard-%281907%29.jpg/250px-Hector-Guimard-%281907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Hector_Guimard"
 },
 {
@@ -5052,7 +5104,7 @@
   "pss":125,	
   "wikidata":"Q8053",	
   "media":"Rigaud%20Mansart.jpg",	
-  "thumb":"thumb/9/96/Rigaud_Mansart.jpg/250px-Rigaud_Mansart.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rigaud_Mansart.jpg/250px-Rigaud_Mansart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jules_Hardouin-Mansart"
 },
 {
@@ -5091,7 +5143,7 @@
   "pss":2288,	
   "wikidata":"Q256230",	
   "media":"Fran%C3%A7ois%20Hennebique%20%281842%E2%80%931921%29.png",	
-  "thumb":"thumb/7/79/Fran%C3%A7ois_Hennebique_%281842%E2%80%931921%29.png/250px-Fran%C3%A7ois_Hennebique_%281842%E2%80%931921%29.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Fran%C3%A7ois_Hennebique_%281842%E2%80%931921%29.png/250px-Fran%C3%A7ois_Hennebique_%281842%E2%80%931921%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Fran%C3%A7ois_Hennebique"
 },
 {
@@ -5182,7 +5234,7 @@
   "pss":1109,	
   "wikidata":"Q536349",	
   "media":"Hermant%2C%20Jacques.jpg",	
-  "thumb":"thumb/1/16/Hermant%2C_Jacques.jpg/250px-Hermant%2C_Jacques.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hermant%2C_Jacques.jpg/250px-Hermant%2C_Jacques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques_Hermant"
 },
 {
@@ -5208,7 +5260,7 @@
   "pss":1061,	
   "wikidata":"Q643621",	
   "media":"Jacques%20Hittorff.jpg",	
-  "thumb":"thumb/0/01/Jacques_Hittorff.jpg/250px-Jacques_Hittorff.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jacques_Hittorff.jpg/250px-Jacques_Hittorff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques_Hittorff"
 },
 {
@@ -5299,7 +5351,7 @@
   "pss":5507,	
   "wikidata":"Q3168208",	
   "media":"Drolling-Huyot.jpg",	
-  "thumb":"thumb/3/33/Drolling-Huyot.jpg/250px-Drolling-Huyot.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Drolling-Huyot.jpg/250px-Drolling-Huyot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean-Nicolas_Huyot"
 },
 {
@@ -5416,7 +5468,7 @@
   "pss":286,	
   "wikidata":"Q3140841",	
   "media":"Ramon%20Casas%20-%20MNAC-%20L%C3%A9on%20Jaussely-%20027301-D%20006458.jpg",	
-  "thumb":"thumb/b/be/Ramon_Casas_-_MNAC-_L%C3%A9on_Jaussely-_027301-D_006458.jpg/250px-Ramon_Casas_-_MNAC-_L%C3%A9on_Jaussely-_027301-D_006458.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Ramon_Casas_-_MNAC-_L%C3%A9on_Jaussely-_027301-D_006458.jpg/250px-Ramon_Casas_-_MNAC-_L%C3%A9on_Jaussely-_027301-D_006458.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"L%C3%A9on_Jaussely"
 },
 {
@@ -5468,7 +5520,7 @@
   "pss":null,	
   "wikidata":"Q22266736",	
   "media":"Cl%C3%A9ment%20Josso.png",	
-  "thumb":"thumb/d/d2/Cl%C3%A9ment_Josso.png/250px-Cl%C3%A9ment_Josso.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Cl%C3%A9ment_Josso.png/250px-Cl%C3%A9ment_Josso.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Cl%C3%A9ment_Josso"
 },
 {
@@ -5520,7 +5572,7 @@
   "pss":212,	
   "wikidata":"Q1445745",	
   "media":"Frantz%20Jourdain%201923.jpg",	
-  "thumb":"thumb/a/a0/Frantz_Jourdain_1923.jpg/250px-Frantz_Jourdain_1923.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Frantz_Jourdain_1923.jpg/250px-Frantz_Jourdain_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Frantz_Jourdain"
 },
 {
@@ -5611,7 +5663,7 @@
   "pss":6880,	
   "wikidata":"Q108129248",	
   "media":"Jean%20de%20la%20Morinerie%20%281874-1954%29.png",	
-  "thumb":"0/03/Jean_de_la_Morinerie_%281874-1954%29.png",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/03/Jean_de_la_Morinerie_%281874-1954%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Jean_de_la_Morinerie"
 },
 {
@@ -5650,7 +5702,7 @@
   "pss":1581,	
   "wikidata":"Q434218",	
   "media":"Labroustehenri.jpg",	
-  "thumb":"0/00/Labroustehenri.jpg",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/00/Labroustehenri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Henri_Labrouste"
 },
 {
@@ -5663,7 +5715,7 @@
   "pss":23939,	
   "wikidata":"Q3526446",	
   "media":"Th%C3%A9odore%20Labrouste%20BNF%20Gallica.jpg",	
-  "thumb":"thumb/f/ff/Th%C3%A9odore_Labrouste_BNF_Gallica.jpg/250px-Th%C3%A9odore_Labrouste_BNF_Gallica.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Th%C3%A9odore_Labrouste_BNF_Gallica.jpg/250px-Th%C3%A9odore_Labrouste_BNF_Gallica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Th%C3%A9odore_Labrouste"
 },
 {
@@ -5771,6 +5823,19 @@
   "WPfr":null
 },
 {
+  "id_archi":523,	
+  "libelle":"P. Lagrave",	
+  "nom":"Lagrave",	
+  "prenom":"P.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":524,	
   "libelle":"Paul Lahire",	
   "nom":"Lahire",	
@@ -5793,7 +5858,7 @@
   "pss":402,	
   "wikidata":"Q924704",	
   "media":"D%C3%A9chenaud-Laloux.jpg",	
-  "thumb":"thumb/8/8b/D%C3%A9chenaud-Laloux.jpg/250px-D%C3%A9chenaud-Laloux.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/D%C3%A9chenaud-Laloux.jpg/250px-D%C3%A9chenaud-Laloux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Victor_Laloux"
 },
 {
@@ -5849,6 +5914,19 @@
   "WPfr":null
 },
 {
+  "id_archi":531,	
+  "libelle":"L. Lamy",	
+  "nom":"Lamy",	
+  "prenom":"L.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":532,	
   "libelle":"Alfred Lasneret",	
   "nom":"Lasneret",	
@@ -5871,7 +5949,7 @@
   "pss":131,	
   "wikidata":"Q3163757",	
   "media":"Lassus%2C%20Jean%20Baptiste%20Antoine.jpg",	
-  "thumb":"thumb/1/1f/Lassus%2C_Jean_Baptiste_Antoine.jpg/250px-Lassus%2C_Jean_Baptiste_Antoine.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Lassus%2C_Jean_Baptiste_Antoine.jpg/250px-Lassus%2C_Jean_Baptiste_Antoine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean-Baptiste_Antoine_Lassus"
 },
 {
@@ -5899,6 +5977,19 @@
   "media":null,	
   "thumb":null,	
   "WPfr":"Augustin_Latour"
+},
+{
+  "id_archi":536,	
+  "libelle":"L. Laurent",	
+  "nom":"Laurent",	
+  "prenom":"L.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
 },
 {
   "id_archi":537,	
@@ -6027,7 +6118,7 @@
   "pss":2093,	
   "wikidata":"Q708858",	
   "media":"JLemercierPdeChampagne.jpg",	
-  "thumb":"thumb/2/2f/JLemercierPdeChampagne.jpg/250px-JLemercierPdeChampagne.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/JLemercierPdeChampagne.jpg/250px-JLemercierPdeChampagne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques_Lemercier"
 },
 {
@@ -6092,7 +6183,7 @@
   "pss":1119,	
   "wikidata":"Q310530",	
   "media":"Louis%20Le%20Vau%20-%20Dev%C3%AAche%201981%20p3.jpg",	
-  "thumb":"thumb/5/52/Louis_Le_Vau_-_Dev%C3%AAche_1981_p3.jpg/250px-Louis_Le_Vau_-_Dev%C3%AAche_1981_p3.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Louis_Le_Vau_-_Dev%C3%AAche_1981_p3.jpg/250px-Louis_Le_Vau_-_Dev%C3%AAche_1981_p3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Louis_Le_Vau"
 },
 {
@@ -6213,6 +6304,19 @@
   "WPfr":null
 },
 {
+  "id_archi":562,	
+  "libelle":"P. Lecoq",	
+  "nom":"Lecoq",	
+  "prenom":"P.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":563,	
   "libelle":"Léon Alphonse Henri Lecourtois",	
   "nom":"Lecourtois",	
@@ -6248,7 +6352,7 @@
   "pss":1111,	
   "wikidata":"Q552700",	
   "media":"Claude%20Nicolas%20Ledoux%20by%20Martin%20Drolling.JPG",	
-  "thumb":"thumb/7/78/Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG/250px-Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG/250px-Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Claude-Nicolas_Ledoux"
 },
 {
@@ -6261,7 +6365,7 @@
   "pss":4290,	
   "wikidata":"Q96437570",	
   "media":"M%C3%A9daillon%20Charles%20Lefebvre%20%28cropped%29.jpg",	
-  "thumb":"thumb/7/70/M%C3%A9daillon_Charles_Lefebvre_%28cropped%29.jpg/250px-M%C3%A9daillon_Charles_Lefebvre_%28cropped%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/M%C3%A9daillon_Charles_Lefebvre_%28cropped%29.jpg/250px-M%C3%A9daillon_Charles_Lefebvre_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_Lefebvre_(architecte)"
 },
 {
@@ -6287,7 +6391,7 @@
   "pss":5094,	
   "wikidata":"Q323877",	
   "media":"Funeral%20monument%20bust%20of%20Hector%20Lefuel%20-%20FindAGrave%20amy7252%20%28adjusted%29.jpg",	
-  "thumb":"thumb/e/ee/Funeral_monument_bust_of_Hector_Lefuel_-_FindAGrave_amy7252_%28adjusted%29.jpg/250px-Funeral_monument_bust_of_Hector_Lefuel_-_FindAGrave_amy7252_%28adjusted%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Funeral_monument_bust_of_Hector_Lefuel_-_FindAGrave_amy7252_%28adjusted%29.jpg/250px-Funeral_monument_bust_of_Hector_Lefuel_-_FindAGrave_amy7252_%28adjusted%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Hector-Martin_Lefuel"
 },
 {
@@ -6469,7 +6573,7 @@
   "pss":4247,	
   "wikidata":"Q327059",	
   "media":"Lep%C3%A8re%2C%20Jean-Baptiste.jpg",	
-  "thumb":"thumb/e/e3/Lep%C3%A8re%2C_Jean-Baptiste.jpg/250px-Lep%C3%A8re%2C_Jean-Baptiste.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Lep%C3%A8re%2C_Jean-Baptiste.jpg/250px-Lep%C3%A8re%2C_Jean-Baptiste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean-Baptiste_Lep%C3%A8re"
 },
 {
@@ -6508,7 +6612,7 @@
   "pss":133,	
   "wikidata":"Q381724",	
   "media":"Galerie%20d%27Apollon-%20Louvre%20-%20Lescot%20%E2%80%93%20Tapisserie%20Gobelins.JPG",	
-  "thumb":"thumb/e/eb/Galerie_d%27Apollon-_Louvre_-_Lescot_%E2%80%93_Tapisserie_Gobelins.JPG/250px-Galerie_d%27Apollon-_Louvre_-_Lescot_%E2%80%93_Tapisserie_Gobelins.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Galerie_d%27Apollon-_Louvre_-_Lescot_%E2%80%93_Tapisserie_Gobelins.JPG/250px-Galerie_d%27Apollon-_Louvre_-_Lescot_%E2%80%93_Tapisserie_Gobelins.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Pierre_Lescot"
 },
 {
@@ -6547,7 +6651,7 @@
   "pss":252,	
   "wikidata":"Q2959646",	
   "media":"Charles%20Letrosne.png",	
-  "thumb":"5/5e/Charles_Letrosne.png",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Charles_Letrosne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Charles_Letrosne"
 },
 {
@@ -6612,7 +6716,7 @@
   "pss":1071,	
   "wikidata":"Q3190319",	
   "media":"Lisch%20Juste.jpg",	
-  "thumb":"thumb/7/75/Lisch_Juste.jpg/250px-Lisch_Juste.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lisch_Juste.jpg/250px-Lisch_Juste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Juste_Lisch"
 },
 {
@@ -6677,7 +6781,7 @@
   "pss":778,	
   "wikidata":"Q44323",	
   "media":"Adolf%20Loos%20%281870%E2%80%931933%29%20%28vor%201920%3B%20Franz%20L%C3%B6wy%29.jpg",	
-  "thumb":"thumb/c/ce/Adolf_Loos_%281870%E2%80%931933%29_%28vor_1920%3B_Franz_L%C3%B6wy%29.jpg/250px-Adolf_Loos_%281870%E2%80%931933%29_%28vor_1920%3B_Franz_L%C3%B6wy%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Adolf_Loos_%281870%E2%80%931933%29_%28vor_1920%3B_Franz_L%C3%B6wy%29.jpg/250px-Adolf_Loos_%281870%E2%80%931933%29_%28vor_1920%3B_Franz_L%C3%B6wy%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Adolf_Loos"
 },
 {
@@ -6755,7 +6859,7 @@
   "pss":4756,	
   "wikidata":"Q1873405",	
   "media":"Lucien-Magne.jpg",	
-  "thumb":"thumb/4/40/Lucien-Magne.jpg/250px-Lucien-Magne.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Lucien-Magne.jpg/250px-Lucien-Magne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Lucien_Magne"
 },
 {
@@ -6781,7 +6885,7 @@
   "pss":802,	
   "wikidata":"Q2833842",	
   "media":"Alexandre%20Maistrasse.jpg",	
-  "thumb":"4/47/Alexandre_Maistrasse.jpg",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/4/47/Alexandre_Maistrasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Alexandre_Maistrasse"
 },
 {
@@ -6807,7 +6911,7 @@
   "pss":441,	
   "wikidata":"Q1000203",	
   "media":"Robert%20Mallet-Stevens%20-%20portrait%20photo.jpg",	
-  "thumb":"a/ad/Robert_Mallet-Stevens_-_portrait_photo.jpg",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Robert_Mallet-Stevens_-_portrait_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",	
   "WPfr":"Robert_Mallet-Stevens"
 },
 {
@@ -6833,7 +6937,7 @@
   "pss":892,	
   "wikidata":"Q313701",	
   "media":"Francois%20Mansart.jpg",	
-  "thumb":"thumb/5/5b/Francois_Mansart.jpg/250px-Francois_Mansart.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Francois_Mansart.jpg/250px-Francois_Mansart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Fran%C3%A7ois_Mansart"
 },
 {
@@ -6846,7 +6950,7 @@
   "pss":125,	
   "wikidata":"Q8053",	
   "media":"Rigaud%20Mansart.jpg",	
-  "thumb":"thumb/9/96/Rigaud_Mansart.jpg/250px-Rigaud_Mansart.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rigaud_Mansart.jpg/250px-Rigaud_Mansart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jules_Hardouin-Mansart"
 },
 {
@@ -6859,7 +6963,7 @@
   "pss":892,	
   "wikidata":"Q313701",	
   "media":"Francois%20Mansart.jpg",	
-  "thumb":"thumb/5/5b/Francois_Mansart.jpg/250px-Francois_Mansart.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Francois_Mansart.jpg/250px-Francois_Mansart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Fran%C3%A7ois_Mansart"
 },
 {
@@ -7132,7 +7236,7 @@
   "pss":3820,	
   "wikidata":"Q2980630",	
   "media":"Clement%20II%20Metezeau%201581%201652.jpg",	
-  "thumb":"thumb/1/1c/Clement_II_Metezeau_1581_1652.jpg/250px-Clement_II_Metezeau_1581_1652.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Clement_II_Metezeau_1581_1652.jpg/250px-Clement_II_Metezeau_1581_1652.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Cl%C3%A9ment_II_M%C3%A9tezeau"
 },
 {
@@ -7171,7 +7275,7 @@
   "pss":2069,	
   "wikidata":"Q2408130",	
   "media":"Charles%20Frederic%20Mewes.jpg",	
-  "thumb":"thumb/b/bc/Charles_Frederic_Mewes.jpg/250px-Charles_Frederic_Mewes.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Charles_Frederic_Mewes.jpg/250px-Charles_Frederic_Mewes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_Mew%C3%A8s"
 },
 {
@@ -7340,7 +7444,7 @@
   "pss":1107,	
   "wikidata":"Q133280415",	
   "media":"Rue%20Reaumur%20118-2.JPG",	
-  "thumb":"thumb/2/20/Rue_Reaumur_118-2.JPG/250px-Rue_Reaumur_118-2.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Rue_Reaumur_118-2.JPG/250px-Rue_Reaumur_118-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Joseph_de_Guirard_de_Montarnal"
 },
 {
@@ -7353,7 +7457,7 @@
   "pss":437,	
   "wikidata":"Q1314747",	
   "media":"Hotel%20de%20ville%20paris028.jpg",	
-  "thumb":"thumb/8/86/Hotel_de_ville_paris028.jpg/250px-Hotel_de_ville_paris028.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Hotel_de_ville_paris028.jpg/250px-Hotel_de_ville_paris028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Pierre_de_Montreuil"
 },
 {
@@ -7431,7 +7535,7 @@
   "pss":4334,	
   "wikidata":"Q2994878",	
   "media":"Sain-Moyaux.jpg",	
-  "thumb":"thumb/0/08/Sain-Moyaux.jpg/250px-Sain-Moyaux.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sain-Moyaux.jpg/250px-Sain-Moyaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Constant_Moyaux"
 },
 {
@@ -7470,7 +7574,7 @@
   "pss":5068,	
   "wikidata":"Q3271226",	
   "media":"L%C3%A9on%20Nafilyan.jpg",	
-  "thumb":"thumb/7/74/L%C3%A9on_Nafilyan.jpg/250px-L%C3%A9on_Nafilyan.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/L%C3%A9on_Nafilyan.jpg/250px-L%C3%A9on_Nafilyan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"L%C3%A9on_Nafilyan"
 },
 {
@@ -7509,7 +7613,7 @@
   "pss":12083,	
   "wikidata":"Q2847044",	
   "media":"Narjoux%20BMR%20100.jpg",	
-  "thumb":"thumb/4/4f/Narjoux_BMR_100.jpg/250px-Narjoux_BMR_100.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Narjoux_BMR_100.jpg/250px-Narjoux_BMR_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Andr%C3%A9-F%C3%A9lix_Narjoux"
 },
 {
@@ -7535,7 +7639,7 @@
   "pss":1031,	
   "wikidata":"Q3130450",	
   "media":"HP%20N%C3%A9not%2C%20membre%20de%20l%27Institut3.jpg",	
-  "thumb":"thumb/b/b4/HP_N%C3%A9not%2C_membre_de_l%27Institut3.jpg/250px-HP_N%C3%A9not%2C_membre_de_l%27Institut3.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/HP_N%C3%A9not%2C_membre_de_l%27Institut3.jpg/250px-HP_N%C3%A9not%2C_membre_de_l%27Institut3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Henri-Paul_N%C3%A9not"
 },
 {
@@ -7613,7 +7717,7 @@
   "pss":null,	
   "wikidata":"Q15121417",	
   "media":"L%C3%A9on%20Ohnet%20par%20Couture%20%28d%C3%A9tail%29.JPG",	
-  "thumb":"thumb/4/4b/L%C3%A9on_Ohnet_par_Couture_%28d%C3%A9tail%29.JPG/250px-L%C3%A9on_Ohnet_par_Couture_%28d%C3%A9tail%29.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/L%C3%A9on_Ohnet_par_Couture_%28d%C3%A9tail%29.JPG/250px-L%C3%A9on_Ohnet_par_Couture_%28d%C3%A9tail%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"L%C3%A9on_Ohnet"
 },
 {
@@ -7808,7 +7912,7 @@
   "pss":4786,	
   "wikidata":"Q3166930",	
   "media":"Jean-Louis%20Pascal.jpg",	
-  "thumb":"thumb/0/0f/Jean-Louis_Pascal.jpg/250px-Jean-Louis_Pascal.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Jean-Louis_Pascal.jpg/250px-Jean-Louis_Pascal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jean-Louis_Pascal"
 },
 {
@@ -7873,7 +7977,7 @@
   "pss":1018,	
   "wikidata":"Q969714",	
   "media":"Charles%20Percier%20par%20Robert%20Lef%C3%A8vre%20-%20Ch%C3%A2teau%20de%20Versailles.jpg",	
-  "thumb":"thumb/5/58/Charles_Percier_par_Robert_Lef%C3%A8vre_-_Ch%C3%A2teau_de_Versailles.jpg/250px-Charles_Percier_par_Robert_Lef%C3%A8vre_-_Ch%C3%A2teau_de_Versailles.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Charles_Percier_par_Robert_Lef%C3%A8vre_-_Ch%C3%A2teau_de_Versailles.jpg/250px-Charles_Percier_par_Robert_Lef%C3%A8vre_-_Ch%C3%A2teau_de_Versailles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_Percier"
 },
 {
@@ -7938,7 +8042,7 @@
   "pss":1005,	
   "wikidata":"Q347699",	
   "media":"Claude%20Perrault.png",	
-  "thumb":"thumb/6/6b/Claude_Perrault.png/250px-Claude_Perrault.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Claude_Perrault.png/250px-Claude_Perrault.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Claude_Perrault"
 },
 {
@@ -7951,7 +8055,7 @@
   "pss":13,	
   "wikidata":"Q381978",	
   "media":"Th%C3%A9o%20van%20Rysselberghe%20-%20Portrait%20of%20Auguste%20Perret.jpg",	
-  "thumb":"thumb/8/8e/Th%C3%A9o_van_Rysselberghe_-_Portrait_of_Auguste_Perret.jpg/250px-Th%C3%A9o_van_Rysselberghe_-_Portrait_of_Auguste_Perret.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Th%C3%A9o_van_Rysselberghe_-_Portrait_of_Auguste_Perret.jpg/250px-Th%C3%A9o_van_Rysselberghe_-_Portrait_of_Auguste_Perret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Auguste_Perret"
 },
 {
@@ -8042,7 +8146,7 @@
   "pss":989,	
   "wikidata":"Q546540",	
   "media":"Marie-Joseph%20Peyre%2C%201730%E2%80%931785%20%28Suzanne%20Roslin%29%20-%20Nationalmuseum%20-%20132640.tif",	
-  "thumb":"thumb/9/99/Marie-Joseph_Peyre%2C_1730%E2%80%931785_%28Suzanne_Roslin%29_-_Nationalmuseum_-_132640.tif/lossy-page1-250px-Marie-Joseph_Peyre%2C_1730%E2%80%931785_%28Suzanne_Roslin%29_-_Nationalmuseum_-_132640.tif.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Marie-Joseph_Peyre%2C_1730%E2%80%931785_%28Suzanne_Roslin%29_-_Nationalmuseum_-_132640.tif/lossy-page1-250px-Marie-Joseph_Peyre%2C_1730%E2%80%931785_%28Suzanne_Roslin%29_-_Nationalmuseum_-_132640.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Marie-Joseph_Peyre"
 },
 {
@@ -8159,7 +8263,7 @@
   "pss":4121,	
   "wikidata":"Q2068088",	
   "media":"Emmanuel%20Pontremoli%201932.jpg",	
-  "thumb":"thumb/c/c9/Emmanuel_Pontremoli_1932.jpg/250px-Emmanuel_Pontremoli_1932.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Emmanuel_Pontremoli_1932.jpg/250px-Emmanuel_Pontremoli_1932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Emmanuel_Pontremoli"
 },
 {
@@ -8263,7 +8367,7 @@
   "pss":2602,	
   "wikidata":"Q3133016",	
   "media":"Henry%20Provensal.jpg",	
-  "thumb":"thumb/9/9b/Henry_Provensal.jpg/250px-Henry_Provensal.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Henry_Provensal.jpg/250px-Henry_Provensal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Henry_Provensal"
 },
 {
@@ -8302,7 +8406,7 @@
   "pss":140,	
   "wikidata":"Q519044",	
   "media":"Antoine%20Quatrem%C3%A8re%20de%20Quincy%20by%20F%20Bonneville.jpg",	
-  "thumb":"thumb/c/c0/Antoine_Quatrem%C3%A8re_de_Quincy_by_F_Bonneville.jpg/250px-Antoine_Quatrem%C3%A8re_de_Quincy_by_F_Bonneville.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Antoine_Quatrem%C3%A8re_de_Quincy_by_F_Bonneville.jpg/250px-Antoine_Quatrem%C3%A8re_de_Quincy_by_F_Bonneville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Antoine_Chrysostome_Quatrem%C3%A8re_de_Quincy"
 },
 {
@@ -8449,6 +8553,19 @@
   "WPfr":null
 },
 {
+  "id_archi":763,	
+  "libelle":"Georges Raymond Ch.",	
+  "nom":"Raymond Ch.",	
+  "prenom":"Georges",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":764,	
   "libelle":"R. Rebours",	
   "nom":"Rebours",	
@@ -8549,7 +8666,7 @@
   "pss":18769,	
   "wikidata":"Q18508754",	
   "media":"Renaud%2C%20Edouard%20%28Bertall%2C%201873%29.jpg",	
-  "thumb":"thumb/7/7b/Renaud%2C_Edouard_%28Bertall%2C_1873%29.jpg/250px-Renaud%2C_Edouard_%28Bertall%2C_1873%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Renaud%2C_Edouard_%28Bertall%2C_1873%29.jpg/250px-Renaud%2C_Edouard_%28Bertall%2C_1873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":null
 },
 {
@@ -8627,7 +8744,7 @@
   "pss":10627,	
   "wikidata":"Q63247670",	
   "media":"Rich%20%28Monde%20illustr%C3%A9%2C%201898-07-17%29.jpg",	
-  "thumb":"thumb/9/96/Rich_%28Monde_illustr%C3%A9%2C_1898-07-17%29.jpg/250px-Rich_%28Monde_illustr%C3%A9%2C_1898-07-17%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rich_%28Monde_illustr%C3%A9%2C_1898-07-17%29.jpg/250px-Rich_%28Monde_illustr%C3%A9%2C_1898-07-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Victor_Rich"
 },
 {
@@ -8705,7 +8822,7 @@
   "pss":2125,	
   "wikidata":"Q3121313",	
   "media":"Gustave%20Rives.jpg",	
-  "thumb":"thumb/0/0f/Gustave_Rives.jpg/250px-Gustave_Rives.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gustave_Rives.jpg/250px-Gustave_Rives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Gustave_Rives"
 },
 {
@@ -9056,7 +9173,7 @@
   "pss":790,	
   "wikidata":"Q15791205",	
   "media":"Germain%20Salard.png",	
-  "thumb":"thumb/0/0c/Germain_Salard.png/250px-Germain_Salard.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Germain_Salard.png/250px-Germain_Salard.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Germain_Salard"
 },
 {
@@ -9069,7 +9186,7 @@
   "pss":1754,	
   "wikidata":"Q2978120",	
   "media":"Claude%20Augustin%20L%C3%A9on%20Salleron.jpg",	
-  "thumb":"thumb/3/38/Claude_Augustin_L%C3%A9on_Salleron.jpg/250px-Claude_Augustin_L%C3%A9on_Salleron.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Claude_Augustin_L%C3%A9on_Salleron.jpg/250px-Claude_Augustin_L%C3%A9on_Salleron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"L%C3%A9on_Salleron"
 },
 {
@@ -9097,6 +9214,19 @@
   "media":null,	
   "thumb":null,	
   "WPfr":"Louis_Salvan"
+},
+{
+  "id_archi":824,	
+  "libelle":"H. Salvan",	
+  "nom":"Salvan",	
+  "prenom":"H.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
 },
 {
   "id_archi":825,	
@@ -9177,6 +9307,19 @@
   "WPfr":null
 },
 {
+  "id_archi":831,	
+  "libelle":"R.L. Sauton",	
+  "nom":"Sauton",	
+  "prenom":"R.L.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":832,	
   "libelle":"Henri Sauvage",	
   "nom":"Sauvage",	
@@ -9212,7 +9355,7 @@
   "pss":22,	
   "wikidata":"Q778243",	
   "media":"Dessin%20Stephen%20Sauvestre.JPG",	
-  "thumb":"thumb/0/09/Dessin_Stephen_Sauvestre.JPG/250px-Dessin_Stephen_Sauvestre.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Dessin_Stephen_Sauvestre.JPG/250px-Dessin_Stephen_Sauvestre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"St%C3%A9phen_Sauvestre"
 },
 {
@@ -9290,7 +9433,7 @@
   "pss":2430,	
   "wikidata":"Q3570792",	
   "media":"Paris%20-%20Cimeti%C3%A8re%20Saint-Vincent%20-%20Tombe%20de%20Xavier%20Schoellkopf%20-2.jpg",	
-  "thumb":"thumb/7/74/Paris_-_Cimeti%C3%A8re_Saint-Vincent_-_Tombe_de_Xavier_Schoellkopf_-2.jpg/250px-Paris_-_Cimeti%C3%A8re_Saint-Vincent_-_Tombe_de_Xavier_Schoellkopf_-2.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Paris_-_Cimeti%C3%A8re_Saint-Vincent_-_Tombe_de_Xavier_Schoellkopf_-2.jpg/250px-Paris_-_Cimeti%C3%A8re_Saint-Vincent_-_Tombe_de_Xavier_Schoellkopf_-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Xavier_Schoellkopf"
 },
 {
@@ -9342,7 +9485,7 @@
   "pss":1017,	
   "wikidata":"Q330814",	
   "media":"Buste%20de%20Paul%20S%C3%A9dille.PNG",	
-  "thumb":"thumb/7/72/Buste_de_Paul_S%C3%A9dille.PNG/250px-Buste_de_Paul_S%C3%A9dille.PNG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Buste_de_Paul_S%C3%A9dille.PNG/250px-Buste_de_Paul_S%C3%A9dille.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Paul_S%C3%A9dille"
 },
 {
@@ -9420,7 +9563,7 @@
   "pss":4891,	
   "wikidata":"Q2356668",	
   "media":"Jean-Nicolas%20Servandoni%20by%20Jean%20Francois%20Colson.jpg",	
-  "thumb":"thumb/2/2c/Jean-Nicolas_Servandoni_by_Jean_Francois_Colson.jpg/250px-Jean-Nicolas_Servandoni_by_Jean_Francois_Colson.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Jean-Nicolas_Servandoni_by_Jean_Francois_Colson.jpg/250px-Jean-Nicolas_Servandoni_by_Jean_Francois_Colson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Giovanni_Niccol%C3%B2_Servandoni"
 },
 {
@@ -9458,19 +9601,6 @@
   "orsay":98289,	
   "pss":11643,	
   "wikidata":"Q21562047",	
-  "media":null,	
-  "thumb":null,	
-  "WPfr":null
-},
-{
-  "id_archi":855,	
-  "libelle":"Pierre Sibien",	
-  "nom":"Sibien",	
-  "prenom":"Pierre",	
-  "dates":"1885-1914",	
-  "orsay":null,	
-  "pss":null,	
-  "wikidata":null,	
   "media":null,	
   "thumb":null,	
   "WPfr":null
@@ -9576,7 +9706,7 @@
   "pss":141,	
   "wikidata":"Q550244",	
   "media":"Jacques-Germain%20Soufflot%20%281713%20-1780%29.jpg",	
-  "thumb":"thumb/8/82/Jacques-Germain_Soufflot_%281713_-1780%29.jpg/250px-Jacques-Germain_Soufflot_%281713_-1780%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Jacques-Germain_Soufflot_%281713_-1780%29.jpg/250px-Jacques-Germain_Soufflot_%281713_-1780%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Jacques-Germain_Soufflot"
 },
 {
@@ -9680,7 +9810,7 @@
   "pss":6900,	
   "wikidata":"Q713804",	
   "media":"Henri%20Tauzin%20en%201898.jpg",	
-  "thumb":"thumb/9/92/Henri_Tauzin_en_1898.jpg/250px-Henri_Tauzin_en_1898.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Henri_Tauzin_en_1898.jpg/250px-Henri_Tauzin_en_1898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Henri_Tauzin"
 },
 {
@@ -9957,6 +10087,19 @@
   "WPfr":null
 },
 {
+  "id_archi":899,	
+  "libelle":"Tremelay",	
+  "nom":"Tremelay",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":901,	
   "libelle":"Auguste Tronquois",	
   "nom":"Tronquois",	
@@ -9979,7 +10122,7 @@
   "pss":20,	
   "wikidata":"Q3121338",	
   "media":"Gustave%20Umbdenstock.jpg",	
-  "thumb":"thumb/f/f3/Gustave_Umbdenstock.jpg/250px-Gustave_Umbdenstock.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Gustave_Umbdenstock.jpg/250px-Gustave_Umbdenstock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Gustave_Umbdenstock"
 },
 {
@@ -10009,6 +10152,19 @@
   "WPfr":null
 },
 {
+  "id_archi":909,	
+  "libelle":"Varoteaux",	
+  "nom":"Varoteaux",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
   "id_archi":910,	
   "libelle":"Georges Vaudoyer",	
   "nom":"Vaudoyer",	
@@ -10031,7 +10187,7 @@
   "pss":1955,	
   "wikidata":"Q721452",	
   "media":"L%C3%A9on%20Vaudoyer.JPG",	
-  "thumb":"thumb/e/ed/L%C3%A9on_Vaudoyer.JPG/250px-L%C3%A9on_Vaudoyer.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/L%C3%A9on_Vaudoyer.JPG/250px-L%C3%A9on_Vaudoyer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"L%C3%A9on_Vaudoyer"
 },
 {
@@ -10213,7 +10369,7 @@
   "pss":1059,	
   "wikidata":"Q272912",	
   "media":"Viollet-le-Duc%20Dujardin%20%26%20Reutlinger.png",	
-  "thumb":"thumb/1/1d/Viollet-le-Duc_Dujardin_%26_Reutlinger.png/250px-Viollet-le-Duc_Dujardin_%26_Reutlinger.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Viollet-le-Duc_Dujardin_%26_Reutlinger.png/250px-Viollet-le-Duc_Dujardin_%26_Reutlinger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Eug%C3%A8ne_Viollet-le-Duc"
 },
 {
@@ -10239,7 +10395,7 @@
   "pss":6404,	
   "wikidata":"Q794916",	
   "media":"Louis%20Visconti%20by%20Th%C3%A9ophile%20Vauchelet.jpg",	
-  "thumb":"thumb/0/00/Louis_Visconti_by_Th%C3%A9ophile_Vauchelet.jpg/250px-Louis_Visconti_by_Th%C3%A9ophile_Vauchelet.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Louis_Visconti_by_Th%C3%A9ophile_Vauchelet.jpg/250px-Louis_Visconti_by_Th%C3%A9ophile_Vauchelet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Louis_Visconti"
 },
 {
@@ -10330,7 +10486,7 @@
   "pss":990,	
   "wikidata":"Q401557",	
   "media":"Lille%20PdBA%20Pajou%20Wailly.JPG",	
-  "thumb":"thumb/b/bf/Lille_PdBA_Pajou_Wailly.JPG/250px-Lille_PdBA_Pajou_Wailly.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lille_PdBA_Pajou_Wailly.JPG/250px-Lille_PdBA_Pajou_Wailly.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",	
   "WPfr":"Charles_De_Wailly"
 },
 {
@@ -10459,6 +10615,1800 @@
   "orsay":null,	
   "pss":null,	
   "wikidata":"Q138653474",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10001,	
+  "libelle":"Camille Alaphilippe",	
+  "nom":"Alaphilippe",	
+  "prenom":"Camille",	
+  "dates":"1874-1950",	
+  "orsay":255,	
+  "pss":null,	
+  "wikidata":"Q2934846",	
+  "media":"Camille%20Alaphilippe.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Camille_Alaphilippe.jpg/250px-Camille_Alaphilippe.jpg",	
+  "WPfr":"Camille_Alaphilippe"
+},
+{
+  "id_archi":10002,	
+  "libelle":"André-Joseph Allar",	
+  "nom":"Allar",	
+  "prenom":"André Joseph",	
+  "dates":"1845-1926",	
+  "orsay":379,	
+  "pss":7561,	
+  "wikidata":"Q2847071",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Andr%C3%A9-Joseph_Allar"
+},
+{
+  "id_archi":10003,	
+  "libelle":"Albert Ancieux",	
+  "nom":"Anciaux",	
+  "prenom":"Albert",	
+  "dates":"1870-1944",	
+  "orsay":611,	
+  "pss":null,	
+  "wikidata":"Q141275963",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10004,	
+  "libelle":"Andrieu",	
+  "nom":"Andrieu",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10005,	
+  "libelle":"Georges Ardouin",	
+  "nom":"Ardouin",	
+  "prenom":"Georges",	
+  "dates":"1879-?",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q55597069",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Georges_Ardouin"
+},
+{
+  "id_archi":10006,	
+  "libelle":"Antoine Auberlet",	
+  "nom":"Auberlet",	
+  "prenom":"Antoine",	
+  "dates":null,	
+  "orsay":1167,	
+  "pss":null,	
+  "wikidata":"Q141276026",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10008,	
+  "libelle":"Louis-Ernest Barrias",	
+  "nom":"Barrias",	
+  "prenom":"Louis-Ernest",	
+  "dates":"1841-1905",	
+  "orsay":2018,	
+  "pss":null,	
+  "wikidata":"Q1289500",	
+  "media":"Barrias-louis-ernst-in-1902-velhagen-und-klasings-monatshefte-jg16-1901-1902-bd02-heft08-april1902-s219-foto-pierre-petit-1832-1909.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Barrias-louis-ernst-in-1902-velhagen-und-klasings-monatshefte-jg16-1901-1902-bd02-heft08-april1902-s219-foto-pierre-petit-1832-1909.jpg/250px-Barrias-louis-ernst-in-1902-velhagen-und-klasings-monatshefte-jg16-1901-1902-bd02-heft08-april1902-s219-foto-pierre-petit-1832-1909.jpg",	
+  "WPfr":"Louis-Ernest_Barrias"
+},
+{
+  "id_archi":10009,	
+  "libelle":"F. Bate",	
+  "nom":"Bate",	
+  "prenom":"F.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10010,	
+  "libelle":"A.P. Baudry",	
+  "nom":"Baudry",	
+  "prenom":"A.P.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10013,	
+  "libelle":"Bernard",	
+  "nom":"Bernard",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10014,	
+  "libelle":"Alexandre Bigot",	
+  "nom":"Bigot",	
+  "prenom":"Alexandre",	
+  "dates":"1862-1927",	
+  "orsay":3726,	
+  "pss":null,	
+  "wikidata":"Q2833468",	
+  "media":"AlexandreBigotportrait.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AlexandreBigotportrait.png/250px-AlexandreBigotportrait.png",	
+  "WPfr":"Alexandre_Bigot_(c%C3%A9ramiste)"
+},
+{
+  "id_archi":10015,	
+  "libelle":"A. Binaux",	
+  "nom":"Binaux",	
+  "prenom":"A.",	
+  "dates":null,	
+  "orsay":3796,	
+  "pss":null,	
+  "wikidata":"Q141300092",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10018,	
+  "libelle":"Léon-Alexandre Blanchot",	
+  "nom":"Blanchot",	
+  "prenom":"Léon",	
+  "dates":"1868-1947",	
+  "orsay":4022,	
+  "pss":null,	
+  "wikidata":"Q15407087",	
+  "media":"L%C3%A9on-Alexandre%20Blanchot.png",	
+  "thumb":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Léon-Alexandre_Blanchot.png",	
+  "WPfr":"L%C3%A9on-Alexandre_Blanchot"
+},
+{
+  "id_archi":10019,	
+  "libelle":"Frédéric-Louis-Désiré Bogino",	
+  "nom":"Bogino",	
+  "prenom":"Frédéric Lui Désiré",	
+  "dates":"1831-1899",	
+  "orsay":4273,	
+  "pss":null,	
+  "wikidata":"Q3089992",	
+  "media":"Photo%20de%20Fr%C3%A9d%C3%A9ric%20Louis%20Bogino%20dans%20les%20ann%C3%A9es%201880.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Photo_de_Fr%C3%A9d%C3%A9ric_Louis_Bogino_dans_les_ann%C3%A9es_1880.jpg/250px-Photo_de_Fr%C3%A9d%C3%A9ric_Louis_Bogino_dans_les_ann%C3%A9es_1880.jpg",	
+  "WPfr":"Fr%C3%A9d%C3%A9ric_Louis_D%C3%A9sir%C3%A9_Bogino"
+},
+{
+  "id_archi":10021,	
+  "libelle":"Jean Boucher",	
+  "nom":"Boucher",	
+  "prenom":"Henri Jean",	
+  "dates":"1879-1935",	
+  "orsay":null,	
+  "pss":2275,	
+  "wikidata":"Q107092347",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Jean_Boucher_(architecte)"
+},
+{
+  "id_archi":10023,	
+  "libelle":"François Eugène Bourdet",	
+  "nom":"Bourdet",	
+  "prenom":"François",	
+  "dates":"1874-1952",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q54567139",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10025,	
+  "libelle":"Bouvier",	
+  "nom":"Bouvier",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10026,	
+  "libelle":"Joseph-Michel Caillé",	
+  "nom":"Caillé",	
+  "prenom":"Joseph",	
+  "dates":"1836-1881",	
+  "orsay":6591,	
+  "pss":null,	
+  "wikidata":"Q3184374",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Joseph-Michel_Caill%C3%A9"
+},
+{
+  "id_archi":10027,	
+  "libelle":"Jean-Baptiste Carpeaux",	
+  "nom":"Carpaux",	
+  "prenom":"Jean-Baptiste",	
+  "dates":"1827-1875",	
+  "orsay":7055,	
+  "pss":null,	
+  "wikidata":"Q182791",	
+  "media":"Jean-Baptiste%20Carpeaux%20self-portrait%20-%20Fontaine%202000%20p25.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Jean-Baptiste_Carpeaux_self-portrait_-_Fontaine_2000_p25.jpg/250px-Jean-Baptiste_Carpeaux_self-portrait_-_Fontaine_2000_p25.jpg",	
+  "WPfr":"Jean-Baptiste_Carpeaux"
+},
+{
+  "id_archi":10028,	
+  "libelle":"Albert-Ernest Carrier-Belleuse",	
+  "nom":"Carrier-Belleuse",	
+  "prenom":"Albert",	
+  "dates":"1824-1887",	
+  "orsay":38208,	
+  "pss":null,	
+  "wikidata":"Q2143726",	
+  "media":"Albert-Ernest%20Carrier-Belleuse%20par%20Carjat%20BNF%20Gallica.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Albert-Ernest_Carrier-Belleuse_par_Carjat_BNF_Gallica.jpg/250px-Albert-Ernest_Carrier-Belleuse_par_Carjat_BNF_Gallica.jpg",	
+  "WPfr":"Albert-Ernest_Carrier-Belleuse"
+},
+{
+  "id_archi":10029,	
+  "libelle":"Jules Cavelier",	
+  "nom":"Cavelier",	
+  "prenom":"Jules Pierre",	
+  "dates":"1814-1894",	
+  "orsay":7379,	
+  "pss":null,	
+  "wikidata":"Q3188478",	
+  "media":"Pierre-Jules%20Cavalier.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pierre-Jules_Cavalier.jpg/250px-Pierre-Jules_Cavalier.jpg",	
+  "WPfr":"Jules_Cavelier"
+},
+{
+  "id_archi":10030,	
+  "libelle":"Philippe Cayeux",	
+  "nom":"Cayeux",	
+  "prenom":"Philippe",	
+  "dates":"1688-1769",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q124359425",	
+  "media":"Louis-Simon%20Lempereur%20after%20Charles-Nicolas%20Cochin%20II%2C%20Philippe%20Cayeux%2C%20NGA%2069537.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Louis-Simon_Lempereur_after_Charles-Nicolas_Cochin_II%2C_Philippe_Cayeux%2C_NGA_69537.jpg/250px-Louis-Simon_Lempereur_after_Charles-Nicolas_Cochin_II%2C_Philippe_Cayeux%2C_NGA_69537.jpg",	
+  "WPfr":null
+},
+{
+  "id_archi":10032,	
+  "libelle":"Chave",	
+  "nom":"Chave",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10033,	
+  "libelle":"E. Chenevière",	
+  "nom":"Chenevière",	
+  "prenom":"E.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10034,	
+  "libelle":"H. Chevalier",	
+  "nom":"Chevalier",	
+  "prenom":"H.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10035,	
+  "libelle":"J.M.H. Chevalier",	
+  "nom":"Chevalier",	
+  "prenom":"J.M.H.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10036,	
+  "libelle":"J. Choquart",	
+  "nom":"Choquart",	
+  "prenom":"J.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10037,	
+  "libelle":"Cochi frères",	
+  "nom":"Cochi frères",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10038,	
+  "libelle":"F. Crozier",	
+  "nom":"Crozier",	
+  "prenom":"F.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10039,	
+  "libelle":"G. Curé",	
+  "nom":"Curé",	
+  "prenom":"G.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10040,	
+  "libelle":"Jules Dalou",	
+  "nom":"Dalou",	
+  "prenom":"Aimé Jules",	
+  "dates":"1838-1902",	
+  "orsay":10116,	
+  "pss":null,	
+  "wikidata":"Q551648",	
+  "media":"Dalou%20dans%20son%20atelier.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dalou_dans_son_atelier.jpg/250px-Dalou_dans_son_atelier.jpg",	
+  "WPfr":"Jules_Dalou"
+},
+{
+  "id_archi":10041,	
+  "libelle":"Louis Déjardin",	
+  "nom":"Déjardin",	
+  "prenom":"Louis",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10043,	
+  "libelle":"Sébastien",	
+  "nom":"Delarue",	
+  "prenom":"Sébastien",	
+  "dates":"1819-1868",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q141318679",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10044,	
+  "libelle":"P. Depuy",	
+  "nom":"Depuy",	
+  "prenom":"P.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10045,	
+  "libelle":"Émile Derré",	
+  "nom":"Derré",	
+  "prenom":"Émile",	
+  "dates":"1867-1938",	
+  "orsay":35733,	
+  "pss":null,	
+  "wikidata":"Q3588452",	
+  "media":"Derr%C3%A9%2C%20Emile%2C%20Nadar%2C%20Gallica.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Derr%C3%A9%2C_Emile%2C_Nadar%2C_Gallica.jpg/250px-Derr%C3%A9%2C_Emile%2C_Nadar%2C_Gallica.jpg",	
+  "WPfr":"%C3%89mile_Derr%C3%A9"
+},
+{
+  "id_archi":10046,	
+  "libelle":"Antoine Desboeufs",	
+  "nom":"Desbœufs",	
+  "prenom":"Antoine",	
+  "dates":"1793-1862",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q2853859",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Antoine_Desboeufs"
+},
+{
+  "id_archi":10047,	
+  "libelle":"Jules Hector Despois de Folleville",	
+  "nom":"Despois de Folleville",	
+  "prenom":"Jules Hector",	
+  "dates":"1848-1929",	
+  "orsay":10926,	
+  "pss":null,	
+  "wikidata":"Q60194352",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10048,	
+  "libelle":"Dessina",	
+  "nom":"Dessina",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10049,	
+  "libelle":"E. Devaulx",	
+  "nom":"Devaulx",	
+  "prenom":"E.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10050,	
+  "libelle":"Deveche",	
+  "nom":"Deveche",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10052,	
+  "libelle":"Dondelinger",	
+  "nom":"Dondelinger",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10053,	
+  "libelle":"F. Dubreuil",	
+  "nom":"Dubreuil",	
+  "prenom":"F.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10054,	
+  "libelle":"Dupin",	
+  "nom":"Dupin",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10056,	
+  "libelle":"Alexandre Dupuy",	
+  "nom":"Dupuy",	
+  "prenom":"Alexandre",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10057,	
+  "libelle":"Duttenhofer",	
+  "nom":"Duttenhofer",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10058,	
+  "libelle":"Alexandre Falguière",	
+  "nom":"Falguière",	
+  "prenom":"Alexandre",	
+  "dates":"1831-1900",	
+  "orsay":12076,	
+  "pss":null,	
+  "wikidata":"Q2140000",	
+  "media":"Carolus-Duran%20-%20Portrait%20d%27Alexandre%20Falgui%C3%A8re%20-%20PPP453%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20la%20ville%20de%20Paris.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carolus-Duran_-_Portrait_d%27Alexandre_Falgui%C3%A8re_-_PPP453_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg/250px-Carolus-Duran_-_Portrait_d%27Alexandre_Falgui%C3%A8re_-_PPP453_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg",	
+  "WPfr":"Alexandre_Falgui%C3%A8re"
+},
+{
+  "id_archi":10059,	
+  "libelle":"Léopold Flandrin",	
+  "nom":"Flandrin",	
+  "prenom":"Léopold",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10060,	
+  "libelle":"Flandrin-A",	
+  "nom":"Flandrin-A",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10061,	
+  "libelle":" Marcel Fonquergne",	
+  "nom":"Fonquergne",	
+  "prenom":"Marcel Paul",	
+  "dates":"1873-1941",	
+  "orsay":28999,	
+  "pss":null,	
+  "wikidata":"Q131457320",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10063,	
+  "libelle":"Camille Garnier",	
+  "nom":"Garnier",	
+  "prenom":"Camille",	
+  "dates":null,	
+  "orsay":29512,	
+  "pss":null,	
+  "wikidata":"Q141300674",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10064,	
+  "libelle":"Gabriel Garraud",	
+  "nom":"Garraud",	
+  "prenom":"Gabriel",	
+  "dates":"1807-1880",	
+  "orsay":13193,	
+  "pss":null,	
+  "wikidata":"Q18146884",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10065,	
+  "libelle":"Charles Gauthier",	
+  "nom":"Gauthier",	
+  "prenom":"Charles",	
+  "dates":"1831-1891",	
+  "orsay":13293,	
+  "pss":null,	
+  "wikidata":"Q17279309",	
+  "media":"Buste%20Charles%20Gauthier%2C%20Cimeti%C3%A8re%20du%20Montparnasse.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Buste_Charles_Gauthier%2C_Cimeti%C3%A8re_du_Montparnasse.jpg/250px-Buste_Charles_Gauthier%2C_Cimeti%C3%A8re_du_Montparnasse.jpg",	
+  "WPfr":"Charles_Gauthier"
+},
+{
+  "id_archi":10066,	
+  "libelle":"Alphonse Gentil",	
+  "nom":"Gentil",	
+  "prenom":"Alphonse",	
+  "dates":"1872-1933",	
+  "orsay":29645,	
+  "pss":null,	
+  "wikidata":"Q54567107",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10067,	
+  "libelle":"Gustave Germain",	
+  "nom":"Germain",	
+  "prenom":"Gustave",	
+  "dates":"1843-1909",	
+  "orsay":13454,	
+  "pss":null,	
+  "wikidata":"Q29441020",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10068,	
+  "libelle":"Adolphe Paul Giraud",	
+  "nom":"Giraud",	
+  "prenom":"Adolphe Paul",	
+  "dates":"1795-1864",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q141244681",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10069,	
+  "libelle":"Nicolas Gonnet",	
+  "nom":"Gonnet",	
+  "prenom":"Nicolas",	
+  "dates":null,	
+  "orsay":13787,	
+  "pss":null,	
+  "wikidata":"Q141317508",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10070,	
+  "libelle":"Jean Goujon",	
+  "nom":"Goujon",	
+  "prenom":"Jean",	
+  "dates":"1510-1567",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q551643",	
+  "media":"Jean%20Goujon%20statue.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean_Goujon_statue.jpg/250px-Jean_Goujon_statue.jpg",	
+  "WPfr":"Jean_Goujon"
+},
+{
+  "id_archi":10071,	
+  "libelle":"Pierre Granet",	
+  "nom":"Granet",	
+  "prenom":"Pierre",	
+  "dates":"1842-1910",	
+  "orsay":13958,	
+  "pss":null,	
+  "wikidata":"Q3385299",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Pierre_Granet"
+},
+{
+  "id_archi":10072,	
+  "libelle":"Gruière",	
+  "nom":"Gruière",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10073,	
+  "libelle":"Eugène Guillaume",	
+  "nom":"Guillaume",	
+  "prenom":"Eugène",	
+  "dates":"1822-1905",	
+  "orsay":14233,	
+  "pss":null,	
+  "wikidata":"Q2615602",	
+  "media":"Jean-Baptiste%20Claude%20Eugene%20Guillaume%20academician.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jean-Baptiste_Claude_Eugene_Guillaume_academician.png/250px-Jean-Baptiste_Claude_Eugene_Guillaume_academician.png",	
+  "WPfr":"Eug%C3%A8ne_Guillaume"
+},
+{
+  "id_archi":10074,	
+  "libelle":"Guyet",	
+  "nom":"Guyet",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10076,	
+  "libelle":"Héritier",	
+  "nom":"Héritier",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10077,	
+  "libelle":"Ernest-Eugène Hiolle",	
+  "nom":"Hiolle",	
+  "prenom":"Ernest Eugène",	
+  "dates":"1834-1886",	
+  "orsay":14865,	
+  "pss":null,	
+  "wikidata":"Q2749109",	
+  "media":"Valenciennes%20-%20Cimeti%C3%A8re%20Saint-Roch%20%28B25%29.JPG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Valenciennes_-_Cimeti%C3%A8re_Saint-Roch_%28B25%29.JPG/250px-Valenciennes_-_Cimeti%C3%A8re_Saint-Roch_%28B25%29.JPG",	
+  "WPfr":"Ernest-Eug%C3%A8ne_Hiolle"
+},
+{
+  "id_archi":10078,	
+  "libelle":"Louis Holweck",	
+  "nom":"Holweck",	
+  "prenom":"Louis",	
+  "dates":"1861-1935",	
+  "orsay":14940,	
+  "pss":null,	
+  "wikidata":"Q18177083",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Louis_Holweck"
+},
+{
+  "id_archi":10079,	
+  "libelle":"Hubert frères",	
+  "nom":"Hubert Frères",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":32764,	
+  "pss":null,	
+  "wikidata":"Q141317514",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10080,	
+  "libelle":"Jean-Antoine Injalbert",	
+  "nom":"Injalbert",	
+  "prenom":"Jean",	
+  "dates":"1845-1933",	
+  "orsay":15178,	
+  "pss":null,	
+  "wikidata":"Q2746989",	
+  "media":"Jean-Antoine%20Injalbert.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Jean-Antoine_Injalbert.jpg/250px-Jean-Antoine_Injalbert.jpg",	
+  "WPfr":"Jean-Antoine_Injalbert"
+},
+{
+  "id_archi":10082,	
+  "libelle":"Josserand",	
+  "nom":"Josserand",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10083,	
+  "libelle":"François Jouffroy",	
+  "nom":"Jouffroy",	
+  "prenom":"François",	
+  "dates":"1806-1882",	
+  "orsay":15507,	
+  "pss":null,	
+  "wikidata":"Q1374591",	
+  "media":"Fran%C3%A7ois%20Jouffroy%20by%20Adam-Salomon%20c1865.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Fran%C3%A7ois_Jouffroy_by_Adam-Salomon_c1865.png/250px-Fran%C3%A7ois_Jouffroy_by_Adam-Salomon_c1865.png",	
+  "WPfr":"Fran%C3%A7ois_Jouffroy"
+},
+{
+  "id_archi":10084,	
+  "libelle":"Adolphe Joussot",	
+  "nom":"Joussot",	
+  "prenom":"Adolphe",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10085,	
+  "libelle":"Pierre Fabien Pierre Fabien",	
+  "nom":"Joyeux",	
+  "prenom":"Pierre Fabien",	
+  "dates":"1881-1935",	
+  "orsay":15543,	
+  "pss":null,	
+  "wikidata":"Q141318573",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10086,	
+  "libelle":"Charles Julien",	
+  "nom":"Julien",	
+  "prenom":"Charles",	
+  "dates":null,	
+  "orsay":15563,	
+  "pss":null,	
+  "wikidata":"Q141300730",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10087,	
+  "libelle":"Sylvain Kinsburger",	
+  "nom":"Kinsburger",	
+  "prenom":"Sylvain",	
+  "dates":"1855-1935",	
+  "orsay":15690,	
+  "pss":null,	
+  "wikidata":"Q3507032",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Sylvain_Kinsburger"
+},
+{
+  "id_archi":10088,	
+  "libelle":"Jean-Baptiste-Jules Klagmann",	
+  "nom":"Klagmann",	
+  "prenom":"Jean-Baptiste Jules",	
+  "dates":"1810-1867",	
+  "orsay":15708,	
+  "pss":null,	
+  "wikidata":"Q2415052",	
+  "media":"Klagmann%2C%20Jean-Baptiste-Jules.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Klagmann%2C_Jean-Baptiste-Jules.jpg/250px-Klagmann%2C_Jean-Baptiste-Jules.jpg",	
+  "WPfr":"Jean-Baptiste-Jules_Klagmann"
+},
+{
+  "id_archi":10090,	
+  "libelle":"André-Louis-Adolphe Laoust",	
+  "nom":"Laoust",	
+  "prenom":"Adolphe Louis André",	
+  "dates":"1843-1924",	
+  "orsay":36196,	
+  "pss":null,	
+  "wikidata":"Q2847075",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Andr%C3%A9-Louis-Adolphe_Laoust"
+},
+{
+  "id_archi":10091,	
+  "libelle":"Jean-Baptiste Larrivé",	
+  "nom":"Larrive",	
+  "prenom":"Jean-Baptiste",	
+  "dates":"1875-1928",	
+  "orsay":16257,	
+  "pss":null,	
+  "wikidata":"Q3164203",	
+  "media":"Anonyme%20Portrait%20Jean-Larriv%C3%A9.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Anonyme_Portrait_Jean-Larriv%C3%A9.jpg/250px-Anonyme_Portrait_Jean-Larriv%C3%A9.jpg",	
+  "WPfr":"Jean-Baptiste_Larriv%C3%A9"
+},
+{
+  "id_archi":10092,	
+  "libelle":"P. Larue",	
+  "nom":"Larue",	
+  "prenom":"P.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10093,	
+  "libelle":"Laurier",	
+  "nom":"Laurier",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10094,	
+  "libelle":"Louis Lavy",	
+  "nom":"Lavy",	
+  "prenom":"Louis",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10095,	
+  "libelle":"Paul Le Bègue ",	
+  "nom":"Le Bègue ",	
+  "prenom":"Paul",	
+  "dates":"1833-1928",	
+  "orsay":92520,	
+  "pss":null,	
+  "wikidata":"Q141299613",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10096,	
+  "libelle":"Camille Lefèvre",	
+  "nom":"Lefèvre",	
+  "prenom":"Camille",	
+  "dates":"1853-1933",	
+  "orsay":35689,	
+  "pss":null,	
+  "wikidata":"Q2934999",	
+  "media":"Camille%20Lefevre%20portrait%20par%20Widhopff.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Camille_Lefevre_portrait_par_Widhopff.jpg/250px-Camille_Lefevre_portrait_par_Widhopff.jpg",	
+  "WPfr":"Camille_Lef%C3%A8vre_(sculpteur)"
+},
+{
+  "id_archi":10097,	
+  "libelle":"Louis Alexandre Lefèvre",	
+  "nom":"Lefèvre",	
+  "prenom":"Louis Alexandre",	
+  "dates":"1849-1893",	
+  "orsay":16641,	
+  "pss":null,	
+  "wikidata":"Q51751929",	
+  "media":"Alexandre-Louis_Lefevre-Deslongchamps.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre-Louis_Lefevre-Deslongchamps.png/250px-Alexandre-Louis_Lefevre-Deslongchamps.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",	
+  "WPfr":"Louis_Alexandre_Lefèvre-Deslongchamps"
+},
+{
+  "id_archi":10098,	
+  "libelle":"Pierre Lefèvre",	
+  "nom":"Lefèvre",	
+  "prenom":"Pierre",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10099,	
+  "libelle":"A. Leleu",	
+  "nom":"Leleu",	
+  "prenom":"A.",	
+  "dates":null,	
+  "orsay":16713,	
+  "pss":null,	
+  "wikidata":"Q141317545",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10100,	
+  "libelle":"Lemit",	
+  "nom":"Lemit",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10101,	
+  "libelle":"Leroux",	
+  "nom":"Leroux",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10102,	
+  "libelle":"Jules Paul Loebnitz",	
+  "nom":"Lœbnitz",	
+  "prenom":"Jules Paul",	
+  "dates":"1836-1895",	
+  "orsay":17092,	
+  "pss":null,	
+  "wikidata":"Q3188834",	
+  "media":"P%C3%A8re-Lachaise%20-%20Division%2082%20-%20Loebnitz%2002.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/P%C3%A8re-Lachaise_-_Division_82_-_Loebnitz_02.jpg/250px-P%C3%A8re-Lachaise_-_Division_82_-_Loebnitz_02.jpg",	
+  "WPfr":"Jules_Paul_Loebnitz"
+},
+{
+  "id_archi":10103,	
+  "libelle":"C. M(?)orrer",	
+  "nom":"M(?)orrer",	
+  "prenom":"C.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10104,	
+  "libelle":"F. Maader",	
+  "nom":"Maader",	
+  "prenom":"F.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10105,	
+  "libelle":"Louis Majorelle",	
+  "nom":"Majorelle",	
+  "prenom":"Louis",	
+  "dates":"1859-1926",	
+  "orsay":35916,	
+  "pss":5254,	
+  "wikidata":"Q2537308",	
+  "media":"Louis%20Majorelle.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Louis_Majorelle.png/250px-Louis_Majorelle.png",	
+  "WPfr":"Louis_Majorelle"
+},
+{
+  "id_archi":10106,	
+  "libelle":"Mallet",	
+  "nom":"Mallet",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10107,	
+  "libelle":"Antoine Margotin",	
+  "nom":"Margotin",	
+  "prenom":"Antoine",	
+  "dates":"1832-?",	
+  "orsay":17673,	
+  "pss":null,	
+  "wikidata":"Q66219846",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10108,	
+  "libelle":"L. Martin",	
+  "nom":"Martin",	
+  "prenom":"L.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10109,	
+  "libelle":"Michel",	
+  "nom":"Michel",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10110,	
+  "libelle":"Aimé Millet",	
+  "nom":"Millet",	
+  "prenom":"Aimé",	
+  "dates":"1819-1891",	
+  "orsay":18367,	
+  "pss":null,	
+  "wikidata":"Q405756",	
+  "media":"Aim%C3%A9%20Millet%20by%20Nadar%20c1856-58.png",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Aim%C3%A9_Millet_by_Nadar_c1856-58.png/250px-Aim%C3%A9_Millet_by_Nadar_c1856-58.png",	
+  "WPfr":"Aim%C3%A9_Millet"
+},
+{
+  "id_archi":10111,	
+  "libelle":"Pierre-Alexandre Morlon",	
+  "nom":"Morlon",	
+  "prenom":"Pierre-Alexandre",	
+  "dates":"1878-1951",	
+  "orsay":36994,	
+  "pss":null,	
+  "wikidata":"Q3382781",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Pierre-Alexandre_Morlon"
+},
+{
+  "id_archi":10112,	
+  "libelle":"François Mourgues",	
+  "nom":"Mourgues",	
+  "prenom":"François Mathieu",	
+  "dates":"1884-1954",	
+  "orsay":18781,	
+  "pss":null,	
+  "wikidata":"Q3085426",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Fran%C3%A7ois_Mourgues"
+},
+{
+  "id_archi":10114,	
+  "libelle":"Aimé Octobre",	
+  "nom":"Octobre",	
+  "prenom":"Aimé",	
+  "dates":"1868-1943",	
+  "orsay":19184,	
+  "pss":null,	
+  "wikidata":"Q2828083",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Aim%C3%A9_Octobre"
+},
+{
+  "id_archi":10115,	
+  "libelle":"Alexandre Oliva",	
+  "nom":"Oliva",	
+  "prenom":"Alexandre",	
+  "dates":"1823-1890",	
+  "orsay":35715,	
+  "pss":null,	
+  "wikidata":"Q2833924",	
+  "media":"Alexandre%20Oliva.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Alexandre_Oliva.jpg/250px-Alexandre_Oliva.jpg",	
+  "WPfr":"Alexandre_Oliva_(sculpteur)"
+},
+{
+  "id_archi":10116,	
+  "libelle":"Augustin Pajou",	
+  "nom":"Pajou",	
+  "prenom":"Augustin",	
+  "dates":"1730-1809",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q524291",	
+  "media":"Augustin%20Pajou.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Augustin_Pajou.jpg/250px-Augustin_Pajou.jpg",	
+  "WPfr":"Augustin_Pajou"
+},
+{
+  "id_archi":10117,	
+  "libelle":"Pangoy",	
+  "nom":"Pangoy",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10118,	
+  "libelle":"R. Paynot",	
+  "nom":"Paynot",	
+  "prenom":"R.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10119,	
+  "libelle":"Jean-Joseph Perraud",	
+  "nom":"Perraud",	
+  "prenom":"Jean-Joseph",	
+  "dates":"1819-1876",	
+  "orsay":19758,	
+  "pss":null,	
+  "wikidata":"Q2730042",	
+  "media":"Perraud.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Perraud.jpg/250px-Perraud.jpg",	
+  "WPfr":"Jean-Joseph_Perraud"
+},
+{
+  "id_archi":10120,	
+  "libelle":"Léon Auguste Perrey",	
+  "nom":"Perrey",	
+  "prenom":"Léon Auguste",	
+  "dates":"1841-1900",	
+  "orsay":35711,	
+  "pss":null,	
+  "wikidata":"Q18191086",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"L%C3%A9on-Auguste_Perrey"
+},
+{
+  "id_archi":10121,	
+  "libelle":"Perrin",	
+  "nom":"Perrin",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10122,	
+  "libelle":"Émile Peynot",	
+  "nom":"Peynot",	
+  "prenom":"Émile",	
+  "dates":"1850-1932",	
+  "orsay":19861,	
+  "pss":null,	
+  "wikidata":"Q3588699",	
+  "media":"Peynot%20by%20Charles%20Auguste%20Mengin.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Peynot_by_Charles_Auguste_Mengin.jpg/250px-Peynot_by_Charles_Auguste_Mengin.jpg",	
+  "WPfr":"%C3%89mile_Peynot"
+},
+{
+  "id_archi":10123,	
+  "libelle":"Charles Raphaël Peyre",	
+  "nom":"Peyre",	
+  "prenom":"Raphaël Charles",	
+  "dates":"1872-1949",	
+  "orsay":19865,	
+  "pss":null,	
+  "wikidata":"Q21030371",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10125,	
+  "libelle":"A. Poulin",	
+  "nom":"Poulin",	
+  "prenom":"A.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10126,	
+  "libelle":"James Pradier",	
+  "nom":"Pradier",	
+  "prenom":"Jean-Jacques",	
+  "dates":"1790-1852",	
+  "orsay":20289,	
+  "pss":null,	
+  "wikidata":"Q1362889",	
+  "media":"James%20Pradier%20grafika%20%28cropped%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/James_Pradier_grafika_%28cropped%29.jpg/250px-James_Pradier_grafika_%28cropped%29.jpg",	
+  "WPfr":"James_Pradier"
+},
+{
+  "id_archi":10129,	
+  "libelle":"Jean-Désiré Ringel d'Illzach",	
+  "nom":"Ringel d'Illzach",	
+  "prenom":"Jean",	
+  "dates":"1847-1916",	
+  "orsay":20893,	
+  "pss":null,	
+  "wikidata":"Q3165357",	
+  "media":"Ringel%20d%27Illzach%20par%20Bertillon-Mus%C3%A9e%20d%27art%20moderne%20et%20contemporain%20de%20Strasbourg%20%282%29.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ringel_d%27Illzach_par_Bertillon-Mus%C3%A9e_d%27art_moderne_et_contemporain_de_Strasbourg_%282%29.jpg/250px-Ringel_d%27Illzach_par_Bertillon-Mus%C3%A9e_d%27art_moderne_et_contemporain_de_Strasbourg_%282%29.jpg",	
+  "WPfr":"Jean-D%C3%A9sir%C3%A9_Ringel_d%27Illzach"
+},
+{
+  "id_archi":10130,	
+  "libelle":"Jules Rispal",	
+  "nom":"Rispal",	
+  "prenom":"Jules",	
+  "dates":"1871-1910",	
+  "orsay":20914,	
+  "pss":null,	
+  "wikidata":"Q2900451",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Jules_Rispal"
+},
+{
+  "id_archi":10131,	
+  "libelle":"Robert",	
+  "nom":"Robert",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10132,	
+  "libelle":"Élias Robert",	
+  "nom":"Robert",	
+  "prenom":"Louis Valentin Élias",	
+  "dates":"1819-1874",	
+  "orsay":20954,	
+  "pss":null,	
+  "wikidata":"Q8078203",	
+  "media":"Tombe Elias Robert, Cimetière d'Auteuil, Paris.jpg?uselang=fr",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Tombe_Elias_Robert%2C_Cimeti%C3%A8re_d'Auteuil%2C_Paris.jpg/250px-Tombe_Elias_Robert%2C_Cimeti%C3%A8re_d'Auteuil%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",	
+  "WPfr":"Élias_Robert"
+},
+{
+  "id_archi":10133,	
+  "libelle":"Pierre Roche",	
+  "nom":"Roche",	
+  "prenom":"Pierre",	
+  "dates":"1855-1922",	
+  "orsay":21003,	
+  "pss":null,	
+  "wikidata":"Q1766428",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Pierre_Roche_(sculpteur)"
+},
+{
+  "id_archi":10134,	
+  "libelle":"Auguste Rodin",	
+  "nom":"Rodin",	
+  "prenom":"René François Auguste",	
+  "dates":"1840-1917",	
+  "orsay":21020,	
+  "pss":null,	
+  "wikidata":"Q30755",	
+  "media":"Auguste%20Rodin%20fotografato%20da%20Nadar%20nel%201891.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg/250px-Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg",	
+  "WPfr":"Auguste_Rodin"
+},
+{
+  "id_archi":10135,	
+  "libelle":"F. Roger",	
+  "nom":"Roger",	
+  "prenom":"F.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10137,	
+  "libelle":"François Félix Roubaud",	
+  "nom":"Roubaud",	
+  "prenom":"François Félix",	
+  "dates":"1824-1876",	
+  "orsay":21184,	
+  "pss":null,	
+  "wikidata":"Q23540838",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Fran%C3%A7ois_F%C3%A9lix_Roubaud"
+},
+{
+  "id_archi":10138,	
+  "libelle":"Marcel Alexandre Rouillere",	
+  "nom":"Rouillère",	
+  "prenom":"Marcel Alexandre",	
+  "dates":"1868-1932",	
+  "orsay":142087,	
+  "pss":null,	
+  "wikidata":"Q26235838",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10139,	
+  "libelle":"Roussel",	
+  "nom":"Roussel",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10140,	
+  "libelle":"Paul Roussel",	
+  "nom":"Roussel",	
+  "prenom":"Paul",	
+  "dates":"1867-1928",	
+  "orsay":21260,	
+  "pss":null,	
+  "wikidata":"Q3372136",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Paul_Roussel"
+},
+{
+  "id_archi":10141,	
+  "libelle":"Rousset",	
+  "nom":"Rousset",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10142,	
+  "libelle":"François Rude",	
+  "nom":"Rude",	
+  "prenom":"François",	
+  "dates":"1784-1855",	
+  "orsay":21339,	
+  "pss":null,	
+  "wikidata":"Q346491",	
+  "media":"Sophie%20Rude%20-%20Portrait%20of%20Francois%20Rude.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sophie_Rude_-_Portrait_of_Francois_Rude.jpg/250px-Sophie_Rude_-_Portrait_of_Francois_Rude.jpg",	
+  "WPfr":"Fran%C3%A7ois_Rude"
+},
+{
+  "id_archi":10143,	
+  "libelle":"Léon Ruffat",	
+  "nom":"Ruffat",	
+  "prenom":"Léon",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10144,	
+  "libelle":"René de Saint-Marceaux",	
+  "nom":"Saint-Marceaux",	
+  "prenom":"René",	
+  "dates":"1845-1915",	
+  "orsay":36850,	
+  "pss":null,	
+  "wikidata":"Q2144917",	
+  "media":"Ren%C3%A9%20de%20Saint-Marceaux%20par%20Pierre%20Petit.JPEG",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ren%C3%A9_de_Saint-Marceaux_par_Pierre_Petit.JPEG/250px-Ren%C3%A9_de_Saint-Marceaux_par_Pierre_Petit.JPEG",	
+  "WPfr":"Ren%C3%A9_de_Saint-Marceaux"
+},
+{
+  "id_archi":10145,	
+  "libelle":"Jean de Saint-Maurice",	
+  "nom":"Saint-Maurice",	
+  "prenom":"Jean",	
+  "dates":"1879-?",	
+  "orsay":98005,	
+  "pss":null,	
+  "wikidata":"Q141318625",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10149,	
+  "libelle":"Lucien Schnegg",	
+  "nom":"Schnegg",	
+  "prenom":"Lucien",	
+  "dates":"1864-1909",	
+  "orsay":21773,	
+  "pss":null,	
+  "wikidata":"Q19629955",	
+  "media":"Buste%20Lucien%20Schnegg%2C%20Cimeti%C3%A8re%20du%20Montparnasse.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Buste_Lucien_Schnegg%2C_Cimeti%C3%A8re_du_Montparnasse.jpg/250px-Buste_Lucien_Schnegg%2C_Cimeti%C3%A8re_du_Montparnasse.jpg",	
+  "WPfr":"Lucien_Schnegg"
+},
+{
+  "id_archi":10151,	
+  "libelle":"Charles Émile Seurre",	
+  "nom":"Seurre",	
+  "prenom":"Charles Émile",	
+  "dates":"1798-1858",	
+  "orsay":21972,	
+  "pss":null,	
+  "wikidata":"Q2960770",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":"Charles_%C3%89mile_Seurre"
+},
+{
+  "id_archi":10152,	
+  "libelle":"François Sicard",	
+  "nom":"Sicard",	
+  "prenom":"François Léon",	
+  "dates":"1862-1934",	
+  "orsay":22006,	
+  "pss":null,	
+  "wikidata":"Q2739036",	
+  "media":"Fran%C3%A7ois-L%C3%A9on%20Sicard.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Fran%C3%A7ois-L%C3%A9on_Sicard.jpg/250px-Fran%C3%A7ois-L%C3%A9on_Sicard.jpg",	
+  "WPfr":"Fran%C3%A7ois_Sicard"
+},
+{
+  "id_archi":10153,	
+  "libelle":"Émile Soldi-Colbert",	
+  "nom":"Soldi",	
+  "prenom":"Arthur Émile",	
+  "dates":"1846-1906",	
+  "orsay":35739,	
+  "pss":null,	
+  "wikidata":"Q18191080",	
+  "media":"Portrait%20of%20Emile%20Soldi%20MET%20DP881301.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Portrait_of_Emile_Soldi_MET_DP881301.jpg/250px-Portrait_of_Emile_Soldi_MET_DP881301.jpg",	
+  "WPfr":"%C3%89mile_Soldi"
+},
+{
+  "id_archi":10154,	
+  "libelle":"Théobald-Joseph Sporrer",	
+  "nom":"Sporrer",	
+  "prenom":"Théobald Joseph",	
+  "dates":"1857-1933",	
+  "orsay":52188,	
+  "pss":null,	
+  "wikidata":"Q141318790",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10156,	
+  "libelle":"Toro",	
+  "nom":"Toro",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10157,	
+  "libelle":"Georges-Albert Trugard",	
+  "nom":"Trugard",	
+  "prenom":"Georges",	
+  "dates":"1848-1904",	
+  "orsay":52521,	
+  "pss":null,	
+  "wikidata":"Q18201474",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10158,	
+  "libelle":"Paul Vaast",	
+  "nom":"Vaast",	
+  "prenom":"Paul",	
+  "dates":"1879-1948",	
+  "orsay":52547,	
+  "pss":null,	
+  "wikidata":"Q131681699",	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10159,	
+  "libelle":"Van Nyvel",	
+  "nom":"Van Nyvel",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10160,	
+  "libelle":"Gérard van Opstal",	
+  "nom":"Van Obstal",	
+  "prenom":"Gérard",	
+  "dates":"1594-1668",	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":"Q673573",	
+  "media":"Lucas%20Franchoys%20the%20Younger%20-%20portrait%20of%20Gerard%20van%20Opstal%20with%20ivory%20sculpture.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lucas_Franchoys_the_Younger_-_portrait_of_Gerard_van_Opstal_with_ivory_sculpture.jpg/250px-Lucas_Franchoys_the_Younger_-_portrait_of_Gerard_van_Opstal_with_ivory_sculpture.jpg",	
+  "WPfr":"G%C3%A9rard_van_Opstal"
+},
+{
+  "id_archi":10161,	
+  "libelle":"J. Vast",	
+  "nom":"Vast",	
+  "prenom":"J.",	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10162,	
+  "libelle":"Vast",	
+  "nom":"Vast",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
+  "media":null,	
+  "thumb":null,	
+  "WPfr":null
+},
+{
+  "id_archi":10163,	
+  "libelle":"André Vermare",	
+  "nom":"Vermare",	
+  "prenom":"André",	
+  "dates":"1869-1949",	
+  "orsay":35698,	
+  "pss":null,	
+  "wikidata":"Q2848770",	
+  "media":"https://commons.wikimedia.org/wiki/File:André_Vermare_1989.jpg",	
+  "thumb":"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Andr%C3%A9_Vermare_1989.jpg/250px-Andr%C3%A9_Vermare_1989.jpg",	
+  "WPfr":"Andr%C3%A9_Vermare"
+},
+{
+  "id_archi":10164,	
+  "libelle":"Vouriot",	
+  "nom":"Vouriot",	
+  "prenom":null,	
+  "dates":null,	
+  "orsay":null,	
+  "pss":null,	
+  "wikidata":null,	
   "media":null,	
   "thumb":null,	
   "WPfr":null
