@@ -1,0 +1,63 @@
+{
+  "id_bat": 930,
+  "libelle": "14 rue Perrée",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 86,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1912",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "14 rue Perrée",
+    "numero": "14",
+    "voie": "rue Perrée"
+  },
+  "arrondissement": 3,
+  "tri_alphab": "Perree",
+  "coordonnees": {
+    "latitude": "48.864824",
+    "longitude": "2.361186"
+  },
+  "id_pss": 78047,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Perree-14_3_§1",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "fenetre",
+    "façade",
+    "fenetre-d'angle",
+    "décor"
+  ],
+  "photos": [
+    {
+      "id_pic": "Perree-14_3_§1",
+      "IndexJantzen": [
+        "façade",
+        "fenetre",
+        "porte-fer"
+      ],
+      "dateCapture": "2006:04:22"
+    },
+    {
+      "id_pic": "Perree-14_3_§2",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2004:09:01"
+    },
+    {
+      "id_pic": "Perree-14_3_§3",
+      "IndexJantzen": [
+        "décor",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2006:04:22"
+    }
+  ]
+}

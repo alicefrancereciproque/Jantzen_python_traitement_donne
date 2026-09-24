@@ -95,7 +95,7 @@ def convertir_donnees(
 # Exemple d'appel :
 if __name__ == "__main__":
     convertir_donnees(
-        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_2/batiments.json",
-        fichier_photos="../donnees_brut_client/donnees_brut_jeu_2/photos.json",
-        dossier_sortie="../donnees_traitees/donnees_traitees_jeu_2/batiments",
+        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_3/batiments.json",
+        fichier_photos="../donnees_brut_client/donnees_brut_jeu_3/photos.json",
+        dossier_sortie="../donnees_traitees/donnees_traitees_jeu_3/batiments",
     )

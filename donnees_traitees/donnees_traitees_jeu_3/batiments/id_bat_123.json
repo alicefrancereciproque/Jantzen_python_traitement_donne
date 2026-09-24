@@ -1,0 +1,885 @@
+{
+  "id_bat": 123,
+  "libelle": "Petit Palais",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 465,
+      "role": "architecte"
+    },
+    {
+      "personneID": 411,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10144,
+      "role": "sculpteur"
+    },
+    {
+      "personneID": 10122,
+      "role": "sculpteur"
+    },
+    {
+      "personneID": 10080,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1897-1900",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": null,
+  "arrondissement": 8,
+  "tri_alphab": "Petit-Palais",
+  "coordonnees": {
+    "latitude": "48.86602777777778",
+    "longitude": "2.3145555555555557"
+  },
+  "id_pss": 2649,
+  "id_wikidata": "Q820892",
+  "WPfr": "Petit Palais",
+  "image_ref": "Petit-Palais_8_§1",
+  "terme_jantzen_bat": [
+    "façade",
+    "garde-corps",
+    "tourelle",
+    "sculpture",
+    "dome",
+    "fronton",
+    "console",
+    "porte",
+    "clé",
+    "colonne",
+    "oeil-de-boeuf",
+    "fenetre",
+    "lucarne",
+    "toiture",
+    "cariatide",
+    "porte-fer",
+    "panoramique",
+    "pilastre",
+    "intérieur",
+    "décor"
+  ],
+  "photos": [
+    {
+      "id_pic": "Petit-Palais_8_§1",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2008:08:19"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§100",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2005:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§101",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§102",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§108",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§109",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§114",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:02:12"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§115",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§120",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§121",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§122",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§123",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§124",
+      "IndexJantzen": [
+        "clé",
+        "garde-corps"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§125",
+      "IndexJantzen": [
+        "façade",
+        "fronton"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§126",
+      "IndexJantzen": [
+        "fenetre",
+        "fronton"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§127",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre",
+        "fronton"
+      ],
+      "dateCapture": "2005:09:21"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§128",
+      "IndexJantzen": [
+        "clé",
+        "colonne",
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§129",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre",
+        "fronton"
+      ],
+      "dateCapture": "2005:09:21"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§130",
+      "IndexJantzen": [
+        "fronton",
+        "toiture"
+      ],
+      "dateCapture": "2005:09:21"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§131",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:09:21"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§132",
+      "IndexJantzen": [
+        "colonne",
+        "sculpture"
+      ],
+      "dateCapture": "2006:01:30"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§133",
+      "IndexJantzen": [
+        "clé",
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§134",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:01:30"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§135",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:01:30"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§136",
+      "IndexJantzen": [
+        "décor",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:25"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§137",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§138",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§139",
+      "IndexJantzen": [
+        "dome",
+        "façade"
+      ],
+      "dateCapture": "2006:06:06"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§14",
+      "IndexJantzen": [
+        "colonne",
+        "dome",
+        "porte"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§140",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2006:06:06"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§141",
+      "IndexJantzen": [
+        "décor",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2006:06:06"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§142",
+      "IndexJantzen": [
+        "colonne",
+        "façade"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§143",
+      "IndexJantzen": [
+        "décor",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§144",
+      "IndexJantzen": [
+        "décor",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§145",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2006:06:06"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§146",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§147",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§148",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§149",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§150",
+      "IndexJantzen": [
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§151",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§152",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§153",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§154",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:06:06"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§155",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:01:30"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§156",
+      "IndexJantzen": [
+        "fenetre",
+        "pilastre"
+      ],
+      "dateCapture": "2005:02:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§157",
+      "IndexJantzen": [
+        "dome",
+        "lucarne"
+      ],
+      "dateCapture": "2004:10:21"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§158",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2004:10:21"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§159",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:01:30"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§16",
+      "IndexJantzen": [
+        "porte"
+      ],
+      "dateCapture": "2005:07:17"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§160",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:01:30"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§161",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§162",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§163",
+      "IndexJantzen": [
+        "dome",
+        "décor",
+        "fronton",
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§164",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§165",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§166",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§167",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§168",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§169",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§170",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§171",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§172",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§173",
+      "IndexJantzen": [
+        "dome",
+        "intérieur",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§174",
+      "IndexJantzen": [
+        "dome",
+        "intérieur",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§175",
+      "IndexJantzen": [
+        "intérieur"
+      ],
+      "dateCapture": "2008:07:05"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§2",
+      "IndexJantzen": [
+        "dome",
+        "façade"
+      ],
+      "dateCapture": "2006:10:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§23",
+      "IndexJantzen": [
+        "porte"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§26",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§27",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§28",
+      "IndexJantzen": [
+        "colonne",
+        "porte"
+      ],
+      "dateCapture": "2009:09:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§29",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§31",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§37",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2008:08:03"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§38",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§39",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§4",
+      "IndexJantzen": [
+        "colonne",
+        "façade"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§40",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§41",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2009:06:14"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§42",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§43",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§44",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§45",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§46",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§47",
+      "IndexJantzen": [
+        "dome",
+        "lucarne"
+      ],
+      "dateCapture": "2009:09:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§48",
+      "IndexJantzen": [
+        "dome",
+        "lucarne"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§49",
+      "IndexJantzen": [
+        "dome"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§50",
+      "IndexJantzen": [
+        "cariatide"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§51",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture",
+        "tourelle"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§52",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:25"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§53",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture"
+      ],
+      "dateCapture": "2012:07:23"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§59",
+      "IndexJantzen": [
+        "dome"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§63",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "tourelle"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§66",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "tourelle"
+      ],
+      "dateCapture": "2005:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§7",
+      "IndexJantzen": [
+        "dome",
+        "porte"
+      ],
+      "dateCapture": "2006:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§83",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:25"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§85",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:09:18"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§86",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§87",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2008:02:12"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§9",
+      "IndexJantzen": [
+        "colonne",
+        "dome",
+        "porte"
+      ],
+      "dateCapture": "2009:09:07"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§92",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§93",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:02:16"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§96",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:11:01"
+    },
+    {
+      "id_pic": "Petit-Palais_8_§97",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2005:09:18"
+    }
+  ]
+}

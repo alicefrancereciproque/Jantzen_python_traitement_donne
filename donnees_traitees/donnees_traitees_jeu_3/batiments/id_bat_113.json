@@ -1,0 +1,224 @@
+{
+  "id_bat": 113,
+  "libelle": "Palais de Justice",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 482,
+      "role": "architecte"
+    },
+    {
+      "personneID": 252,
+      "role": "architecte"
+    },
+    {
+      "personneID": 306,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1859-1863",
+  "periode": [
+    "1850-1869"
+  ],
+  "adresse": null,
+  "arrondissement": 1,
+  "tri_alphab": "Horloge-Qu_Palais-Justice",
+  "coordonnees": {
+    "latitude": "48.855722",
+    "longitude": "2.345051"
+  },
+  "id_pss": 17810,
+  "id_wikidata": "Q143080",
+  "WPfr": "Palais de justice de Paris",
+  "image_ref": "Horloge-Qu_Palais-Justice_1_§2",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "fenetre",
+    "façade",
+    "sculpture",
+    "dome",
+    "pilastre",
+    "fronton",
+    "colonne"
+  ],
+  "photos": [
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§10",
+      "IndexJantzen": [
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:13"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§11",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:13"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§12",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:13"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§13",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§14",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§15",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§16",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§17",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§18",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2007:04:19"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§19",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2007:04:19"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§2",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§20",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2007:04:19"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§21",
+      "IndexJantzen": [
+        "colonne",
+        "sculpture"
+      ],
+      "dateCapture": "2007:04:19"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§3",
+      "IndexJantzen": [
+        "façade",
+        "fenetre",
+        "pilastre"
+      ],
+      "dateCapture": "2003:07:12"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§4",
+      "IndexJantzen": [
+        "fenetre",
+        "pilastre"
+      ],
+      "dateCapture": "2003:07:12"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§5",
+      "IndexJantzen": [
+        "colonne",
+        "façade"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§6",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:13"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§7",
+      "IndexJantzen": [
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:13"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§8",
+      "IndexJantzen": [
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Horloge-Qu_Palais-Justice_1_§9",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Palais-de-Justice_1_§1",
+      "IndexJantzen": [
+        "dome",
+        "porte-fer"
+      ],
+      "dateCapture": "2005:06:19"
+    },
+    {
+      "id_pic": "Palais-de-Justice_1_§2",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2005:06:19"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id_bat": 2166,
+  "libelle": "30t avenue Daumesnil",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 724,
+      "role": "architecte"
+    },
+    {
+      "personneID": 195,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "30t avenue Daumesnil",
+    "numero": "30t",
+    "voie": "avenue Daumesnil"
+  },
+  "arrondissement": 12,
+  "tri_alphab": "Daumesnil",
+  "coordonnees": {
+    "latitude": "48.847265",
+    "longitude": "2.375024"
+  },
+  "id_pss": 76981,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Daumesnil-30t_12_§1",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "fenetre",
+    "lucarne",
+    "façade-d'angle",
+    "sculpture",
+    "atlante",
+    "fenetre-d'angle",
+    "lucarne-d'angle",
+    "balcon",
+    "fronton"
+  ],
+  "photos": [
+    {
+      "id_pic": "Daumesnil-30t_12_§1",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2007:04:11"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§2",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2005:10:10"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§3",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2007:04:11"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§4",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne-d'angle"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§5",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne-d'angle"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§6",
+      "IndexJantzen": [
+        "balcon",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2005:10:10"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§7",
+      "IndexJantzen": [
+        "balcon",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2007:04:11"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§8",
+      "IndexJantzen": [
+        "atlante",
+        "balcon",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Daumesnil-30t_12_§9",
+      "IndexJantzen": [
+        "atlante",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2005:10:10"
+    }
+  ]
+}

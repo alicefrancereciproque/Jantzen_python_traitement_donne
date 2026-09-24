@@ -1,0 +1,182 @@
+{
+  "id_bat": 1992,
+  "libelle": "29 avenue Mac-Mahon",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 634,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10154,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1902",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "29 avenue Mac-Mahon",
+    "numero": "29",
+    "voie": "avenue Mac-Mahon"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Mac-Mahon",
+  "coordonnees": {
+    "latitude": "48.877488",
+    "longitude": "2.294149"
+  },
+  "id_pss": 12229,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Mac-Mahon-29_17_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "façade",
+    "console",
+    "garde-corps",
+    "sculpture",
+    "clé",
+    "décor"
+  ],
+  "photos": [
+    {
+      "id_pic": "Mac-Mahon-29_17_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2014:02:08"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§10",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2013:01:28"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§11",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2005:03:25"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§12",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2013:01:28"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§13",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2005:03:25"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§14",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2014:02:08"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§15",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2013:01:28"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§16",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2013:01:28"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§17",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2004:04:16"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§18",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2014:02:08"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§19",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2004:04:16"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§20",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2013:01:28"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§21",
+      "IndexJantzen": [
+        "console",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2013:01:28"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§22",
+      "IndexJantzen": [
+        "clé",
+        "fenetre"
+      ],
+      "dateCapture": "2013:02:07"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§23",
+      "IndexJantzen": [
+        "clé",
+        "console",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2013:02:07"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§24",
+      "IndexJantzen": [
+        "clé",
+        "fenetre",
+        "garde-corps",
+        "sculpture"
+      ],
+      "dateCapture": "2013:02:07"
+    },
+    {
+      "id_pic": "Mac-Mahon-29_17_§25",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:02:07"
+    }
+  ]
+}

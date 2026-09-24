@@ -1,5 +1,9 @@
 traitement_image/photos_jpg/
 traitement_image/photos_output/
+
+donnees_traitees/donnees_traitees_jeu_1/photos_jpg/
+donnees_traitees/donnees_traitees_jeu_2/photos_jpg/
+donnees_traitees/donnees_traitees_jeu_3/photos_jpg/
 telechargement_personnes_wikimedia/media_jpg
 telechargement_personnes_wikimedia/thumb_jpg
 telechargement_personnes_wikimedia/.DS_Store

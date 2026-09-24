@@ -50,6 +50,6 @@ def filtrer_json_personnes(fichier_source: str, fichier_sortie: str):
 # --- Exécution ---
 if __name__ == "__main__":
     filtrer_json_personnes(
-        fichier_source="../donnees_brut_client/donnees_brut_jeu_2/personnes.json",
-        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_2/personnes_filtre.json",
+        fichier_source="../donnees_brut_client/donnees_brut_jeu_3/personnes.json",
+        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_3/personnes_filtre.json",
     )

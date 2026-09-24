@@ -1,0 +1,49 @@
+{
+  "id_bat": 106,
+  "libelle": "mairie du 20e arrondissement",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 821,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1877",
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "place Gambetta",
+    "numero": null,
+    "voie": "place Gambetta"
+  },
+  "arrondissement": 20,
+  "tri_alphab": "Gambetta-pl",
+  "coordonnees": {
+    "latitude": "48.865",
+    "longitude": "2.39905"
+  },
+  "id_pss": 7911,
+  "id_wikidata": "Q3278496",
+  "WPfr": "Mairie du 20e arrondissement de Paris",
+  "image_ref": "Gambetta-pl_20_§1",
+  "terme_jantzen_bat": [
+    "tourelle"
+  ],
+  "photos": [
+    {
+      "id_pic": "Gambetta-pl_20_§1",
+      "IndexJantzen": [
+        "tourelle"
+      ],
+      "dateCapture": "2005:06:18"
+    },
+    {
+      "id_pic": "Gambetta-pl_20_§2",
+      "IndexJantzen": [
+        "tourelle"
+      ],
+      "dateCapture": "2005:06:18"
+    }
+  ]
+}

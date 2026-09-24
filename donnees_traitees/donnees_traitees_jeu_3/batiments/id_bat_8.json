@@ -1,0 +1,105 @@
+{
+  "id_bat": 8,
+  "libelle": "Cour d'Honneur - Façade Nord",
+  "ensemble": "Hôtel des Invalides",
+  "personnes": null,
+  "dateConstruction": "1671-1680, 1734",
+  "periode": [
+    "1660-1759"
+  ],
+  "adresse": null,
+  "arrondissement": 7,
+  "tri_alphab": "Invalides_HFN",
+  "coordonnees": {
+    "latitude": "48.856938",
+    "longitude": "2.312768"
+  },
+  "id_pss": null,
+  "id_wikidata": "Q111328415",
+  "WPfr": "Cour d'honneur de l'hôtel des Invalides",
+  "image_ref": "Invalides_HFN_§1_1-Rx",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "fenetre",
+    "façade",
+    "sculpture",
+    "fronton"
+  ],
+  "photos": [
+    {
+      "id_pic": "Invalides_HFN_§1_1-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2013:08:03"
+    },
+    {
+      "id_pic": "Invalides_HFN_§10-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2011:09:30"
+    },
+    {
+      "id_pic": "Invalides_HFN_§2_1-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2013:08:03"
+    },
+    {
+      "id_pic": "Invalides_HFN_§3",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:10:15"
+    },
+    {
+      "id_pic": "Invalides_HFN_§4_1-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2013:08:03"
+    },
+    {
+      "id_pic": "Invalides_HFN_§5",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2004:06:05"
+    },
+    {
+      "id_pic": "Invalides_HFN_§6",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2008:08:18"
+    },
+    {
+      "id_pic": "Invalides_HFN_§7-Rx",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2011:09:30"
+    },
+    {
+      "id_pic": "Invalides_HFN_§8",
+      "IndexJantzen": [
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2018:10:19"
+    },
+    {
+      "id_pic": "Invalides_HFN_§9",
+      "IndexJantzen": [
+        "fronton",
+        "oeil-de-boeuf",
+        "sculpture"
+      ],
+      "dateCapture": "2018:10:19"
+    }
+  ]
+}

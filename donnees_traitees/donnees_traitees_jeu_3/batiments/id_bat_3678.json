@@ -1,0 +1,94 @@
+{
+  "id_bat": 3678,
+  "libelle": "82 avenue Daumesnil",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 343,
+      "role": "architecte"
+    },
+    {
+      "personneID": 133,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1928",
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "82 avenue Daumesnil",
+    "numero": "82",
+    "voie": "avenue Daumesnil"
+  },
+  "arrondissement": 12,
+  "tri_alphab": "Daumesnil",
+  "coordonnees": {
+    "latitude": "48.843805",
+    "longitude": "2.382205"
+  },
+  "id_pss": 70622,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Daumesnil-82_12_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "console",
+    "garde-corps",
+    "façade-d'angle",
+    "dome",
+    "fenetre-d'angle",
+    "brique",
+    "décor",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Daumesnil-82_12_§1",
+      "IndexJantzen": [
+        "brique",
+        "dome",
+        "façade-d'angle"
+      ],
+      "dateCapture": "2010:03:26"
+    },
+    {
+      "id_pic": "Daumesnil-82_12_§2",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "dome",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2010:03:26"
+    },
+    {
+      "id_pic": "Daumesnil-82_12_§3",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "dome",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2010:03:26"
+    },
+    {
+      "id_pic": "Daumesnil-82_12_§4",
+      "IndexJantzen": [
+        "brique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2010:03:26"
+    },
+    {
+      "id_pic": "Daumesnil-82_12_§5",
+      "IndexJantzen": [
+        "brique",
+        "console",
+        "garde-corps"
+      ],
+      "dateCapture": "2010:03:26"
+    }
+  ]
+}

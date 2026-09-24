@@ -1,0 +1,109 @@
+{
+  "id_bat": 18,
+  "libelle": "Aile de Flore",
+  "ensemble": "Palais du Louvre",
+  "personnes": null,
+  "dateConstruction": "1853-1880",
+  "periode": [
+    "1850-1869"
+  ],
+  "adresse": null,
+  "arrondissement": 1,
+  "tri_alphab": "Louvre-1-Pcn_",
+  "coordonnees": {
+    "latitude": "48.860762294199226",
+    "longitude": "2.331720692601741"
+  },
+  "id_pss": null,
+  "id_wikidata": "Q2827938",
+  "WPfr": "Aile de Flore",
+  "image_ref": "Louvre-1-Pcn_06",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "fenetre",
+    "lucarne",
+    "sculpture",
+    "fronton"
+  ],
+  "photos": [
+    {
+      "id_pic": "Louvre-1-Pcn_01",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_02",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_03",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_04",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_05",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_06",
+      "IndexJantzen": [
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_07",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_08",
+      "IndexJantzen": [
+        "fenetre",
+        "fronton",
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_09",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:06"
+    },
+    {
+      "id_pic": "Louvre-1-Pcn_10",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:06"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id_bat": 3602,
+  "libelle": "8 rue Auguste-Bartholdi",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 676,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10158,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1904",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "8 rue Auguste-Bartholdi",
+    "numero": "8",
+    "voie": "rue Auguste-Bartholdi"
+  },
+  "arrondissement": 15,
+  "tri_alphab": "Auguste-Bartholdi",
+  "coordonnees": {
+    "latitude": "48.850736",
+    "longitude": "2.294359"
+  },
+  "id_pss": 5185,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Auguste-Bartholdi-8_15_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "console",
+    "sculpture",
+    "décor",
+    "porte-fer-hall"
+  ],
+  "photos": [
+    {
+      "id_pic": "Auguste-Bartholdi-8_15_§1",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2005:04:12"
+    },
+    {
+      "id_pic": "Auguste-Bartholdi-8_15_§2",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2005:04:12"
+    },
+    {
+      "id_pic": "Auguste-Bartholdi-8_15_§3",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2005:04:12"
+    },
+    {
+      "id_pic": "Auguste-Bartholdi-8_15_§4",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2005:04:12"
+    },
+    {
+      "id_pic": "Auguste-Bartholdi-8_15_§5",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2005:04:12"
+    }
+  ]
+}
