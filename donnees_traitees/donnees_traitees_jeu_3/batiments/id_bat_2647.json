@@ -1,0 +1,106 @@
+{
+  "id_bat": 2647,
+  "libelle": "43 boulevard Suchet",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 512,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1925",
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "43 boulevard Suchet",
+    "numero": "43",
+    "voie": "boulevard Suchet"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "Suchet",
+  "coordonnees": {
+    "latitude": "48.856299",
+    "longitude": "2.264216"
+  },
+  "id_pss": 27649,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Suchet-43_16_§1",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "fenetre",
+    "façade",
+    "garde-corps",
+    "sculpture",
+    "clé",
+    "décor",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Suchet-43_16_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2006:04:02"
+    },
+    {
+      "id_pic": "Suchet-43_16_§2",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:04:02"
+    },
+    {
+      "id_pic": "Suchet-43_16_§3",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:04:02"
+    },
+    {
+      "id_pic": "Suchet-43_16_§4",
+      "IndexJantzen": [
+        "balcon",
+        "sculpture"
+      ],
+      "dateCapture": "2006:04:02"
+    },
+    {
+      "id_pic": "Suchet-43_16_§6",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2006:04:02"
+    },
+    {
+      "id_pic": "Suchet-43_16_§7",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2006:04:02"
+    },
+    {
+      "id_pic": "Suchet-43_16_§8",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2006:03:17"
+    },
+    {
+      "id_pic": "Suchet-43_16_§9",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2004:03:16"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id_bat": 3392,
+  "libelle": "7 rue Daubenton",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 557,
+      "role": "architecte"
+    },
+    {
+      "personneID": 133,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1928",
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "7 rue Daubenton",
+    "numero": "7",
+    "voie": "rue Daubenton"
+  },
+  "arrondissement": 5,
+  "tri_alphab": "Daubenton",
+  "coordonnees": {
+    "latitude": "48.84139",
+    "longitude": "2.355118"
+  },
+  "id_pss": 78853,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Daubenton-7_5_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "lucarne",
+    "façade-d'angle",
+    "porte-fer-hall",
+    "fenetre-d'angle",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Daubenton-7_5_§1",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Daubenton-7_5_§2",
+      "IndexJantzen": [
+        "balcon",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Daubenton-7_5_§3",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Daubenton-7_5_§4",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2005:04:11"
+    }
+  ]
+}

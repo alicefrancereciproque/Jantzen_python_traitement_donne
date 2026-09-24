@@ -1,0 +1,57 @@
+{
+  "id_bat": 493,
+  "libelle": "11 rue Margueritte",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 221,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1897",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "11 rue Margueritte",
+    "numero": "11",
+    "voie": "rue Margueritte"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Margueritte",
+  "coordonnees": {
+    "latitude": "48.879989",
+    "longitude": "2.301202"
+  },
+  "id_pss": 104578,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Margueritte-11_17_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "console",
+    "garde-corps",
+    "sculpture",
+    "décor"
+  ],
+  "photos": [
+    {
+      "id_pic": "Margueritte-11_17_§1",
+      "IndexJantzen": [
+        "console",
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:06:16"
+    },
+    {
+      "id_pic": "Margueritte-11_17_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2006:06:16"
+    }
+  ]
+}

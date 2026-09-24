@@ -1,0 +1,295 @@
+{
+  "id_bat": 1118,
+  "libelle": "16 rue d'Abbeville",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 634,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10056,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1900",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "16 rue d'Abbeville",
+    "numero": "16",
+    "voie": "rue d'Abbeville"
+  },
+  "arrondissement": 10,
+  "tri_alphab": "Abbeville",
+  "coordonnees": {
+    "latitude": "48.879226",
+    "longitude": "2.349557"
+  },
+  "id_pss": 25685,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Abbeville-16_10_§3",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "façade",
+    "console",
+    "pignon",
+    "façade-d'angle",
+    "sculpture",
+    "oriel",
+    "fenetre-d'angle",
+    "cariatide",
+    "décor",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Abbeville-16_10_§10",
+      "IndexJantzen": [
+        "balcon",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§11_Dx",
+      "IndexJantzen": [
+        "décor",
+        "fenetre-d'angle",
+        "oriel",
+        "sculpture"
+      ],
+      "dateCapture": "2012:05:24"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§12",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2013:12:09"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§13",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:06:10"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§14",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:02"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§15",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2012:05:24"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§16",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2014:10:03"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§17_Dx",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2008:09:22"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§18",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:05:27"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§19",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2008:09:22"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§2",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2015:04:16"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§20",
+      "IndexJantzen": [],
+      "dateCapture": "2012:05:24"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§21",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2014:10:03"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§22",
+      "IndexJantzen": [],
+      "dateCapture": "2012:05:24"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§24",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2012:05:24"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§25",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "oriel",
+        "sculpture"
+      ],
+      "dateCapture": "2013:05:27"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§27",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "oriel",
+        "sculpture"
+      ],
+      "dateCapture": "2008:09:22"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§3",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§30",
+      "IndexJantzen": [
+        "balcon",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:06:10"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§31",
+      "IndexJantzen": [
+        "balcon",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:05:27"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§32",
+      "IndexJantzen": [
+        "balcon",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2008:09:22"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§33",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:05:27"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§34",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:05:27"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§35",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:05:27"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§37",
+      "IndexJantzen": [
+        "cariatide",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2013:06:04"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§4",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§5",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2005:04:11"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§6",
+      "IndexJantzen": [
+        "fenetre-d'angle",
+        "oriel"
+      ],
+      "dateCapture": "2014:10:03"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§7",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2013:06:10"
+    },
+    {
+      "id_pic": "Abbeville-16_10_§8",
+      "IndexJantzen": [
+        "fenetre-d'angle",
+        "oriel",
+        "pignon"
+      ],
+      "dateCapture": "2014:10:03"
+    }
+  ]
+}

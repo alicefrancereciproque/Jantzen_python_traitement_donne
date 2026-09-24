@@ -1,0 +1,103 @@
+{
+  "id_bat": 838,
+  "libelle": "134 boulevard Haussmann",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": null,
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "134 boulevard Haussmann",
+    "numero": "134",
+    "voie": "boulevard Haussmann"
+  },
+  "arrondissement": 8,
+  "tri_alphab": "Haussmann",
+  "coordonnees": {
+    "latitude": "48.875392",
+    "longitude": "2.314238"
+  },
+  "id_pss": 23406,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Haussmann-134_8_§1",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "fenetre",
+    "lucarne",
+    "console",
+    "sculpture",
+    "dome",
+    "pilastre",
+    "fenetre-d'angle",
+    "clé",
+    "lucarne-d'angle",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Haussmann-134_8_§1",
+      "IndexJantzen": [
+        "balcon",
+        "dome",
+        "fenetre-d'angle",
+        "pilastre"
+      ],
+      "dateCapture": "2006:03:23"
+    },
+    {
+      "id_pic": "Haussmann-134_8_§2",
+      "IndexJantzen": [
+        "balcon",
+        "dome",
+        "lucarne-d'angle",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:03:23"
+    },
+    {
+      "id_pic": "Haussmann-134_8_§3",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:03:23"
+    },
+    {
+      "id_pic": "Haussmann-134_8_§4",
+      "IndexJantzen": [],
+      "dateCapture": "2012:04:30"
+    },
+    {
+      "id_pic": "Haussmann-134_8_§5",
+      "IndexJantzen": [
+        "clé",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2012:04:30"
+    },
+    {
+      "id_pic": "Haussmann-134_8_§6",
+      "IndexJantzen": [],
+      "dateCapture": "2012:04:30"
+    },
+    {
+      "id_pic": "Haussmann-134_8_§7",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2006:03:23"
+    },
+    {
+      "id_pic": "Haussmann-134_8_3_DxO",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2012:04:30"
+    }
+  ]
+}

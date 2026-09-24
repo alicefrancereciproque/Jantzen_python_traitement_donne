@@ -1,0 +1,73 @@
+{
+  "id_bat": 83,
+  "libelle": "Gare de l'Est",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 312,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1850-1869"
+  ],
+  "adresse": null,
+  "arrondissement": 10,
+  "tri_alphab": "Gare-de-l'Est",
+  "coordonnees": {
+    "latitude": "48.876944444444",
+    "longitude": "2.3591666666667"
+  },
+  "id_pss": 4385,
+  "id_wikidata": "Q757180",
+  "WPfr": "Gare de Paris-Est",
+  "image_ref": "Gare-de-l'Est-_10_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "sculpture",
+    "métal",
+    "intérieur",
+    "verrière"
+  ],
+  "photos": [
+    {
+      "id_pic": "Gare-de-l'Est-_10_§1",
+      "IndexJantzen": [
+        "verrière"
+      ],
+      "dateCapture": "2004:05:16"
+    },
+    {
+      "id_pic": "Gare-de-l'Est-_10_§1b",
+      "IndexJantzen": [
+        "verrière"
+      ],
+      "dateCapture": "2004:05:16"
+    },
+    {
+      "id_pic": "Gare-de-l'Est-_10_§2",
+      "IndexJantzen": [
+        "intérieur",
+        "métal",
+        "verrière"
+      ],
+      "dateCapture": null
+    },
+    {
+      "id_pic": "Gare-de-l'Est-_10_§3",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:05"
+    },
+    {
+      "id_pic": "Gare-de-l'Est-_10_§4",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:05"
+    }
+  ]
+}

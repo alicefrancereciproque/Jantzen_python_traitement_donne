@@ -1,0 +1,66 @@
+{
+  "id_bat": 627,
+  "libelle": "12 place Vendôme",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 376,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1699",
+  "periode": [
+    "1660-1759"
+  ],
+  "adresse": {
+    "affichage": "12 place Vendôme",
+    "numero": "12",
+    "voie": "place Vendôme"
+  },
+  "arrondissement": 1,
+  "tri_alphab": "Vendome-Pl",
+  "coordonnees": {
+    "latitude": "48.86697",
+    "longitude": "2.329971"
+  },
+  "id_pss": 16270,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Vendome-Pl-12_1_§1",
+  "terme_jantzen_bat": [
+    "lucarne",
+    "fenetre",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Vendome-Pl-12_1_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:04:03"
+    },
+    {
+      "id_pic": "Vendome-Pl-12_1_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne"
+      ],
+      "dateCapture": "2008:04:03"
+    },
+    {
+      "id_pic": "Vendome-Pl-12_1_§3",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2008:04:03"
+    },
+    {
+      "id_pic": "Vendome-Pl-12_1_§4",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2008:04:03"
+    }
+  ]
+}

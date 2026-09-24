@@ -1,0 +1,44 @@
+{
+  "id_bat": 3861,
+  "libelle": "91 avenue Kléber",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 822,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "91 avenue Kléber",
+    "numero": "91",
+    "voie": "avenue Kléber"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "Kleber",
+  "coordonnees": {
+    "latitude": "48.863929",
+    "longitude": "2.288181"
+  },
+  "id_pss": 102911,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Kleber-91-_16_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "mosaique"
+  ],
+  "photos": [
+    {
+      "id_pic": "Kleber-91-_16_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "mosaique"
+      ],
+      "dateCapture": "2004:03:17"
+    }
+  ]
+}

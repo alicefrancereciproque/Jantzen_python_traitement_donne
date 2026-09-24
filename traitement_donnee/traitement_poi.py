@@ -91,15 +91,15 @@ def generer_geojson_leaflet(
         json.dump(geojson, f_out, ensure_ascii=False, indent=2)
 
     print(
-        f"✅ GeoJSON compatible Leaflet créé avec succès !"
-        f"\n📍 {len(features)} points enregistrés dans '{fichier_sortie}'."
+        f" GeoJSON compatible Leaflet créé avec succès !"
+        f"\n {len(features)} points enregistrés dans '{fichier_sortie}'."
     )
 
 
 # Exécution :
 if __name__ == "__main__":
     generer_geojson_leaflet(
-        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_2/batiments.json",
-        fichier_photos="../donnees_brut_client/donnees_brut_jeu_2/photos.json",
-        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_2/map_poi.geojson",  # Destination dans ton projet web
+        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_3/batiments.json",
+        fichier_photos="../donnees_brut_client/donnees_brut_jeu_3/photos.json",
+        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_3/map_poi.geojson",  # Destination dans ton projet web
     )

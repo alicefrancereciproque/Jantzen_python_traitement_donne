@@ -1,0 +1,161 @@
+{
+  "id_bat": 393,
+  "libelle": "104 boulevard de Courcelles",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 654,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "104 boulevard de Courcelles",
+    "numero": "104",
+    "voie": "boulevard de Courcelles"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Courcelles-bd",
+  "coordonnees": {
+    "latitude": "48.879173",
+    "longitude": "2.302404"
+  },
+  "id_pss": 48825,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Courcelles-bd-104_17_§1",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "fenetre",
+    "toiture",
+    "garde-corps",
+    "console",
+    "lucarne",
+    "oeil-de-boeuf",
+    "façade-d'angle",
+    "sculpture",
+    "clé",
+    "fenetre-d'angle",
+    "lucarne-d'angle",
+    "balcon",
+    "colonne"
+  ],
+  "photos": [
+    {
+      "id_pic": "Courcelles-bd-104_17_§1",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2006:04:06"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§10",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2006:03:14"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§11",
+      "IndexJantzen": [
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2003:08:26"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§12",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2003:08:26"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§13",
+      "IndexJantzen": [
+        "clé",
+        "fenetre"
+      ],
+      "dateCapture": "2003:08:26"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§14",
+      "IndexJantzen": [
+        "colonne",
+        "fenetre",
+        "porte-fer"
+      ],
+      "dateCapture": "2003:08:26"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§2",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2006:04:06"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§3",
+      "IndexJantzen": [
+        "balcon",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2008:02:17"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§4",
+      "IndexJantzen": [
+        "balcon",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2008:02:17"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§5",
+      "IndexJantzen": [
+        "colonne",
+        "lucarne-d'angle",
+        "toiture"
+      ],
+      "dateCapture": "2008:02:17"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§6",
+      "IndexJantzen": [
+        "colonne",
+        "lucarne-d'angle",
+        "toiture"
+      ],
+      "dateCapture": "2004:05:26"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§7",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:02:17"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§8",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:04:06"
+    },
+    {
+      "id_pic": "Courcelles-bd-104_17_§9",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:04:06"
+    }
+  ]
+}

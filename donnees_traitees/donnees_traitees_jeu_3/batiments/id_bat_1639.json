@@ -1,0 +1,56 @@
+{
+  "id_bat": 1639,
+  "libelle": "21 rue Monsieur",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 430,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10086,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1900",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "21 rue Monsieur",
+    "numero": "21",
+    "voie": "rue Monsieur"
+  },
+  "arrondissement": 7,
+  "tri_alphab": "Monsieur",
+  "coordonnees": {
+    "latitude": "48.850102",
+    "longitude": "2.316673"
+  },
+  "id_pss": 38020,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Monsieur-21_7_§1",
+  "terme_jantzen_bat": [
+    "sculpture",
+    "console",
+    "porte-fer-hall"
+  ],
+  "photos": [
+    {
+      "id_pic": "Monsieur-21_7_§1",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2005:05:01"
+    },
+    {
+      "id_pic": "Monsieur-21_7_§2",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2005:05:01"
+    }
+  ]
+}

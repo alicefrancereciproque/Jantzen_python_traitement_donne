@@ -1,0 +1,55 @@
+{
+  "id_bat": 3106,
+  "libelle": "6 place du Panthéon",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 276,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10118,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1927",
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "6 place du Panthéon",
+    "numero": "6",
+    "voie": "place du Panthéon"
+  },
+  "arrondissement": 5,
+  "tri_alphab": "Pantheon-pl",
+  "coordonnees": {
+    "latitude": "48.846751",
+    "longitude": "2.346999"
+  },
+  "id_pss": 37848,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Pantheon-pl-6_5_§1",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "clé"
+  ],
+  "photos": [
+    {
+      "id_pic": "Pantheon-pl-6_5_§1",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2005:05:27"
+    },
+    {
+      "id_pic": "Pantheon-pl-6_5_§2",
+      "IndexJantzen": [
+        "clé",
+        "porte-fer"
+      ],
+      "dateCapture": "2005:05:27"
+    }
+  ]
+}

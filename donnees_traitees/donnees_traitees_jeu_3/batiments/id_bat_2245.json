@@ -1,0 +1,62 @@
+{
+  "id_bat": 2245,
+  "libelle": "33 avenue Kléber",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 483,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "33 avenue Kléber",
+    "numero": "33",
+    "voie": "avenue Kléber"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "Kleber",
+  "coordonnees": {
+    "latitude": "48.869385",
+    "longitude": "2.292145"
+  },
+  "id_pss": 77353,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Kleber-33_16_§1",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "fenetre",
+    "lucarne",
+    "porte-bois",
+    "décor"
+  ],
+  "photos": [
+    {
+      "id_pic": "Kleber-33_16_§1",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2005:03:16"
+    },
+    {
+      "id_pic": "Kleber-33_16_§2",
+      "IndexJantzen": [
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2005:03:16"
+    },
+    {
+      "id_pic": "Kleber-33_16_§3",
+      "IndexJantzen": [
+        "porte-bois"
+      ],
+      "dateCapture": "2004:03:17"
+    }
+  ]
+}

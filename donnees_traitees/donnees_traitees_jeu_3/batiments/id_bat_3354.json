@@ -1,0 +1,69 @@
+{
+  "id_bat": 3354,
+  "libelle": "69 rue Réaumur",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 717,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1895",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "69 rue Réaumur",
+    "numero": "69",
+    "voie": "rue Réaumur"
+  },
+  "arrondissement": 2,
+  "tri_alphab": "Reaumur",
+  "coordonnees": {
+    "latitude": "48.866607",
+    "longitude": "2.349958"
+  },
+  "id_pss": 37354,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Reaumur-65_2_§2",
+  "terme_jantzen_bat": [
+    "toiture",
+    "verrière",
+    "façade",
+    "métal"
+  ],
+  "photos": [
+    {
+      "id_pic": "Reaumur-65_2_§2",
+      "IndexJantzen": [
+        "toiture",
+        "verrière"
+      ],
+      "dateCapture": "2004:07:06"
+    },
+    {
+      "id_pic": "Reaumur-65_2_§3",
+      "IndexJantzen": [
+        "façade",
+        "métal"
+      ],
+      "dateCapture": "2004:05:16"
+    },
+    {
+      "id_pic": "Reaumur-65_2_§4",
+      "IndexJantzen": [
+        "toiture",
+        "verrière"
+      ],
+      "dateCapture": "2004:05:16"
+    },
+    {
+      "id_pic": "Reaumur-69_2_§5",
+      "IndexJantzen": [
+        "verrière"
+      ],
+      "dateCapture": "2004:07:05"
+    }
+  ]
+}

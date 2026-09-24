@@ -1,0 +1,72 @@
+{
+  "id_bat": 105,
+  "libelle": "Mairie du 12e arrondissement",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 464,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1874-1877",
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": null,
+  "arrondissement": 12,
+  "tri_alphab": "Mairie-du",
+  "coordonnees": {
+    "latitude": "48.8408",
+    "longitude": "2.38833"
+  },
+  "id_pss": 9201,
+  "id_wikidata": "Q3278483",
+  "WPfr": "Mairie du 12e arrondissement de Paris",
+  "image_ref": "Mairie-du_12_§1",
+  "terme_jantzen_bat": [
+    "toiture",
+    "lucarne",
+    "oeil-de-boeuf",
+    "tourelle"
+  ],
+  "photos": [
+    {
+      "id_pic": "Mairie-du_12_§1",
+      "IndexJantzen": [
+        "toiture",
+        "tourelle"
+      ],
+      "dateCapture": "2005:07:16"
+    },
+    {
+      "id_pic": "Mairie-du_12_§2",
+      "IndexJantzen": [
+        "toiture",
+        "tourelle"
+      ],
+      "dateCapture": "2004:07:26"
+    },
+    {
+      "id_pic": "Mairie-du_12_§3",
+      "IndexJantzen": [
+        "tourelle"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Mairie-du_12_§4",
+      "IndexJantzen": [
+        "tourelle"
+      ],
+      "dateCapture": "2005:07:16"
+    },
+    {
+      "id_pic": "Mairie-du_12_§5",
+      "IndexJantzen": [
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2006:07:03"
+    }
+  ]
+}

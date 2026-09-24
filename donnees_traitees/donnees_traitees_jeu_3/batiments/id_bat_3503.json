@@ -1,0 +1,66 @@
+{
+  "id_bat": 3503,
+  "libelle": "74 boulevard Vincent-Auriol",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 544,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "74 boulevard Vincent-Auriol",
+    "numero": "74",
+    "voie": "boulevard Vincent-Auriol"
+  },
+  "arrondissement": 13,
+  "tri_alphab": "Vincent-Auriol",
+  "coordonnees": {
+    "latitude": "48.834237",
+    "longitude": "2.365276"
+  },
+  "id_pss": 10826,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Vincent-Auriol-74_13_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "garde-corps",
+    "brique",
+    "balcon",
+    "colonne"
+  ],
+  "photos": [
+    {
+      "id_pic": "Vincent-Auriol-74_13_§1",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2007:03:27"
+    },
+    {
+      "id_pic": "Vincent-Auriol-74_13_§2",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "colonne"
+      ],
+      "dateCapture": "2005:07:17"
+    },
+    {
+      "id_pic": "Vincent-Auriol-74_13_§3",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2007:03:27"
+    }
+  ]
+}
