@@ -1,0 +1,89 @@
+{
+  "id_bat": 2780,
+  "libelle": "49 boulevard Victor",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 766,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1914",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "49 boulevard Victor",
+    "numero": "49",
+    "voie": "boulevard Victor"
+  },
+  "arrondissement": 15,
+  "tri_alphab": "Victor",
+  "coordonnees": {
+    "latitude": "48.833712",
+    "longitude": "2.286411"
+  },
+  "id_pss": 75603,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Victor-49_15_§1",
+  "terme_jantzen_bat": [
+    "fenetre-d'angle",
+    "décor",
+    "façade-d'angle",
+    "console",
+    "balcon",
+    "lucarne-d'angle",
+    "sculpture"
+  ],
+  "photos": [
+    {
+      "id_pic": "Victor-49_15_§1",
+      "IndexJantzen": [
+        "façade-d'angle"
+      ],
+      "dateCapture": "2005:03:21"
+    },
+    {
+      "id_pic": "Victor-49_15_§2",
+      "IndexJantzen": [
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2005:03:21"
+    },
+    {
+      "id_pic": "Victor-49_15_§3",
+      "IndexJantzen": [
+        "décor",
+        "fenetre-d'angle",
+        "sculpture"
+      ],
+      "dateCapture": "2006:03:17"
+    },
+    {
+      "id_pic": "Victor-49_15_§4",
+      "IndexJantzen": [
+        "lucarne-d'angle"
+      ],
+      "dateCapture": "2005:03:21"
+    },
+    {
+      "id_pic": "Victor-49_15_§5",
+      "IndexJantzen": [
+        "décor",
+        "lucarne-d'angle",
+        "sculpture"
+      ],
+      "dateCapture": "2006:03:17"
+    },
+    {
+      "id_pic": "Victor-49_15_§6",
+      "IndexJantzen": [
+        "balcon",
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:21"
+    }
+  ]
+}

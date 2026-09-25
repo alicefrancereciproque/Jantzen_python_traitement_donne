@@ -1,0 +1,52 @@
+{
+  "id_bat": 3094,
+  "libelle": "6 avenue Sully-Prudhomme",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 832,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "6 avenue Sully-Prudhomme",
+    "numero": "6",
+    "voie": "avenue Sully-Prudhomme"
+  },
+  "arrondissement": 7,
+  "tri_alphab": "Sully-Prudhom",
+  "coordonnees": {
+    "latitude": "48.861327",
+    "longitude": "2.308205"
+  },
+  "id_pss": 17379,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Sully-Prudhom-6_7_§1-Rs",
+  "terme_jantzen_bat": [
+    "fenetre-d'angle",
+    "balcon"
+  ],
+  "photos": [
+    {
+      "id_pic": "Sully-Prudhom-6_7_§1-Rs",
+      "IndexJantzen": [
+        "balcon",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2008:02:19"
+    },
+    {
+      "id_pic": "Sully-Prudhom-6_7_§2",
+      "IndexJantzen": [
+        "balcon",
+        "fenetre-d'angle"
+      ],
+      "dateCapture": "2008:02:19"
+    }
+  ]
+}

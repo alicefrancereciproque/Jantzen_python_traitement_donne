@@ -1,0 +1,54 @@
+{
+  "id_bat": 3764,
+  "libelle": "8b rue de l'Argonne",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 486,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1904",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "8b rue de l'Argonne",
+    "numero": "8b",
+    "voie": "rue de l'Argonne"
+  },
+  "arrondissement": 19,
+  "tri_alphab": "Argonne",
+  "coordonnees": {
+    "latitude": "48.892851",
+    "longitude": "2.384632"
+  },
+  "id_pss": 78039,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Argonne-8b_19_§1",
+  "terme_jantzen_bat": [
+    "décor",
+    "brique",
+    "fenetre"
+  ],
+  "photos": [
+    {
+      "id_pic": "Argonne-8b_19_§1",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2005:09:07"
+    },
+    {
+      "id_pic": "Argonne-8b_19_§2",
+      "IndexJantzen": [
+        "brique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2005:09:07"
+    }
+  ]
+}

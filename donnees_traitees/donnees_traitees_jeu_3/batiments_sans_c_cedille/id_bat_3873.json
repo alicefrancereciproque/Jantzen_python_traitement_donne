@@ -1,0 +1,77 @@
+{
+  "id_bat": 3873,
+  "libelle": "92 boulevard de Courcelles",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 703,
+      "role": "architecte"
+    },
+    {
+      "personneID": 635,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10099,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1881",
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "92 boulevard de Courcelles",
+    "numero": "92",
+    "voie": "boulevard de Courcelles"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Courcelles-bd",
+  "coordonnees": {
+    "latitude": "48.879529",
+    "longitude": "2.304062"
+  },
+  "id_pss": 48827,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Courcelles-bd-92_17_§1",
+  "terme_jantzen_bat": [
+    "poignée-porte",
+    "clé",
+    "sculpture",
+    "porte-bois"
+  ],
+  "photos": [
+    {
+      "id_pic": "Courcelles-bd-92_17_§1",
+      "IndexJantzen": [
+        "porte-bois"
+      ],
+      "dateCapture": "2007:03:28"
+    },
+    {
+      "id_pic": "Courcelles-bd-92_17_§1b",
+      "IndexJantzen": [
+        "clé",
+        "porte-bois",
+        "sculpture"
+      ],
+      "dateCapture": "2019:10:01"
+    },
+    {
+      "id_pic": "Courcelles-bd-92_17_§2",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2006:06:09"
+    },
+    {
+      "id_pic": "Courcelles-bd-92_17_§3",
+      "IndexJantzen": [
+        "poignée-porte"
+      ],
+      "dateCapture": "2006:06:09"
+    }
+  ]
+}

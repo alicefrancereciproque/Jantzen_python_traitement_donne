@@ -1,0 +1,48 @@
+{
+  "id_bat": 2482,
+  "libelle": "4 rue de Cadix",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 576,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10021,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1914",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "4 rue de Cadix",
+    "numero": "4",
+    "voie": "rue de Cadix"
+  },
+  "arrondissement": 15,
+  "tri_alphab": "Cadix",
+  "coordonnees": {
+    "latitude": "48.834376",
+    "longitude": "2.288543"
+  },
+  "id_pss": 74145,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Cadix-4_15_§1",
+  "terme_jantzen_bat": [
+    "console",
+    "sculpture"
+  ],
+  "photos": [
+    {
+      "id_pic": "Cadix-4_15_§1",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "dateCapture": "2005:09:22"
+    }
+  ]
+}

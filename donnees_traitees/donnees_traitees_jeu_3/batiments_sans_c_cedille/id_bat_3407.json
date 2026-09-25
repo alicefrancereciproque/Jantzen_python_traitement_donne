@@ -1,0 +1,210 @@
+{
+  "id_bat": 3407,
+  "libelle": "7 rue de Tilsitt",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 350,
+      "role": "architecte"
+    },
+    {
+      "personneID": 474,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10019,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1869",
+  "periode": [
+    "1850-1869"
+  ],
+  "adresse": {
+    "affichage": "7 rue de Tilsitt",
+    "numero": "7",
+    "voie": "rue de Tilsitt"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Tilsitt",
+  "coordonnees": {
+    "latitude": "48.875191",
+    "longitude": "2.295417"
+  },
+  "id_pss": 28154,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Tilsitt-7-Etoile_17_§1",
+  "terme_jantzen_bat": [
+    "décor",
+    "lucarne",
+    "pilastre",
+    "clé",
+    "cariatide",
+    "toiture",
+    "fenetre",
+    "porte-fer",
+    "sculpture",
+    "atlante",
+    "fronton",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Tilsitt-7_17_§1",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "porte-fer",
+        "sculpture"
+      ],
+      "dateCapture": "2010:06:05"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "porte-fer",
+        "sculpture"
+      ],
+      "dateCapture": "2010:06:05"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§4",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2006:07:01"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§5",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:01"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§6",
+      "IndexJantzen": [
+        "atlante",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:01"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§7",
+      "IndexJantzen": [
+        "atlante",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:01"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§8b",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture"
+      ],
+      "dateCapture": "2010:06:05"
+    },
+    {
+      "id_pic": "Tilsitt-7_17_§9",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:01"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§10",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2008:03:29"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§11",
+      "IndexJantzen": [
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2008:03:29"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§12",
+      "IndexJantzen": [
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:09"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§2",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§3",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§4",
+      "IndexJantzen": [
+        "fenetre",
+        "pilastre"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§5",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2006:09:09"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§6",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§8",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Tilsitt-7-Etoile_17_§9",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2009:03:31"
+    }
+  ]
+}

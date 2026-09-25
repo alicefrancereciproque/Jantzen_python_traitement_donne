@@ -1,0 +1,68 @@
+{
+  "id_bat": 3408,
+  "libelle": "7 rue de Trétaigne",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 826,
+      "role": "architecte"
+    },
+    {
+      "personneID": 832,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1904",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "7 rue de Trétaigne",
+    "numero": "7",
+    "voie": "rue de Trétaigne"
+  },
+  "arrondissement": 18,
+  "tri_alphab": "Tretaigne",
+  "coordonnees": {
+    "latitude": "48.891775",
+    "longitude": "2.342064"
+  },
+  "id_pss": 10183,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Tretaigne-7_18_§1",
+  "terme_jantzen_bat": [
+    "brique",
+    "oriel",
+    "mosaique",
+    "porte-bois",
+    "fenetre"
+  ],
+  "photos": [
+    {
+      "id_pic": "Tretaigne-7_18_§1",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "oriel"
+      ],
+      "dateCapture": "2003:07:09"
+    },
+    {
+      "id_pic": "Tretaigne-7_18_§1b",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "dateCapture": "2004:06:13"
+    },
+    {
+      "id_pic": "Tretaigne-7_18_§2",
+      "IndexJantzen": [
+        "mosaique",
+        "porte-bois"
+      ],
+      "dateCapture": "2003:07:09"
+    }
+  ]
+}

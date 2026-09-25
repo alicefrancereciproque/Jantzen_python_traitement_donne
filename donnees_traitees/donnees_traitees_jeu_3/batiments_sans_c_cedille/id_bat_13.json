@@ -1,0 +1,636 @@
+{
+  "id_bat": 13,
+  "libelle": "Façade Nord ",
+  "ensemble": "Hôtel des Invalides",
+  "personnes": null,
+  "dateConstruction": "1671-1680",
+  "periode": [
+    "1660-1759"
+  ],
+  "adresse": null,
+  "arrondissement": 7,
+  "tri_alphab": "Invalides_FN",
+  "coordonnees": {
+    "latitude": "48.857102",
+    "longitude": "2.312784"
+  },
+  "id_pss": null,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Invalides_FN_§5",
+  "terme_jantzen_bat": [
+    "dome",
+    "pignon",
+    "décor",
+    "porte",
+    "lucarne",
+    "porte-bois",
+    "clé",
+    "toiture",
+    "panoramique",
+    "chimère",
+    "fenetre",
+    "porte-fer",
+    "sculpture",
+    "oeil-de-boeuf",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Invalides_FN_§10",
+      "IndexJantzen": [
+        "dome",
+        "façade",
+        "porte-fer"
+      ],
+      "dateCapture": "2006:07:16"
+    },
+    {
+      "id_pic": "Invalides_FN_§11-Rx",
+      "IndexJantzen": [
+        "dome",
+        "façade",
+        "porte-fer"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§13-Rx",
+      "IndexJantzen": [
+        "dome",
+        "décor",
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§14",
+      "IndexJantzen": [
+        "décor",
+        "sculpture"
+      ],
+      "dateCapture": "2007:06:09"
+    },
+    {
+      "id_pic": "Invalides_FN_§15",
+      "IndexJantzen": [
+        "décor",
+        "sculpture"
+      ],
+      "dateCapture": "2007:06:09"
+    },
+    {
+      "id_pic": "Invalides_FN_§16",
+      "IndexJantzen": [
+        "dome"
+      ],
+      "dateCapture": "2007:06:09"
+    },
+    {
+      "id_pic": "Invalides_FN_§1-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§20-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§21-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§22",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2008:08:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§24-",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§25-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§26b",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Invalides_FN_§26-Rx",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§27",
+      "IndexJantzen": [
+        "façade",
+        "porte"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§29",
+      "IndexJantzen": [
+        "façade",
+        "porte"
+      ],
+      "dateCapture": "2009:05:30"
+    },
+    {
+      "id_pic": "Invalides_FN_§2-Rx",
+      "IndexJantzen": [
+        "dome",
+        "façade"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§3",
+      "IndexJantzen": [
+        "dome",
+        "fenetre"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§30",
+      "IndexJantzen": [
+        "façade",
+        "porte-bois"
+      ],
+      "dateCapture": "2006:07:16"
+    },
+    {
+      "id_pic": "Invalides_FN_§32",
+      "IndexJantzen": [
+        "façade",
+        "porte"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§35",
+      "IndexJantzen": [
+        "façade",
+        "porte"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§40",
+      "IndexJantzen": [
+        "porte"
+      ],
+      "dateCapture": "2017:06:11"
+    },
+    {
+      "id_pic": "Invalides_FN_§41",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§42",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§43",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2009:05:30"
+    },
+    {
+      "id_pic": "Invalides_FN_§45",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§46",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§47",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§47b",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:10:19"
+    },
+    {
+      "id_pic": "Invalides_FN_§48",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§48b",
+      "IndexJantzen": [
+        "façade",
+        "porte"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§49",
+      "IndexJantzen": [
+        "façade",
+        "porte-bois"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§49b",
+      "IndexJantzen": [
+        "porte-bois",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§49c",
+      "IndexJantzen": [
+        "porte-bois",
+        "sculpture"
+      ],
+      "dateCapture": "2018:10:19"
+    },
+    {
+      "id_pic": "Invalides_FN_§49d",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2018:10:19"
+    },
+    {
+      "id_pic": "Invalides_FN_§49e",
+      "IndexJantzen": [
+        "porte-bois",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§4-Rx",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§5",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2007:06:09"
+    },
+    {
+      "id_pic": "Invalides_FN_§53",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§58",
+      "IndexJantzen": [
+        "clé",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§59",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§5b",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2008:08:03"
+    },
+    {
+      "id_pic": "Invalides_FN_§5c",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§6",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2007:06:09"
+    },
+    {
+      "id_pic": "Invalides_FN_§60",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§61",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§62",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:17"
+    },
+    {
+      "id_pic": "Invalides_FN_§63",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:17"
+    },
+    {
+      "id_pic": "Invalides_FN_§64",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_§65",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2006:07:17"
+    },
+    {
+      "id_pic": "Invalides_FN_§65b",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2018:10:19"
+    },
+    {
+      "id_pic": "Invalides_FN_§67",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§68",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§69",
+      "IndexJantzen": [
+        "fenetre",
+        "toiture"
+      ],
+      "dateCapture": "2006:07:16"
+    },
+    {
+      "id_pic": "Invalides_FN_§7",
+      "IndexJantzen": [
+        "dome",
+        "façade",
+        "porte-fer"
+      ],
+      "dateCapture": "2009:05:30"
+    },
+    {
+      "id_pic": "Invalides_FN_§70",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2006:07:16"
+    },
+    {
+      "id_pic": "Invalides_FN_§72",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§73",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§74",
+      "IndexJantzen": [
+        "chimère",
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§75",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§76",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§77",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§78",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_§79",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2009:05:30"
+    },
+    {
+      "id_pic": "Invalides_FN_§8-Rx",
+      "IndexJantzen": [
+        "dome",
+        "façade",
+        "porte-fer"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§10-Rx",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§11",
+      "IndexJantzen": [
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§12",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:07:28"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§2-Rx",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§3",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§4",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§5",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§6",
+      "IndexJantzen": [
+        "façade",
+        "panoramique"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§7-Rx",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2011:07:03"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§8",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2018:06:30"
+    },
+    {
+      "id_pic": "Invalides_FN_Lc_§9",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon",
+        "sculpture"
+      ],
+      "dateCapture": "2005:08:04"
+    }
+  ]
+}

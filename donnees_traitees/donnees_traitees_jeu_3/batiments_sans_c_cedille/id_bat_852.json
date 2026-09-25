@@ -1,0 +1,156 @@
+{
+  "id_bat": 852,
+  "libelle": "137 boulevard de l'Hôpital",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 724,
+      "role": "architecte"
+    },
+    {
+      "personneID": 195,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1922-1926",
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "137 boulevard de l'Hôpital",
+    "numero": "137",
+    "voie": "boulevard de l'Hôpital"
+  },
+  "arrondissement": 13,
+  "tri_alphab": "Hopital-bd",
+  "coordonnees": {
+    "latitude": "48.834883",
+    "longitude": "2.358375"
+  },
+  "id_pss": 27827,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Hopital-bd-137_13_§1",
+  "terme_jantzen_bat": [
+    "pignon",
+    "brique",
+    "décor",
+    "lucarne",
+    "céramique",
+    "toiture",
+    "balcon",
+    "fenetre",
+    "colonne",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Hopital-bd-137_13_§1",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "façade",
+        "toiture"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§10",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "pignon"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§11",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "pignon"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§2",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "fenetre"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§3",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "lucarne"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§4",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "lucarne"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§5",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§6",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§7",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§8",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "céramique",
+        "décor"
+      ],
+      "dateCapture": "2005:06:14"
+    },
+    {
+      "id_pic": "Hopital-bd-137_13_§9",
+      "IndexJantzen": [
+        "balcon",
+        "brique",
+        "colonne",
+        "céramique",
+        "décor"
+      ],
+      "dateCapture": "2005:06:14"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id_bat": 874,
+  "libelle": "14 boulevard de Courcelles",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 378,
+      "role": "architecte"
+    },
+    {
+      "personneID": 141,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10114,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1913",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "14 boulevard de Courcelles",
+    "numero": "14",
+    "voie": "boulevard de Courcelles"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Courcelles-bd",
+  "coordonnees": {
+    "latitude": "48.881172",
+    "longitude": "2.313797"
+  },
+  "id_pss": 27947,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Courcelles-bd-14_17_§1",
+  "terme_jantzen_bat": [
+    "clé",
+    "porte-fer-hall",
+    "fenetre",
+    "porte-fer",
+    "sculpture"
+  ],
+  "photos": [
+    {
+      "id_pic": "Courcelles-bd-14_17_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "porte-fer"
+      ],
+      "dateCapture": "2006:05:04"
+    },
+    {
+      "id_pic": "Courcelles-bd-14_17_§2",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2005:05:09"
+    },
+    {
+      "id_pic": "Courcelles-bd-14_17_§3",
+      "IndexJantzen": [
+        "clé",
+        "sculpture"
+      ],
+      "dateCapture": null
+    }
+  ]
+}

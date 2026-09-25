@@ -1,0 +1,83 @@
+{
+  "id_bat": 1333,
+  "libelle": "184 boulevard Saint-Germain",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 592,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10153,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1877",
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "184 boulevard Saint-Germain",
+    "numero": "184",
+    "voie": "boulevard Saint-Germain"
+  },
+  "arrondissement": 6,
+  "tri_alphab": "St-Germain",
+  "coordonnees": {
+    "latitude": "48.854441",
+    "longitude": "2.331225"
+  },
+  "id_pss": 65156,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "St-Germain-184_6_§1",
+  "terme_jantzen_bat": [
+    "porte-bois",
+    "cariatide",
+    "fenetre",
+    "sculpture",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "St-Germain-184_6_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2005:03:20"
+    },
+    {
+      "id_pic": "St-Germain-184_6_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "porte-bois"
+      ],
+      "dateCapture": "2005:08:11"
+    },
+    {
+      "id_pic": "St-Germain-184_6_§3",
+      "IndexJantzen": [
+        "cariatide",
+        "fenetre",
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:20"
+    },
+    {
+      "id_pic": "St-Germain-184_6_§4",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:20"
+    },
+    {
+      "id_pic": "St-Germain-184_6_§5",
+      "IndexJantzen": [
+        "cariatide",
+        "sculpture"
+      ],
+      "dateCapture": "2005:03:20"
+    }
+  ]
+}

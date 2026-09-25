@@ -1,0 +1,123 @@
+{
+  "id_bat": 2558,
+  "libelle": "40 avenue du Président-Wilson",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 102,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10130,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1907",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "40 avenue du Président-Wilson",
+    "numero": "40",
+    "voie": "avenue du Président-Wilson"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "President-Wilson",
+  "coordonnees": {
+    "latitude": "48.863777",
+    "longitude": "2.289527"
+  },
+  "id_pss": 27690,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "President-Wilson-40_16_§1",
+  "terme_jantzen_bat": [
+    "pignon",
+    "lucarne",
+    "oriel",
+    "balcon",
+    "porte-fer-hall",
+    "fenetre",
+    "garde-corps",
+    "sculpture"
+  ],
+  "photos": [
+    {
+      "id_pic": "President-Wilson-40_16_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "dateCapture": "2006:06:30"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§10",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2004:06:05"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§11",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2004:06:05"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§12",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "dateCapture": "2004:06:05"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§3",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:08"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§4",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "dateCapture": "2006:06:30"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§5",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "dateCapture": "2006:06:30"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§6",
+      "IndexJantzen": [
+        "lucarne",
+        "pignon"
+      ],
+      "dateCapture": "2004:03:17"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§7",
+      "IndexJantzen": [
+        "lucarne",
+        "sculpture"
+      ],
+      "dateCapture": "2008:05:08"
+    },
+    {
+      "id_pic": "President-Wilson-40_16_§9",
+      "IndexJantzen": [
+        "balcon",
+        "garde-corps"
+      ],
+      "dateCapture": "2004:06:05"
+    }
+  ]
+}

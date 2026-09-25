@@ -1,0 +1,86 @@
+{
+  "id_bat": 581,
+  "libelle": "118 rue Réaumur",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 665,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10003,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1900",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "118 rue Réaumur",
+    "numero": "118",
+    "voie": "rue Réaumur"
+  },
+  "arrondissement": 2,
+  "tri_alphab": "Reaumur",
+  "coordonnees": {
+    "latitude": "48.867977",
+    "longitude": "2.344961"
+  },
+  "id_pss": 4605,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Reaumur-118_2_§1",
+  "terme_jantzen_bat": [
+    "décor",
+    "verrière",
+    "fenetre",
+    "métal",
+    "colonne"
+  ],
+  "photos": [
+    {
+      "id_pic": "Reaumur-118_2_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "métal",
+        "verrière"
+      ],
+      "dateCapture": "2004:04:25"
+    },
+    {
+      "id_pic": "Reaumur-118_2_§2",
+      "IndexJantzen": [
+        "colonne",
+        "décor",
+        "fenetre",
+        "verrière"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Reaumur-118_2_§3",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2004:04:25"
+    },
+    {
+      "id_pic": "Reaumur-118_2_§4",
+      "IndexJantzen": [
+        "colonne",
+        "décor",
+        "fenetre",
+        "métal"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Reaumur-118_2_§5",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2004:08:21"
+    }
+  ]
+}

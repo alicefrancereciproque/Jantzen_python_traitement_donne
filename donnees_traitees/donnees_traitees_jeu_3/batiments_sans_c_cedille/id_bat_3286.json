@@ -1,0 +1,63 @@
+{
+  "id_bat": 3286,
+  "libelle": "65 boulevard de Grenelle",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 187,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "65 boulevard de Grenelle",
+    "numero": "65",
+    "voie": "boulevard de Grenelle"
+  },
+  "arrondissement": 15,
+  "tri_alphab": "Grenelle-bd",
+  "coordonnees": {
+    "latitude": "48.850721",
+    "longitude": "2.293386"
+  },
+  "id_pss": 39227,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Grenelle-bd-65_15_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "garde-corps",
+    "brique",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Grenelle-bd-65_15_§1",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2005:04:12"
+    },
+    {
+      "id_pic": "Grenelle-bd-65_15_§2",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2005:04:12"
+    },
+    {
+      "id_pic": "Grenelle-bd-65_15_§3",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2005:04:12"
+    }
+  ]
+}

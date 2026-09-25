@@ -1,0 +1,104 @@
+{
+  "id_bat": 1314,
+  "libelle": "18 rue Henri-Heine",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 454,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1930",
+  "periode": [
+    "1915-1944"
+  ],
+  "adresse": {
+    "affichage": "18 rue Henri-Heine",
+    "numero": "18",
+    "voie": "rue Henri-Heine"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "Henri-Heine",
+  "coordonnees": {
+    "latitude": "48.85205",
+    "longitude": "2.266065"
+  },
+  "id_pss": 4647,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Henri-Heine-18_16_§1-Dx",
+  "terme_jantzen_bat": [
+    "brique",
+    "toiture",
+    "fenetre",
+    "porte-fer",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Henri-Heine-18_16_§10-Dx",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "dateCapture": "2014:03:09"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§1-Dx",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2014:03:09"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§2",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§4",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2010:05:23"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§5",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2006:07:01"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§6",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2005:05:18"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§7",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "toiture"
+      ],
+      "dateCapture": "2009:03:31"
+    },
+    {
+      "id_pic": "Henri-Heine-18_16_§9",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "toiture"
+      ],
+      "dateCapture": "2005:05:18"
+    }
+  ]
+}

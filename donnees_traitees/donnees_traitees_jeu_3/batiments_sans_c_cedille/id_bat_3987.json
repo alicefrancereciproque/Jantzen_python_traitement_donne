@@ -1,0 +1,796 @@
+{
+  "id_bat": 3987,
+  "libelle": "place des Vosges",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 200,
+      "role": "architecte"
+    },
+    {
+      "personneID": 643,
+      "role": "architecte"
+    },
+    {
+      "personneID": 644,
+      "role": "architecte"
+    },
+    {
+      "personneID": 183,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1590-1659"
+  ],
+  "adresse": {
+    "affichage": "place des Vosges",
+    "numero": null,
+    "voie": "place des Vosges"
+  },
+  "arrondissement": 4,
+  "tri_alphab": "Vosges-Pl",
+  "coordonnees": {
+    "latitude": "48.855555555556",
+    "longitude": "2.3655555555556"
+  },
+  "id_pss": 17802,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Vosges-Pl_4_§1",
+  "terme_jantzen_bat": [
+    "lucarne",
+    "brique",
+    "porte-bois",
+    "console",
+    "toiture",
+    "voie",
+    "fenetre",
+    "métal",
+    "garde-corps",
+    "sculpture",
+    "colonne",
+    "fronton",
+    "oeil-de-boeuf",
+    "façade"
+  ],
+  "photos": [
+    {
+      "id_pic": "Vosges-Pl_4_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§10",
+      "IndexJantzen": [
+        "brique",
+        "voie"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§100",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§101",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§102",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§103",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§104",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§105",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§106",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§107",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§108",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§11",
+      "IndexJantzen": [
+        "brique",
+        "porte-bois"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§12",
+      "IndexJantzen": [
+        "brique",
+        "porte-bois"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§13",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2003:08:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§14",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "lucarne"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§15",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§16",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§17",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2003:08:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§18",
+      "IndexJantzen": [
+        "brique",
+        "fenetre"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§19",
+      "IndexJantzen": [
+        "brique",
+        "garde-corps"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§2",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§20",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§21",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§22",
+      "IndexJantzen": [
+        "brique",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§23",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§24",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§25",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§26",
+      "IndexJantzen": [
+        "brique",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§27",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§28",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§29",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§3",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§30",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§31",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§4",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§5",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§50",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2006:07:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§51",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§52",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§53",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§54",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§55",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§56",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§57",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§58",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§59",
+      "IndexJantzen": [
+        "console",
+        "garde-corps",
+        "métal"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§6",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§60",
+      "IndexJantzen": [
+        "console",
+        "garde-corps",
+        "métal"
+      ],
+      "dateCapture": "2004:05:23"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§61",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§62",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§63",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§64",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§65",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§66",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "toiture"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§67",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "fronton"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§68",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§69",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§7",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§70",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§71",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§72",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§73",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§74",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:08:10"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§75",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§76",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§77",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§78",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§79",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§8",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "garde-corps"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§80",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:09:19"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§81",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2008:09:19"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§82",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§83",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§84",
+      "IndexJantzen": [
+        "façade",
+        "lucarne"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§85",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§86",
+      "IndexJantzen": [
+        "façade",
+        "lucarne"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§87",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§88",
+      "IndexJantzen": [
+        "façade",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§89",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§9",
+      "IndexJantzen": [
+        "brique",
+        "voie"
+      ],
+      "dateCapture": "2012:08:11"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§90",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§91",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2005:08:03"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§92",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "dateCapture": "2006:09:01"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§93",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§94",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§95",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§96",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§97",
+      "IndexJantzen": [
+        "brique",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§98",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:05:16"
+    },
+    {
+      "id_pic": "Vosges-Pl_4_§99",
+      "IndexJantzen": [
+        "brique",
+        "fronton",
+        "lucarne"
+      ],
+      "dateCapture": "2008:09:18"
+    }
+  ]
+}

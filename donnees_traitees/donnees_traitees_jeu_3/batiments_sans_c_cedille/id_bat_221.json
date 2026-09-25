@@ -1,0 +1,51 @@
+{
+  "id_bat": 221,
+  "libelle": "1 rue de Trétaigne",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 914,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "1 rue de Trétaigne",
+    "numero": "1",
+    "voie": "rue de Trétaigne"
+  },
+  "arrondissement": 18,
+  "tri_alphab": "Tretaigne",
+  "coordonnees": {
+    "latitude": "48.891405",
+    "longitude": "2.341904"
+  },
+  "id_pss": 28480,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Tretaigne-1_18_§1",
+  "terme_jantzen_bat": [
+    "oriel",
+    "fenetre"
+  ],
+  "photos": [
+    {
+      "id_pic": "Tretaigne-1_18_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "dateCapture": "2003:07:09"
+    },
+    {
+      "id_pic": "Tretaigne-1_18_-B",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "dateCapture": "2003:07:09"
+    }
+  ]
+}

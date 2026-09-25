@@ -1,0 +1,94 @@
+{
+  "id_bat": 3823,
+  "libelle": "9 rue Fortuny",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 426,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10102,
+      "role": "céramiste"
+    }
+  ],
+  "dateConstruction": "1890",
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "9 rue Fortuny",
+    "numero": "9",
+    "voie": "rue Fortuny"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Fortuny",
+  "coordonnees": {
+    "latitude": "48.88211",
+    "longitude": "2.306233"
+  },
+  "id_pss": 39161,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Fortuny-9_17_§1",
+  "terme_jantzen_bat": [
+    "décor",
+    "lucarne",
+    "brique",
+    "céramique",
+    "oriel",
+    "fenetre",
+    "métal"
+  ],
+  "photos": [
+    {
+      "id_pic": "Fortuny-9_17_§1",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2006:06:12"
+    },
+    {
+      "id_pic": "Fortuny-9_17_§2",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "fenetre"
+      ],
+      "dateCapture": "2006:06:12"
+    },
+    {
+      "id_pic": "Fortuny-9_17_§3",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "lucarne"
+      ],
+      "dateCapture": "2006:06:12"
+    },
+    {
+      "id_pic": "Fortuny-9_17_§4",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "lucarne"
+      ],
+      "dateCapture": "2006:06:12"
+    },
+    {
+      "id_pic": "Fortuny-9_17_§5",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "métal",
+        "oriel"
+      ],
+      "dateCapture": "2006:06:12"
+    }
+  ]
+}
