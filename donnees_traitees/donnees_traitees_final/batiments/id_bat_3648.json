@@ -1,0 +1,94 @@
+{
+  "id_bat": 3648,
+  "libelle": "8 rue Louis-Morard",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 164,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1902",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "8 rue Louis-Morard",
+    "numero": "8",
+    "voie": "rue Louis-Morard"
+  },
+  "arrondissement": 14,
+  "tri_alphab": "Louis-Morard",
+  "coordonnees": {
+    "latitude": "48.828556",
+    "longitude": "2.321189"
+  },
+  "id_pss": 41686,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Louis-Morard-8_14_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "brique",
+    "façade",
+    "céramique",
+    "décor"
+  ],
+  "terme_torneh_bat": [
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "brique",
+    "corniche",
+    "céramique",
+    "fenêtre",
+    "fer forgé",
+    "garde-corps",
+    "linteau",
+    "mascaron",
+    "oriel",
+    "porte-fenêtre",
+    "travée",
+    "vantail"
+  ],
+  "photos": [
+    {
+      "id_pic": "Louis-Morard-8_14_§1",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "façade"
+      ],
+      "IndexTorneh": [
+        "balcon",
+        "balustrade",
+        "brique",
+        "céramique",
+        "fenêtre",
+        "garde-corps",
+        "linteau",
+        "mascaron",
+        "porte-fenêtre",
+        "travée",
+        "fer forgé",
+        "corniche",
+        "bandeau",
+        "oriel",
+        "vantail"
+      ],
+      "dateCapture": "2005:05:08"
+    },
+    {
+      "id_pic": "Louis-Morard-8_14_§2",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "fenetre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:05:08"
+    }
+  ]
+}

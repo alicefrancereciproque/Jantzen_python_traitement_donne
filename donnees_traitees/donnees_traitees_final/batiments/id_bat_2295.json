@@ -1,0 +1,85 @@
+{
+  "id_bat": 2295,
+  "libelle": "346b rue des Pyrénées",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 488,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1895",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "346b rue des Pyrénées",
+    "numero": "346b",
+    "voie": "rue des Pyrénées"
+  },
+  "arrondissement": 20,
+  "tri_alphab": "Pyrenees",
+  "coordonnees": {
+    "latitude": "48.873897",
+    "longitude": "2.388191"
+  },
+  "id_pss": null,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Pyrenees-346b_20_§1",
+  "terme_jantzen_bat": [
+    "oriel",
+    "céramique"
+  ],
+  "terme_torneh_bat": [
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "céramique",
+    "fenêtre",
+    "fer forgé",
+    "garde-corps",
+    "mascaron",
+    "oculus",
+    "oriel",
+    "pierre de taille",
+    "sculpture",
+    "travée",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Pyrenees-346b_20_§1",
+      "IndexJantzen": [
+        "céramique",
+        "oriel"
+      ],
+      "IndexTorneh": [
+        "oriel",
+        "balcon",
+        "balustrade",
+        "garde-corps",
+        "fenêtre",
+        "volet",
+        "fer forgé",
+        "pierre de taille",
+        "céramique",
+        "mascaron",
+        "sculpture",
+        "oculus",
+        "travée",
+        "bandeau"
+      ],
+      "dateCapture": "2006:04:20"
+    },
+    {
+      "id_pic": "Pyrenees-346b_20_§2",
+      "IndexJantzen": [
+        "céramique",
+        "oriel"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2006:04:20"
+    }
+  ]
+}

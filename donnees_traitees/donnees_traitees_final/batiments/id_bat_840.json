@@ -1,0 +1,126 @@
+{
+  "id_bat": 840,
+  "libelle": "134 rue de Grenelle",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 538,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1903",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "134 rue de Grenelle",
+    "numero": "134",
+    "voie": "rue de Grenelle"
+  },
+  "arrondissement": 7,
+  "tri_alphab": "Grenelle",
+  "coordonnees": {
+    "latitude": "48.857555",
+    "longitude": "2.317759"
+  },
+  "id_pss": 36965,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Grenelle-134_7_§2",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "sculpture",
+    "console",
+    "fenetre",
+    "intérieur",
+    "décor"
+  ],
+  "terme_torneh_bat": [
+    "balcon",
+    "balustrade",
+    "chambranle",
+    "fenêtre",
+    "fer forgé",
+    "garde-corps",
+    "linteau",
+    "mascaron",
+    "pierre de taille",
+    "portail",
+    "porte",
+    "sculpture",
+    "vantail",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Grenelle-134_7_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "porte-fer"
+      ],
+      "IndexTorneh": [
+        "porte",
+        "portail",
+        "fenêtre",
+        "balcon",
+        "balustrade",
+        "garde-corps",
+        "mascaron",
+        "sculpture",
+        "fer forgé",
+        "volet",
+        "pierre de taille",
+        "vantail",
+        "chambranle",
+        "linteau"
+      ],
+      "dateCapture": "2005:05:28"
+    },
+    {
+      "id_pic": "Grenelle-134_7_§3",
+      "IndexJantzen": [
+        "console",
+        "décor",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:05:28"
+    },
+    {
+      "id_pic": "Grenelle-134_7_§4",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:05:28"
+    },
+    {
+      "id_pic": "Grenelle-134_7_§5",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:05:28"
+    },
+    {
+      "id_pic": "Grenelle-134_7_§6",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:05:28"
+    },
+    {
+      "id_pic": "Grenelle-134_7_§7",
+      "IndexJantzen": [
+        "intérieur",
+        "porte-fer"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:05:28"
+    }
+  ]
+}

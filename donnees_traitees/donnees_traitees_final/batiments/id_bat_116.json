@@ -1,0 +1,222 @@
+{
+  "id_bat": 116,
+  "libelle": "Palais Royal",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 546,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1590-1659"
+  ],
+  "adresse": null,
+  "arrondissement": 1,
+  "tri_alphab": "Palais-Royal-Pl",
+  "coordonnees": {
+    "latitude": "48.863333333333",
+    "longitude": "2.3369444444444"
+  },
+  "id_pss": 10065,
+  "id_wikidata": "Q329948",
+  "WPfr": "Palais-Royal",
+  "image_ref": "Palais-Royal-Pl_1_§1",
+  "terme_jantzen_bat": [
+    "toiture",
+    "balcon",
+    "sculpture",
+    "pilastre",
+    "fenetre",
+    "lucarne",
+    "façade",
+    "fronton",
+    "colonne",
+    "décor"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "ardoise",
+    "attique",
+    "balcon",
+    "balustrade",
+    "colonne",
+    "corniche",
+    "fenêtre",
+    "mascaron",
+    "pierre de taille",
+    "pilastre",
+    "portique",
+    "sculpture",
+    "souche de cheminée",
+    "toit à deux versants",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Palais-Royal-Pl_1_§1",
+      "IndexJantzen": [
+        "colonne",
+        "façade"
+      ],
+      "IndexTorneh": [
+        "colonne",
+        "balustrade",
+        "arc en plein cintre",
+        "fenêtre",
+        "pierre de taille",
+        "balcon",
+        "portique",
+        "pilastre",
+        "corniche",
+        "volet",
+        "souche de cheminée",
+        "toit à deux versants",
+        "ardoise",
+        "attique",
+        "sculpture",
+        "mascaron"
+      ],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§10",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§11",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "lucarne",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§12",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§13",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2006:07:13"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§15",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§16",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§17",
+      "IndexJantzen": [
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§18",
+      "IndexJantzen": [
+        "fronton",
+        "lucarne",
+        "toiture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§2",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§3",
+      "IndexJantzen": [
+        "balcon",
+        "pilastre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§4",
+      "IndexJantzen": [
+        "fenetre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§5",
+      "IndexJantzen": [
+        "fenetre",
+        "pilastre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:30"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§6",
+      "IndexJantzen": [
+        "fenetre",
+        "pilastre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§7",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§8",
+      "IndexJantzen": [
+        "colonne"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:09:18"
+    },
+    {
+      "id_pic": "Palais-Royal-Pl_1_§9",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:09:18"
+    }
+  ]
+}

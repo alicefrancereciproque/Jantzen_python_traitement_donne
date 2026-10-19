@@ -1,0 +1,100 @@
+{
+  "id_bat": 1641,
+  "libelle": "21 rue Octave-Feuillet",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 735,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1908",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "21 rue Octave-Feuillet",
+    "numero": "21",
+    "voie": "rue Octave-Feuillet"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "Octave-Feuillet",
+  "coordonnees": {
+    "latitude": "48.861598",
+    "longitude": "2.271868"
+  },
+  "id_pss": 22551,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Octave-Feuillet-21_16_§1",
+  "terme_jantzen_bat": [
+    "brique",
+    "verrière",
+    "façade",
+    "fenetre"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "baie",
+    "balcon",
+    "brique",
+    "corniche",
+    "fenêtre",
+    "garde-corps",
+    "grille",
+    "meneau",
+    "oriel",
+    "pierre de taille",
+    "porte",
+    "soupirail",
+    "vantail",
+    "verrière"
+  ],
+  "photos": [
+    {
+      "id_pic": "Octave-Feuillet-21_16_§1",
+      "IndexJantzen": [
+        "brique",
+        "façade"
+      ],
+      "IndexTorneh": [
+        "baie",
+        "arc en plein cintre",
+        "fenêtre",
+        "garde-corps",
+        "balcon",
+        "porte",
+        "pierre de taille",
+        "brique",
+        "corniche",
+        "soupirail",
+        "verrière",
+        "meneau",
+        "oriel",
+        "grille",
+        "vantail"
+      ],
+      "dateCapture": "2005:04:30"
+    },
+    {
+      "id_pic": "Octave-Feuillet-21_16_§2",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "verrière"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:04:30"
+    },
+    {
+      "id_pic": "Octave-Feuillet-21_16_§3",
+      "IndexJantzen": [
+        "brique",
+        "fenetre",
+        "verrière"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:05:08"
+    }
+  ]
+}

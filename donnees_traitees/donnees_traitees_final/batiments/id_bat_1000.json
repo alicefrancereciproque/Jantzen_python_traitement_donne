@@ -1,0 +1,74 @@
+{
+  "id_bat": 1000,
+  "libelle": "15 boulevard Lannes",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 735,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1906",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "15 boulevard Lannes",
+    "numero": "15",
+    "voie": "boulevard Lannes"
+  },
+  "arrondissement": 16,
+  "tri_alphab": "Lannes",
+  "coordonnees": {
+    "latitude": "48.86835",
+    "longitude": "2.273328"
+  },
+  "id_pss": 12343,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Lannes-15_16_§1",
+  "terme_jantzen_bat": [
+    "brique",
+    "toiture",
+    "lucarne"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "ardoise",
+    "attique",
+    "balcon",
+    "balustrade",
+    "brique",
+    "chéneau",
+    "fenêtre",
+    "garde-corps",
+    "lucarne",
+    "oculus",
+    "souche de cheminée"
+  ],
+  "photos": [
+    {
+      "id_pic": "Lannes-15_16_§1",
+      "IndexJantzen": [
+        "brique",
+        "lucarne",
+        "toiture"
+      ],
+      "IndexTorneh": [
+        "lucarne",
+        "fenêtre",
+        "arc en plein cintre",
+        "balustrade",
+        "garde-corps",
+        "ardoise",
+        "brique",
+        "souche de cheminée",
+        "oculus",
+        "balcon",
+        "attique",
+        "chéneau"
+      ],
+      "dateCapture": "2006:09:21"
+    }
+  ]
+}

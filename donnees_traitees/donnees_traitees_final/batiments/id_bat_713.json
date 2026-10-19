@@ -1,0 +1,134 @@
+{
+  "id_bat": 713,
+  "libelle": "121 rue de Turenne",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 800,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10086,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1904",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "121 rue de Turenne",
+    "numero": "121",
+    "voie": "rue de Turenne"
+  },
+  "arrondissement": 3,
+  "tri_alphab": "Turenne",
+  "coordonnees": {
+    "latitude": "48.863651",
+    "longitude": "2.364571"
+  },
+  "id_pss": 39395,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Turenne-121_3_.§1",
+  "terme_jantzen_bat": [
+    "porte-fer",
+    "oriel",
+    "sculpture",
+    "clé",
+    "fenetre",
+    "lucarne"
+  ],
+  "terme_torneh_bat": [
+    "attique",
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "corniche",
+    "fenêtre",
+    "fer forgé",
+    "fronton",
+    "garde-corps",
+    "mascaron",
+    "oriel",
+    "pierre de taille",
+    "sculpture",
+    "souche de cheminée",
+    "travée",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Turenne-121_3_.§1",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "IndexTorneh": [
+        "balcon",
+        "balustrade",
+        "garde-corps",
+        "fenêtre",
+        "oriel",
+        "fronton",
+        "sculpture",
+        "mascaron",
+        "corniche",
+        "pierre de taille",
+        "souche de cheminée",
+        "volet",
+        "fer forgé",
+        "travée",
+        "attique",
+        "bandeau"
+      ],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Turenne-121_3_.§2",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Turenne-121_3_.§3",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Turenne-121_3_.§4",
+      "IndexJantzen": [
+        "lucarne",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Turenne-121_3_.§5",
+      "IndexJantzen": [
+        "lucarne",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:08:28"
+    },
+    {
+      "id_pic": "Turenne-121_3_.§6",
+      "IndexJantzen": [
+        "clé",
+        "porte-fer"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2003:07:08"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id_bat": 2104,
+  "libelle": "3 rue Ferdinand-Fabre",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 241,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1911",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "3 rue Ferdinand-Fabre",
+    "numero": "3",
+    "voie": "rue Ferdinand-Fabre"
+  },
+  "arrondissement": 15,
+  "tri_alphab": "Ferdinand-Fabre",
+  "coordonnees": {
+    "latitude": "48.83906",
+    "longitude": "2.29623"
+  },
+  "id_pss": 55436,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Ferdinand-Fabre-3_15_§1",
+  "terme_jantzen_bat": [
+    "brique",
+    "céramique",
+    "façade",
+    "décor"
+  ],
+  "terme_torneh_bat": [
+    "attique",
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "brique",
+    "colonne",
+    "corniche",
+    "céramique",
+    "fenêtre",
+    "fer forgé",
+    "fronton",
+    "garde-corps",
+    "lucarne",
+    "mascaron",
+    "oculus",
+    "pierre de taille",
+    "pilastre",
+    "porte-fenêtre",
+    "sculpture",
+    "travée",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Ferdinand-Fabre-3_15_§1",
+      "IndexJantzen": [
+        "brique",
+        "céramique",
+        "décor",
+        "façade"
+      ],
+      "IndexTorneh": [
+        "fenêtre",
+        "balcon",
+        "garde-corps",
+        "balustrade",
+        "corniche",
+        "fronton",
+        "brique",
+        "pierre de taille",
+        "céramique",
+        "sculpture",
+        "volet",
+        "mascaron",
+        "attique",
+        "bandeau",
+        "travée",
+        "oculus",
+        "colonne",
+        "pilastre",
+        "porte-fenêtre",
+        "lucarne",
+        "fer forgé"
+      ],
+      "dateCapture": "2004:07:13"
+    }
+  ]
+}

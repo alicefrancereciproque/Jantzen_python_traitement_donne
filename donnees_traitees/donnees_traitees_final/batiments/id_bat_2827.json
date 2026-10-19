@@ -1,0 +1,105 @@
+{
+  "id_bat": 2827,
+  "libelle": "5 rue Beaujon",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 377,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "5 rue Beaujon",
+    "numero": "5",
+    "voie": "rue Beaujon"
+  },
+  "arrondissement": 8,
+  "tri_alphab": "Beaujon",
+  "coordonnees": {
+    "latitude": "48.874991",
+    "longitude": "2.299789"
+  },
+  "id_pss": 84550,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Beaujon-5_8_§1",
+  "terme_jantzen_bat": [
+    "dome",
+    "façade-d'angle",
+    "porte-bois"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "avant-corps",
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "chaîne d'angle",
+    "corniche",
+    "dôme",
+    "fenêtre",
+    "fer forgé",
+    "fronton",
+    "garde-corps",
+    "linteau",
+    "mansarde",
+    "mascaron",
+    "oculus",
+    "oriel",
+    "pierre de taille",
+    "sculpture",
+    "souche de cheminée",
+    "toit en pavillon",
+    "travée",
+    "volet",
+    "épi de faîtage"
+  ],
+  "photos": [
+    {
+      "id_pic": "Beaujon-5_8_§1",
+      "IndexJantzen": [
+        "dome",
+        "façade-d'angle"
+      ],
+      "IndexTorneh": [
+        "balcon",
+        "balustrade",
+        "bandeau",
+        "chaîne d'angle",
+        "corniche",
+        "dôme",
+        "fenêtre",
+        "fer forgé",
+        "fronton",
+        "garde-corps",
+        "linteau",
+        "mansarde",
+        "mascaron",
+        "oculus",
+        "pierre de taille",
+        "souche de cheminée",
+        "sculpture",
+        "toit en pavillon",
+        "travée",
+        "volet",
+        "épi de faîtage",
+        "arc en plein cintre",
+        "avant-corps",
+        "oriel"
+      ],
+      "dateCapture": "2004:10:16"
+    },
+    {
+      "id_pic": "Beaujon-5_8_§2",
+      "IndexJantzen": [
+        "porte-bois"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2004:10:16"
+    }
+  ]
+}

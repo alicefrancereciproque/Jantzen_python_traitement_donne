@@ -1,0 +1,90 @@
+{
+  "id_bat": 3772,
+  "libelle": "9 avenue Niel",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "9 avenue Niel",
+    "numero": "9",
+    "voie": "avenue Niel"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Niel",
+  "coordonnees": {
+    "latitude": "48.879646",
+    "longitude": "2.294487"
+  },
+  "id_pss": 28158,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Niel-9_17_§1",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "dome",
+    "porte-fer",
+    "intérieur",
+    "lucarne"
+  ],
+  "terme_torneh_bat": [
+    "ardoise",
+    "balcon",
+    "corniche",
+    "dôme",
+    "fer forgé",
+    "fronton",
+    "garde-corps",
+    "mascaron",
+    "oculus",
+    "pierre de taille",
+    "porte-fenêtre",
+    "souche de cheminée",
+    "tuile"
+  ],
+  "photos": [
+    {
+      "id_pic": "Niel-9_17_§1",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "IndexTorneh": [
+        "dôme",
+        "oculus",
+        "souche de cheminée",
+        "balcon",
+        "garde-corps",
+        "fer forgé",
+        "porte-fenêtre",
+        "mascaron",
+        "ardoise",
+        "pierre de taille",
+        "fronton",
+        "tuile",
+        "corniche"
+      ],
+      "dateCapture": "2008:03:27"
+    },
+    {
+      "id_pic": "Niel-9_17_§2",
+      "IndexJantzen": [
+        "intérieur",
+        "porte-fer"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": null
+    },
+    {
+      "id_pic": "Niel-9_17_§3",
+      "IndexJantzen": [
+        "porte-fer"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": null
+    }
+  ]
+}

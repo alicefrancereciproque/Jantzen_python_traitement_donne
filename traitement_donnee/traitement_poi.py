@@ -4,6 +4,7 @@ import json
 def generer_geojson_leaflet(
     fichier_batiments: str,
     fichier_photos: str,
+    fichier_thesaurus_torneh: str,
     fichier_sortie: str = "map_poi.geojson",
 ):
     """Génère un fichier GeoJSON strictement conforme aux spécifications Leaflet
@@ -17,8 +18,16 @@ def generer_geojson_leaflet(
     with open(fichier_photos, "r", encoding="utf-8") as f:
         photos = json.load(f)
 
-    # 1. Regrouper les termes Jantzen uniques par ID de bâtiment
+    with open(fichier_thesaurus_torneh, "r", encoding="utf-8") as f:
+        thesaurus_torneh = json.load(f)
+
+    # Correspondance TermID -> terme (ex : "224_234" -> "fenêtre")
+    terme_par_id = {t["TermID"]: t["Term_TMS"] for t in thesaurus_torneh}
+
+    # 1. Regrouper les termes Jantzen et Torneh uniques par ID de bâtiment
     termes_par_batiment = {}
+    termes_torneh_par_batiment = {}
+    ids_inconnus = set()
     for photo in photos:
         bat_id = photo.get("batimentID")
         if bat_id is None:
@@ -30,6 +39,19 @@ def generer_geojson_leaflet(
             termes_par_batiment[bat_id] = set()
 
         termes_par_batiment[bat_id].update(index_jantzen)
+
+        termes_torneh = termes_torneh_par_batiment.setdefault(bat_id, set())
+        for terme_id in photo.get("termesIndexIds") or []:
+            if terme_id in terme_par_id:
+                termes_torneh.add(terme_par_id[terme_id])
+            else:
+                ids_inconnus.add(terme_id)
+
+    if ids_inconnus:
+        print(
+            f" ⚠️ {len(ids_inconnus)} ID(s) absent(s) du thésaurus Torneh, ignoré(s) : "
+            f"{sorted(ids_inconnus)}"
+        )
 
     # 2. Construire les "Features" GeoJSON au standard Leaflet
     features = []
@@ -50,6 +72,7 @@ def generer_geojson_leaflet(
 
         # Récupération et tri des termes Jantzen uniques
         termes_jantzen = sorted(list(termes_par_batiment.get(id_bat, set())))
+        termes_torneh = sorted(termes_torneh_par_batiment.get(id_bat, set()))
 
         # ⚠️ STRUCTURE STRATEGIQUE : Standard GeoJSON / Leaflet
         feature = {
@@ -78,6 +101,7 @@ def generer_geojson_leaflet(
                 "role": (bat.get("personnes") or [{}])[0].get("role") or "",
                 "image_ref": bat.get("image_ref"),
                 "terme_jantzen_bat": termes_jantzen,
+                "terme_torneh_bat": termes_torneh,
             },
         }
 
@@ -99,7 +123,8 @@ def generer_geojson_leaflet(
 # Exécution :
 if __name__ == "__main__":
     generer_geojson_leaflet(
-        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_3/batiments.json",
-        fichier_photos="../donnees_brut_client/donnees_brut_jeu_3/photos.json",
-        fichier_sortie="../donnees_traitees/donnees_traitees_jeu_3/map_poi.geojson",  # Destination dans ton projet web
+        fichier_batiments="../donnees_brut_client/donnees_brut_final/batiments.json",
+        fichier_photos="../donnees_brut_client/donnees_brut_final/photos.json",
+        fichier_thesaurus_torneh="../donnees_brut_client/donnees_brut_final/thesaurus_torneh.json",
+        fichier_sortie="../donnees_traitees/donnees_traitees_final/map_poi.geojson",  # Destination dans ton projet web
     )

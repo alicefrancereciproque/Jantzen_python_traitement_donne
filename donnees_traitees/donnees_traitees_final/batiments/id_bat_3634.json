@@ -1,0 +1,69 @@
+{
+  "id_bat": 3634,
+  "libelle": "8 rue du Havre",
+  "ensemble": null,
+  "personnes": null,
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "8 rue du Havre",
+    "numero": "8",
+    "voie": "rue du Havre"
+  },
+  "arrondissement": 9,
+  "tri_alphab": "Havre",
+  "coordonnees": {
+    "latitude": "48.874803",
+    "longitude": "2.326933"
+  },
+  "id_pss": 17869,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Havre-8_8_§1",
+  "terme_jantzen_bat": [
+    "tourelle",
+    "lucarne"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "arcade",
+    "ardoise",
+    "colonne",
+    "corniche",
+    "dôme",
+    "fronton",
+    "lucarne",
+    "mascaron",
+    "sculpture",
+    "souche de cheminée",
+    "toit à deux versants",
+    "épi de faîtage"
+  ],
+  "photos": [
+    {
+      "id_pic": "Havre-8_8_§1",
+      "IndexJantzen": [
+        "lucarne",
+        "tourelle"
+      ],
+      "IndexTorneh": [
+        "dôme",
+        "ardoise",
+        "souche de cheminée",
+        "colonne",
+        "fronton",
+        "sculpture",
+        "mascaron",
+        "corniche",
+        "épi de faîtage",
+        "toit à deux versants",
+        "arcade",
+        "lucarne",
+        "arc en plein cintre"
+      ],
+      "dateCapture": "2005:08:09"
+    }
+  ]
+}

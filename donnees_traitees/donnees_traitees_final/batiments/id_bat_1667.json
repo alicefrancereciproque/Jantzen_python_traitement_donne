@@ -1,0 +1,121 @@
+{
+  "id_bat": 1667,
+  "libelle": "22 avenue de la Grande-Armée",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 390,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1870-1894"
+  ],
+  "adresse": {
+    "affichage": "22 avenue de la Grande-Armée",
+    "numero": "22",
+    "voie": "avenue de la Grande-Armée"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Grande-Armee",
+  "coordonnees": {
+    "latitude": "48.875409",
+    "longitude": "2.291041"
+  },
+  "id_pss": 84532,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Grande-Armee-22_17_§1",
+  "terme_jantzen_bat": [
+    "oeil-de-boeuf",
+    "dome",
+    "fenetre",
+    "lucarne",
+    "porte-bois"
+  ],
+  "terme_torneh_bat": [
+    "ardoise",
+    "balcon",
+    "balustrade",
+    "corniche",
+    "dôme",
+    "fenêtre",
+    "fer forgé",
+    "fronton",
+    "garde-corps",
+    "mascaron",
+    "oculus",
+    "oriel",
+    "pierre de taille",
+    "pilastre",
+    "sculpture",
+    "souche de cheminée",
+    "toit à deux versants",
+    "volet",
+    "épi de faîtage"
+  ],
+  "photos": [
+    {
+      "id_pic": "Grande-Armee-22_17_§1",
+      "IndexJantzen": [
+        "dome",
+        "fenetre",
+        "lucarne"
+      ],
+      "IndexTorneh": [
+        "dôme",
+        "oculus",
+        "balcon",
+        "garde-corps",
+        "fer forgé",
+        "souche de cheminée",
+        "fenêtre",
+        "balustrade",
+        "corniche",
+        "mascaron",
+        "pilastre",
+        "épi de faîtage",
+        "pierre de taille",
+        "ardoise",
+        "oriel",
+        "sculpture",
+        "fronton",
+        "volet",
+        "toit à deux versants"
+      ],
+      "dateCapture": "2007:12:24"
+    },
+    {
+      "id_pic": "Grande-Armee-22_17_§2",
+      "IndexJantzen": [
+        "dome",
+        "fenetre",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2007:12:24"
+    },
+    {
+      "id_pic": "Grande-Armee-22_17_§3",
+      "IndexJantzen": [
+        "dome",
+        "lucarne",
+        "oeil-de-boeuf"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2007:12:24"
+    },
+    {
+      "id_pic": "Grande-Armee-22_17_§4",
+      "IndexJantzen": [
+        "fenetre",
+        "oeil-de-boeuf",
+        "porte-bois"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2004:09:23"
+    }
+  ]
+}

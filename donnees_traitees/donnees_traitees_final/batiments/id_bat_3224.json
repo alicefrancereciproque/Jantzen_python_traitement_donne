@@ -1,0 +1,72 @@
+{
+  "id_bat": 3224,
+  "libelle": "61 rue des Archives",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 97,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10021,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1911",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "61 rue des Archives",
+    "numero": "61",
+    "voie": "rue des Archives"
+  },
+  "arrondissement": 3,
+  "tri_alphab": "Archives",
+  "coordonnees": {
+    "latitude": "48.862047",
+    "longitude": "2.358971"
+  },
+  "id_pss": 84135,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Archives-61_3_§1",
+  "terme_jantzen_bat": [
+    "clé",
+    "porte-fer"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "corniche",
+    "escalier",
+    "fer forgé",
+    "mascaron",
+    "pierre de taille",
+    "portail",
+    "porte",
+    "sculpture",
+    "vantail"
+  ],
+  "photos": [
+    {
+      "id_pic": "Archives-61_3_§1",
+      "IndexJantzen": [
+        "clé",
+        "porte-fer"
+      ],
+      "IndexTorneh": [
+        "portail",
+        "porte",
+        "arc en plein cintre",
+        "sculpture",
+        "mascaron",
+        "fer forgé",
+        "vantail",
+        "pierre de taille",
+        "escalier",
+        "corniche"
+      ],
+      "dateCapture": "2003:08:02"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id_bat": 516,
+  "libelle": "110 rue Réaumur",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 950,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1899",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "110 rue Réaumur",
+    "numero": "110",
+    "voie": "rue Réaumur"
+  },
+  "arrondissement": 2,
+  "tri_alphab": "Reaumur",
+  "coordonnees": {
+    "latitude": "48.867564",
+    "longitude": "2.346871"
+  },
+  "id_pss": 41027,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Reaumur-110_2_§1",
+  "terme_jantzen_bat": [
+    "lucarne-d'angle",
+    "colonne",
+    "dome"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "ardoise",
+    "balcon",
+    "balustrade",
+    "colonne",
+    "dôme",
+    "fenêtre",
+    "garde-corps",
+    "lucarne",
+    "mascaron",
+    "modillon",
+    "oculus",
+    "pierre de taille",
+    "pilastre",
+    "porte-fenêtre",
+    "souche de cheminée",
+    "toit à deux versants",
+    "tour",
+    "épi de faîtage"
+  ],
+  "photos": [
+    {
+      "id_pic": "Reaumur-110_2_§1",
+      "IndexJantzen": [
+        "colonne",
+        "dome",
+        "lucarne-d'angle"
+      ],
+      "IndexTorneh": [
+        "dôme",
+        "oculus",
+        "lucarne",
+        "balcon",
+        "balustrade",
+        "garde-corps",
+        "colonne",
+        "pilastre",
+        "fenêtre",
+        "porte-fenêtre",
+        "ardoise",
+        "pierre de taille",
+        "mascaron",
+        "modillon",
+        "arc en plein cintre",
+        "souche de cheminée",
+        "toit à deux versants",
+        "épi de faîtage",
+        "tour"
+      ],
+      "dateCapture": "2004:04:25"
+    },
+    {
+      "id_pic": "Reaumur-110_2_§2",
+      "IndexJantzen": [
+        "colonne",
+        "dome",
+        "lucarne-d'angle"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2004:04:25"
+    }
+  ]
+}

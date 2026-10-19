@@ -3,10 +3,13 @@ from pathlib import Path
 
 
 def convertir_donnees(
-    fichier_batiments: str, fichier_photos: str, dossier_sortie: str = "batiments"
+    fichier_batiments: str,
+    fichier_photos: str,
+    fichier_thesaurus_torneh: str,
+    dossier_sortie: str = "batiments",
 ):
     """Lit les bâtiments et photos, associe les photos à chaque bâtiment,
-    extrait les termes Jantzen uniques et sauvegarde un fichier JSON par
+    extrait les termes Jantzen et Torneh uniques et sauvegarde un fichier JSON par
     bâtiment.
     """
     # 1. Créer le dossier de sortie s'il n'existe pas
@@ -20,6 +23,13 @@ def convertir_donnees(
 
     with open(fichier_photos, "r", encoding="utf-8") as f:
         photos = json.load(f)
+
+    with open(fichier_thesaurus_torneh, "r", encoding="utf-8") as f:
+        thesaurus_torneh = json.load(f)
+
+    # Correspondance TermID -> terme (ex : "224_234" -> "fenêtre")
+    terme_par_id = {t["TermID"]: t["Term_TMS"] for t in thesaurus_torneh}
+    ids_inconnus = set()
 
     # 3. Indexer les photos :
     # - Par batimentID pour regrouper les photos
@@ -42,10 +52,18 @@ def convertir_donnees(
 
         index_jantzen = photo.get("IndexJantzen") or []
 
+        index_torneh = []
+        for terme_id in photo.get("termesIndexIds") or []:
+            if terme_id in terme_par_id:
+                index_torneh.append(terme_par_id[terme_id])
+            else:
+                ids_inconnus.add(terme_id)
+
         # Format attendu dans le JSON final pour la photo
         photo_formatee = {
             "id_pic": nom_fichier_clean,
             "IndexJantzen": index_jantzen,
+            "IndexTorneh": index_torneh,
             "dateCapture": photo.get("dateCapture"),
         }
 
@@ -53,6 +71,12 @@ def convertir_donnees(
             photos_par_batiment[bat_id] = []
 
         photos_par_batiment[bat_id].append(photo_formatee)
+
+    if ids_inconnus:
+        print(
+            f" ⚠️ {len(ids_inconnus)} ID(s) absent(s) du thésaurus Torneh, ignoré(s) : "
+            f"{sorted(ids_inconnus)}"
+        )
 
     # 4. Traiter chaque bâtiment et générer son JSON
     print("Génération des fichiers bâtiments...")
@@ -69,6 +93,11 @@ def convertir_donnees(
         for p in liste_photos:
             termes_set.update(p.get("IndexJantzen", []))
 
+        # Idem pour les termes Torneh
+        termes_torneh_set = set()
+        for p in liste_photos:
+            termes_torneh_set.update(p.get("IndexTorneh", []))
+
         # Récupérer l'ID de la photo de référence et le remplacer par le nom de fichier
         id_image_ref = bat.get("image_ref")
         image_ref_fichier = fichier_par_id_photo.get(id_image_ref, id_image_ref)
@@ -78,6 +107,7 @@ def convertir_donnees(
         bat_enrichi["image_ref"] = image_ref_fichier
         bat_enrichi["tri_alphab"] =bat.get("tri_alphab", "") 
         bat_enrichi["terme_jantzen_bat"] = list(termes_set)
+        bat_enrichi["terme_torneh_bat"] = sorted(termes_torneh_set)
         bat_enrichi["photos"] = liste_photos
 
         # 5. Écrire le fichier JSON individuel
@@ -95,7 +125,8 @@ def convertir_donnees(
 # Exemple d'appel :
 if __name__ == "__main__":
     convertir_donnees(
-        fichier_batiments="../donnees_brut_client/donnees_brut_jeu_3/batiments.json",
-        fichier_photos="../donnees_brut_client/donnees_brut_jeu_3/photos.json",
-        dossier_sortie="../donnees_traitees/donnees_traitees_jeu_3/batiments",
+        fichier_batiments="../donnees_brut_client/donnees_brut_final/batiments.json",
+        fichier_photos="../donnees_brut_client/donnees_brut_final/photos.json",
+        fichier_thesaurus_torneh="../donnees_brut_client/donnees_brut_final/thesaurus_torneh.json",
+        dossier_sortie="../donnees_traitees/donnees_traitees_final/batiments",
     )

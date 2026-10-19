@@ -1,0 +1,95 @@
+{
+  "id_bat": 3202,
+  "libelle": "60 rue de Tocqueville",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 776,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": null,
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "60 rue de Tocqueville",
+    "numero": "60",
+    "voie": "rue de Tocqueville"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Tocqueville",
+  "coordonnees": {
+    "latitude": "48.884721",
+    "longitude": "2.31127"
+  },
+  "id_pss": 41670,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Tocqueville-60_17_§1",
+  "terme_jantzen_bat": [
+    "oriel",
+    "fenetre"
+  ],
+  "terme_torneh_bat": [
+    "arc brisé",
+    "arc en plein cintre",
+    "auvent",
+    "baie",
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "chambranle",
+    "corniche",
+    "fenêtre",
+    "fer forgé",
+    "garde-corps",
+    "mascaron",
+    "oriel",
+    "pierre de taille",
+    "porte-fenêtre",
+    "sculpture",
+    "travée",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Tocqueville-60_17_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "IndexTorneh": [
+        "balcon",
+        "balustrade",
+        "bandeau",
+        "baie",
+        "fenêtre",
+        "fer forgé",
+        "garde-corps",
+        "oriel",
+        "volet",
+        "mascaron",
+        "corniche",
+        "pierre de taille",
+        "arc en plein cintre",
+        "arc brisé",
+        "porte-fenêtre",
+        "auvent",
+        "sculpture",
+        "travée",
+        "chambranle"
+      ],
+      "dateCapture": "2005:06:20"
+    },
+    {
+      "id_pic": "Tocqueville-60_17_§2",
+      "IndexJantzen": [
+        "fenetre",
+        "oriel"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2005:06:20"
+    }
+  ]
+}

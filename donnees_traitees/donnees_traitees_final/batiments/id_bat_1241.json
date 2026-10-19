@@ -1,0 +1,131 @@
+{
+  "id_bat": 1241,
+  "libelle": "17 rue Margueritte",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 221,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1898",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "17 rue Margueritte",
+    "numero": "17",
+    "voie": "rue Margueritte"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Margueritte",
+  "coordonnees": {
+    "latitude": "48.880466",
+    "longitude": "2.30069"
+  },
+  "id_pss": 104581,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Margueritte-17_17_§1",
+  "terme_jantzen_bat": [
+    "sculpture",
+    "console",
+    "fenetre",
+    "façade",
+    "décor"
+  ],
+  "terme_torneh_bat": [
+    "arc brisé",
+    "arc en plein cintre",
+    "balcon",
+    "balustrade",
+    "bandeau",
+    "chambranle",
+    "corniche",
+    "fenêtre",
+    "fer forgé",
+    "garde-corps",
+    "linteau",
+    "lucarne",
+    "mascaron",
+    "oculus",
+    "pierre de taille",
+    "porche",
+    "porte",
+    "porte-fenêtre",
+    "sculpture",
+    "souche de cheminée",
+    "travée",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Margueritte-17_17_§1",
+      "IndexJantzen": [
+        "façade"
+      ],
+      "IndexTorneh": [
+        "balcon",
+        "balustrade",
+        "garde-corps",
+        "fenêtre",
+        "porte",
+        "porte-fenêtre",
+        "arc en plein cintre",
+        "arc brisé",
+        "mascaron",
+        "sculpture",
+        "corniche",
+        "bandeau",
+        "chambranle",
+        "linteau",
+        "pierre de taille",
+        "fer forgé",
+        "volet",
+        "travée",
+        "lucarne",
+        "souche de cheminée",
+        "oculus",
+        "porche"
+      ],
+      "dateCapture": "2006:06:12"
+    },
+    {
+      "id_pic": "Margueritte-17_17_§2",
+      "IndexJantzen": [
+        "décor",
+        "fenetre",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2006:06:16"
+    },
+    {
+      "id_pic": "Margueritte-17_17_§3",
+      "IndexJantzen": [
+        "fenetre",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2006:06:16"
+    },
+    {
+      "id_pic": "Margueritte-17_17_§4",
+      "IndexJantzen": [
+        "console",
+        "fenetre"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2006:06:12"
+    },
+    {
+      "id_pic": "Margueritte-17_17_§5",
+      "IndexJantzen": [
+        "console",
+        "sculpture"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2006:06:12"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id_bat": 3794,
+  "libelle": "9 rue Chanzy",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 191,
+      "role": "architecte"
+    },
+    {
+      "personneID": 10047,
+      "role": "sculpteur"
+    }
+  ],
+  "dateConstruction": "1902",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "9 rue Chanzy",
+    "numero": "9",
+    "voie": "rue Chanzy"
+  },
+  "arrondissement": 11,
+  "tri_alphab": "Chanzy",
+  "coordonnees": {
+    "latitude": "48.852535",
+    "longitude": "2.382698"
+  },
+  "id_pss": 12219,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Chanzy-9_11_§1",
+  "terme_jantzen_bat": [
+    "fenetre",
+    "lucarne"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "ardoise",
+    "balcon",
+    "balustrade",
+    "brique",
+    "corniche",
+    "fenêtre",
+    "fer forgé",
+    "garde-corps",
+    "lucarne",
+    "mansarde",
+    "modillon",
+    "pierre de taille",
+    "porte-fenêtre",
+    "vantail",
+    "volet"
+  ],
+  "photos": [
+    {
+      "id_pic": "Chanzy-9_11_§1",
+      "IndexJantzen": [
+        "fenetre",
+        "lucarne"
+      ],
+      "IndexTorneh": [
+        "lucarne",
+        "ardoise",
+        "balcon",
+        "balustrade",
+        "garde-corps",
+        "fer forgé",
+        "fenêtre",
+        "porte-fenêtre",
+        "arc en plein cintre",
+        "mansarde",
+        "corniche",
+        "brique",
+        "pierre de taille",
+        "modillon",
+        "volet",
+        "vantail"
+      ],
+      "dateCapture": "2008:07:27"
+    },
+    {
+      "id_pic": "Chanzy-9_11_§2",
+      "IndexJantzen": [
+        "lucarne"
+      ],
+      "IndexTorneh": [],
+      "dateCapture": "2008:07:27"
+    }
+  ]
+}

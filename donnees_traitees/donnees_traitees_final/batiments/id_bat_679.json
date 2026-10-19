@@ -1,0 +1,64 @@
+{
+  "id_bat": 679,
+  "libelle": "12 rue Margueritte",
+  "ensemble": null,
+  "personnes": [
+    {
+      "personneID": 941,
+      "role": "architecte"
+    },
+    {
+      "personneID": 18,
+      "role": "architecte"
+    }
+  ],
+  "dateConstruction": "1907",
+  "periode": [
+    "1895-1914"
+  ],
+  "adresse": {
+    "affichage": "12 rue Margueritte",
+    "numero": "12",
+    "voie": "rue Margueritte"
+  },
+  "arrondissement": 17,
+  "tri_alphab": "Margueritte",
+  "coordonnees": {
+    "latitude": "48.880165",
+    "longitude": "2.301297"
+  },
+  "id_pss": 104582,
+  "id_wikidata": null,
+  "WPfr": null,
+  "image_ref": "Margueritte-12_17_A",
+  "terme_jantzen_bat": [
+    "porte-fer-hall"
+  ],
+  "terme_torneh_bat": [
+    "arc en plein cintre",
+    "balcon",
+    "fer forgé",
+    "garde-corps",
+    "pierre de taille",
+    "porte",
+    "vantail"
+  ],
+  "photos": [
+    {
+      "id_pic": "Margueritte-12_17_A",
+      "IndexJantzen": [
+        "porte-fer-hall"
+      ],
+      "IndexTorneh": [
+        "porte",
+        "arc en plein cintre",
+        "fer forgé",
+        "balcon",
+        "garde-corps",
+        "pierre de taille",
+        "vantail"
+      ],
+      "dateCapture": "2003:08:26"
+    }
+  ]
+}

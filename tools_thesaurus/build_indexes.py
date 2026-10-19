@@ -25,7 +25,7 @@ import pathlib
 import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-DATA = ROOT / 'public' / 'data'
+DATA = ROOT / 'tools_thesaurus'
 
 YEAR_RE = re.compile(r'\b(1[0-9]{3}|20[0-9]{2})\b')
 
@@ -96,5 +96,5 @@ def build_thesaurus_index():
 
 
 if __name__ == '__main__':
-    build_batiments_index()
+    #build_batiments_index()
     build_thesaurus_index()
